@@ -1,0 +1,1801 @@
+property_id,month,noi_monthly,occupancy,revenue,opex,debt_service_monthly,market,asset_type,status,property_name
+PROP-001,2022-01,202245.0,0.967,326201.0,123956.0,188476.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 01
+PROP-001,2022-01,201085.0,0.947,319538.0,121425.0,188476.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 01
+PROP-001,2022-03,209431.0,0.976,329238.0,125111.0,188476.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 01
+PROP-001,2022-04,202797.0,0.941,317564.0,120674.0,188476.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 01
+PROP-001,2022-05,206584.0,0.963,324762.0,123410.0,188476.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 01
+PROP-001,2022-05,206476.0,0.973,328103.0,124679.0,188476.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 01
+PROP-001,2022-06,196892.0,0.942,317567.0,120675.0,188476.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 01
+PROP-001,2022-07,201311.0,0.977,329640.0,125263.0,188476.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 01
+PROP-001,2022-08,193062.0,0.948,319697.0,121485.0,188476.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 01
+PROP-001,2022-09,196110.0,0.967,326090.0,123914.0,188476.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 01
+PROP-001,2022-10,192051.0,0.943,318022.0,120848.0,188476.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 01
+PROP-001,2022-11,198154.0,0.962,324470.0,123299.0,188476.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 01
+PROP-001,2022-12,199135.0,0.952,321186.0,122051.0,188476.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 01
+PROP-001,2023-01,203544.0,0.959,323445.0,122909.0,188476.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 01
+PROP-001,2023-02,211165.0,0.984,331964.0,126146.0,188476.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 01
+PROP-001,2023-03,207207.0,0.962,324470.0,123299.0,188476.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 01
+PROP-001,2023-04,211050.0,0.984,331783.0,126077.0,188476.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 01
+PROP-001,2023-05,209777.0,0.988,333350.0,126673.0,188476.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 01
+PROP-001,2023-06,199629.0,0.955,321983.0,122353.0,188476.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 01
+PROP-001,2023-07,194594.0,0.945,318642.0,121084.0,188476.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 01
+PROP-001,2023-08,191685.0,0.941,317416.0,120618.0,188476.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 01
+PROP-001,2023-09,197027.0,0.971,327614.0,124493.0,188476.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 01
+PROP-001,2023-10,203297.0,0.99,336644.0,127925.0,188476.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 01
+PROP-001,2023-11,197805.0,0.96,323898.0,123081.0,188476.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 01
+PROP-001,2023-12,204467.0,0.978,329785.0,125318.0,188476.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 01
+PROP-001,2024-01,209152.0,0.985,332356.0,126295.0,188476.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 01
+PROP-001,2024-02,209799.0,0.978,329817.0,125330.0,188476.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 01
+PROP-001,2024-03,211904.0,0.984,331826.0,126094.0,188476.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 01
+PROP-001,2024-04,213515.0,0.99,335658.0,127550.0,188476.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 01
+PROP-001,2024-05,201971.0,0.952,320945.0,121959.0,188476.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 01
+PROP-001,2024-06,196810.0,0.941,317435.0,120625.0,188476.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 01
+PROP-001,2024-07,195439.0,0.949,320024.0,121609.0,188476.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 01
+PROP-001,2024-08,192950.0,0.947,319511.0,121414.0,188476.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 01
+PROP-001,2024-09,198561.0,0.979,330164.0,125462.0,188476.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 01
+PROP-001,2024-10,198134.0,0.973,328095.0,124676.0,188476.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 01
+PROP-001,2024-11,196224.0,0.953,321310.0,122098.0,188476.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 01
+PROP-002,2022-01,215355.0,0.956,347346.0,131991.0,143285.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 02
+PROP-002,2022-01,219459.0,0.96,348735.0,132519.0,143285.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 02
+PROP-002,2022-03,213985.0,0.926,336397.0,127831.0,143285.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 02
+PROP-002,2022-04,220602.0,0.951,345447.0,131270.0,143285.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 02
+PROP-002,2022-05,221584.0,0.959,348344.0,132371.0,143285.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 02
+PROP-002,2022-05,211004.0,0.923,335300.0,127414.0,143285.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 02
+PROP-002,2022-06,216885.0,0.963,349814.0,132929.0,143285.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 02
+PROP-002,2022-07,215460.0,0.971,352809.0,134067.0,143285.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 02
+PROP-002,2022-08,202405.0,0.923,335167.0,127364.0,143285.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 02
+PROP-002,2022-09,200549.0,0.918,333470.0,126719.0,143285.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 02
+PROP-002,2022-10,204940.0,0.934,339366.0,128959.0,143285.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 02
+PROP-002,2022-11,211846.0,0.955,346891.0,131818.0,143285.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 02
+PROP-002,2022-12,218658.0,0.971,352674.0,134016.0,143285.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 02
+PROP-002,2023-01,214660.0,0.939,341110.0,129622.0,143285.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 02
+PROP-002,2023-02,221153.0,0.957,347666.0,132113.0,143285.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 02
+PROP-002,2023-03,213616.0,0.921,334506.0,127112.0,143285.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 02
+PROP-002,2023-04,220834.0,0.956,347164.0,131922.0,143285.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 02
+PROP-002,2023-05,217649.0,0.952,345859.0,131426.0,143285.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 02
+PROP-002,2023-06,207725.0,0.922,335040.0,127315.0,143285.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 02
+PROP-002,2023-07,213043.0,0.96,348850.0,132563.0,143285.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 02
+PROP-002,2023-08,211635.0,0.965,350452.0,133172.0,143285.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 02
+PROP-002,2023-09,207667.0,0.951,345306.0,131216.0,143285.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 02
+PROP-002,2023-10,202566.0,0.924,335434.0,127465.0,143285.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 02
+PROP-002,2023-11,215701.0,0.972,353203.0,134217.0,143285.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 02
+PROP-002,2023-12,216416.0,0.961,349059.0,132642.0,143285.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 02
+PROP-002,2024-01,214020.0,0.936,340091.0,129235.0,143285.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 02
+PROP-002,2024-02,217398.0,0.941,341763.0,129870.0,143285.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 02
+PROP-002,2024-03,217490.0,0.938,340573.0,129418.0,143285.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 02
+PROP-002,2024-04,218415.0,0.945,343361.0,130477.0,143285.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 02
+PROP-002,2024-05,213942.0,0.936,339968.0,129188.0,143285.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 02
+PROP-002,2024-06,217271.0,0.965,350437.0,133166.0,143285.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 02
+PROP-002,2024-07,213669.0,0.963,349876.0,132953.0,143285.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 02
+PROP-002,2024-08,202373.0,0.923,335115.0,127344.0,143285.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 02
+PROP-002,2024-09,212130.0,0.971,352728.0,134037.0,143285.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 02
+PROP-002,2024-10,208965.0,0.953,346030.0,131492.0,143285.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 02
+PROP-002,2024-11,213750.0,0.964,350008.0,133003.0,143285.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 02
+PROP-003,2022-01,171322.0,0.988,276326.0,105004.0,111119.0,Denver,Office,Value-Add,Denver Office 03
+PROP-003,2022-01,171091.0,0.972,271875.0,103312.0,111119.0,Denver,Office,Value-Add,Denver Office 03
+PROP-003,2022-03,176049.0,0.99,276760.0,105169.0,111119.0,Denver,Office,Value-Add,Denver Office 03
+PROP-003,2022-04,179162.0,0.99,280554.0,106610.0,111119.0,Denver,Office,Value-Add,Denver Office 03
+PROP-003,2022-05,171219.0,0.963,269166.0,102283.0,111119.0,Denver,Office,Value-Add,Denver Office 03
+PROP-003,2022-05,174932.0,0.99,277978.0,105632.0,111119.0,Denver,Office,Value-Add,Denver Office 03
+PROP-003,2022-06,169605.0,0.978,273556.0,103951.0,111119.0,Denver,Office,Value-Add,Denver Office 03
+PROP-003,2022-07,166514.0,0.975,272661.0,103611.0,111119.0,Denver,Office,Value-Add,Denver Office 03
+PROP-003,2022-08,164184.0,0.972,271876.0,103313.0,111119.0,Denver,Office,Value-Add,Denver Office 03
+PROP-003,2022-09,166416.0,0.99,276715.0,105152.0,111119.0,Denver,Office,Value-Add,Denver Office 03
+PROP-003,2022-10,162531.0,0.962,269139.0,102273.0,111119.0,Denver,Office,Value-Add,Denver Office 03
+PROP-003,2022-11,170197.0,0.99,278691.0,105903.0,111119.0,Denver,Office,Value-Add,Denver Office 03
+PROP-003,2022-12,172575.0,0.99,278347.0,105772.0,111119.0,Denver,Office,Value-Add,Denver Office 03
+PROP-003,2023-01,167496.0,0.952,266163.0,101142.0,111119.0,Denver,Office,Value-Add,Denver Office 03
+PROP-003,2023-02,177589.0,0.99,279181.0,106089.0,111119.0,Denver,Office,Value-Add,Denver Office 03
+PROP-003,2023-03,171615.0,0.961,268737.0,102120.0,111119.0,Denver,Office,Value-Add,Denver Office 03
+PROP-003,2023-04,173246.0,0.974,272353.0,103494.0,111119.0,Denver,Office,Value-Add,Denver Office 03
+PROP-003,2023-05,172893.0,0.982,274738.0,104400.0,111119.0,Denver,Office,Value-Add,Denver Office 03
+PROP-003,2023-06,167989.0,0.969,270950.0,102961.0,111119.0,Denver,Office,Value-Add,Denver Office 03
+PROP-003,2023-07,161966.0,0.948,265213.0,100781.0,111119.0,Denver,Office,Value-Add,Denver Office 03
+PROP-003,2023-08,168292.0,0.99,278678.0,105898.0,111119.0,Denver,Office,Value-Add,Denver Office 03
+PROP-003,2023-09,161008.0,0.957,267721.0,101734.0,111119.0,Denver,Office,Value-Add,Denver Office 03
+PROP-003,2023-10,161974.0,0.959,268217.0,101922.0,111119.0,Denver,Office,Value-Add,Denver Office 03
+PROP-003,2023-11,169658.0,0.99,277809.0,105567.0,111119.0,Denver,Office,Value-Add,Denver Office 03
+PROP-003,2023-12,167596.0,0.967,270317.0,102720.0,111119.0,Denver,Office,Value-Add,Denver Office 03
+PROP-003,2024-01,175675.0,0.99,279159.0,106081.0,111119.0,Denver,Office,Value-Add,Denver Office 03
+PROP-003,2024-02,175710.0,0.988,276226.0,104966.0,111119.0,Denver,Office,Value-Add,Denver Office 03
+PROP-003,2024-03,171954.0,0.963,269268.0,102322.0,111119.0,Denver,Office,Value-Add,Denver Office 03
+PROP-003,2024-04,168511.0,0.947,264910.0,100666.0,111119.0,Denver,Office,Value-Add,Denver Office 03
+PROP-003,2024-05,176373.0,0.99,280269.0,106502.0,111119.0,Denver,Office,Value-Add,Denver Office 03
+PROP-003,2024-06,165010.0,0.952,266145.0,101135.0,111119.0,Denver,Office,Value-Add,Denver Office 03
+PROP-003,2024-07,168880.0,0.989,276535.0,105083.0,111119.0,Denver,Office,Value-Add,Denver Office 03
+PROP-003,2024-08,164708.0,0.975,272744.0,103643.0,111119.0,Denver,Office,Value-Add,Denver Office 03
+PROP-003,2024-09,166683.0,0.99,277159.0,105320.0,111119.0,Denver,Office,Value-Add,Denver Office 03
+PROP-003,2024-10,166706.0,0.987,276053.0,104900.0,111119.0,Denver,Office,Value-Add,Denver Office 03
+PROP-003,2024-11,168138.0,0.985,275321.0,104622.0,111119.0,Denver,Office,Value-Add,Denver Office 03
+PROP-004,2022-01,257616.0,0.976,415509.0,157893.0,193206.0,Dallas-Fort Worth,Office,Value-Add,Dallas Office 04
+PROP-004,2022-01,266222.0,0.99,423045.0,160757.0,193206.0,Dallas-Fort Worth,Office,Value-Add,Dallas Office 04
+PROP-004,2022-03,257997.0,0.953,405587.0,154123.0,193206.0,Dallas-Fort Worth,Office,Value-Add,Dallas Office 04
+PROP-004,2022-04,261056.0,0.961,408793.0,155342.0,193206.0,Dallas-Fort Worth,Office,Value-Add,Dallas Office 04
+PROP-004,2022-05,267497.0,0.988,420522.0,159798.0,193206.0,Dallas-Fort Worth,Office,Value-Add,Dallas Office 04
+PROP-004,2022-05,258582.0,0.966,410904.0,156144.0,193206.0,Dallas-Fort Worth,Office,Value-Add,Dallas Office 04
+PROP-004,2022-06,259019.0,0.982,417772.0,158754.0,193206.0,Dallas-Fort Worth,Office,Value-Add,Dallas Office 04
+PROP-004,2022-07,253484.0,0.975,415071.0,157727.0,193206.0,Dallas-Fort Worth,Office,Value-Add,Dallas Office 04
+PROP-004,2022-08,251527.0,0.979,416509.0,158274.0,193206.0,Dallas-Fort Worth,Office,Value-Add,Dallas Office 04
+PROP-004,2022-09,248907.0,0.973,413880.0,157274.0,193206.0,Dallas-Fort Worth,Office,Value-Add,Dallas Office 04
+PROP-004,2022-10,254766.0,0.99,421873.0,160312.0,193206.0,Dallas-Fort Worth,Office,Value-Add,Dallas Office 04
+PROP-004,2022-11,251314.0,0.967,411517.0,156377.0,193206.0,Dallas-Fort Worth,Office,Value-Add,Dallas Office 04
+PROP-004,2022-12,260895.0,0.989,420798.0,159903.0,193206.0,Dallas-Fort Worth,Office,Value-Add,Dallas Office 04
+PROP-004,2023-01,258028.0,0.964,410024.0,155809.0,193206.0,Dallas-Fort Worth,Office,Value-Add,Dallas Office 04
+PROP-004,2023-02,260510.0,0.962,409537.0,155624.0,193206.0,Dallas-Fort Worth,Office,Value-Add,Dallas Office 04
+PROP-004,2023-03,259448.0,0.955,406276.0,154385.0,193206.0,Dallas-Fort Worth,Office,Value-Add,Dallas Office 04
+PROP-004,2023-04,259576.0,0.959,408070.0,155067.0,193206.0,Dallas-Fort Worth,Office,Value-Add,Dallas Office 04
+PROP-004,2023-05,255652.0,0.955,406248.0,154374.0,193206.0,Dallas-Fort Worth,Office,Value-Add,Dallas Office 04
+PROP-004,2023-06,258312.0,0.979,416633.0,158320.0,193206.0,Dallas-Fort Worth,Office,Value-Add,Dallas Office 04
+PROP-004,2023-07,257885.0,0.99,422278.0,160466.0,193206.0,Dallas-Fort Worth,Office,Value-Add,Dallas Office 04
+PROP-004,2023-08,246318.0,0.959,407884.0,154996.0,193206.0,Dallas-Fort Worth,Office,Value-Add,Dallas Office 04
+PROP-004,2023-09,245770.0,0.96,408663.0,155292.0,193206.0,Dallas-Fort Worth,Office,Value-Add,Dallas Office 04
+PROP-004,2023-10,250823.0,0.976,415344.0,157831.0,193206.0,Dallas-Fort Worth,Office,Value-Add,Dallas Office 04
+PROP-004,2023-11,257312.0,0.99,421340.0,160109.0,193206.0,Dallas-Fort Worth,Office,Value-Add,Dallas Office 04
+PROP-004,2023-12,265129.0,0.99,427627.0,162498.0,193206.0,Dallas-Fort Worth,Office,Value-Add,Dallas Office 04
+PROP-004,2024-01,262011.0,0.978,416353.0,158214.0,193206.0,Dallas-Fort Worth,Office,Value-Add,Dallas Office 04
+PROP-004,2024-02,261011.0,0.964,410325.0,155924.0,193206.0,Dallas-Fort Worth,Office,Value-Add,Dallas Office 04
+PROP-004,2024-03,259127.0,0.954,405773.0,154194.0,193206.0,Dallas-Fort Worth,Office,Value-Add,Dallas Office 04
+PROP-004,2024-04,259601.0,0.959,408108.0,155081.0,193206.0,Dallas-Fort Worth,Office,Value-Add,Dallas Office 04
+PROP-004,2024-05,257346.0,0.961,408940.0,155397.0,193206.0,Dallas-Fort Worth,Office,Value-Add,Dallas Office 04
+PROP-004,2024-06,252800.0,0.958,407742.0,154942.0,193206.0,Dallas-Fort Worth,Office,Value-Add,Dallas Office 04
+PROP-004,2024-07,246490.0,0.949,403619.0,153375.0,193206.0,Dallas-Fort Worth,Office,Value-Add,Dallas Office 04
+PROP-004,2024-08,251575.0,0.979,416590.0,158304.0,193206.0,Dallas-Fort Worth,Office,Value-Add,Dallas Office 04
+PROP-004,2024-09,246639.0,0.964,410108.0,155841.0,193206.0,Dallas-Fort Worth,Office,Value-Add,Dallas Office 04
+PROP-004,2024-10,258205.0,0.99,427569.0,162476.0,193206.0,Dallas-Fort Worth,Office,Value-Add,Dallas Office 04
+PROP-004,2024-11,254704.0,0.98,417069.0,158486.0,193206.0,Dallas-Fort Worth,Office,Value-Add,Dallas Office 04
+PROP-005,2022-01,196987.0,0.92,317721.0,120734.0,124917.0,Denver,Office,Stabilized,Denver Office 05
+PROP-005,2022-01,193170.0,0.889,306960.0,116645.0,124917.0,Denver,Office,Stabilized,Denver Office 05
+PROP-005,2022-03,204155.0,0.929,320943.0,121958.0,124917.0,Denver,Office,Stabilized,Denver Office 05
+PROP-005,2022-04,200412.0,0.909,313829.0,119255.0,124917.0,Denver,Office,Stabilized,Denver Office 05
+PROP-005,2022-05,204206.0,0.929,321023.0,121989.0,124917.0,Denver,Office,Stabilized,Denver Office 05
+PROP-005,2022-05,198479.0,0.913,315397.0,119851.0,124917.0,Denver,Office,Stabilized,Denver Office 05
+PROP-005,2022-06,194323.0,0.907,313425.0,119101.0,124917.0,Denver,Office,Stabilized,Denver Office 05
+PROP-005,2022-07,191076.0,0.906,312880.0,118894.0,124917.0,Denver,Office,Stabilized,Denver Office 05
+PROP-005,2022-08,186032.0,0.892,308055.0,117061.0,124917.0,Denver,Office,Stabilized,Denver Office 05
+PROP-005,2022-09,183757.0,0.885,305549.0,116109.0,124917.0,Denver,Office,Stabilized,Denver Office 05
+PROP-005,2022-10,194641.0,0.933,322311.0,122478.0,124917.0,Denver,Office,Stabilized,Denver Office 05
+PROP-005,2022-11,191504.0,0.908,313582.0,119161.0,124917.0,Denver,Office,Stabilized,Denver Office 05
+PROP-005,2022-12,198443.0,0.927,320070.0,121627.0,124917.0,Denver,Office,Stabilized,Denver Office 05
+PROP-005,2023-01,196424.0,0.904,312131.0,118610.0,124917.0,Denver,Office,Stabilized,Denver Office 05
+PROP-005,2023-02,194634.0,0.886,305977.0,116271.0,124917.0,Denver,Office,Stabilized,Denver Office 05
+PROP-005,2023-03,202079.0,0.916,316440.0,120247.0,124917.0,Denver,Office,Stabilized,Denver Office 05
+PROP-005,2023-04,194389.0,0.885,305591.0,116125.0,124917.0,Denver,Office,Stabilized,Denver Office 05
+PROP-005,2023-05,193442.0,0.89,307392.0,116809.0,124917.0,Denver,Office,Stabilized,Denver Office 05
+PROP-005,2023-06,195415.0,0.912,315185.0,119770.0,124917.0,Denver,Office,Stabilized,Denver Office 05
+PROP-005,2023-07,189504.0,0.898,310306.0,117916.0,124917.0,Denver,Office,Stabilized,Denver Office 05
+PROP-005,2023-08,195242.0,0.936,323307.0,122857.0,124917.0,Denver,Office,Stabilized,Denver Office 05
+PROP-005,2023-09,184517.0,0.888,306813.0,116589.0,124917.0,Denver,Office,Stabilized,Denver Office 05
+PROP-005,2023-10,192632.0,0.923,318983.0,121214.0,124917.0,Denver,Office,Stabilized,Denver Office 05
+PROP-005,2023-11,192984.0,0.915,316004.0,120082.0,124917.0,Denver,Office,Stabilized,Denver Office 05
+PROP-005,2023-12,198077.0,0.925,319479.0,121402.0,124917.0,Denver,Office,Stabilized,Denver Office 05
+PROP-005,2024-01,194349.0,0.894,308833.0,117357.0,124917.0,Denver,Office,Stabilized,Denver Office 05
+PROP-005,2024-02,200009.0,0.91,314427.0,119482.0,124917.0,Denver,Office,Stabilized,Denver Office 05
+PROP-005,2024-03,199926.0,0.906,313069.0,118966.0,124917.0,Denver,Office,Stabilized,Denver Office 05
+PROP-005,2024-04,199052.0,0.906,312922.0,118910.0,124917.0,Denver,Office,Stabilized,Denver Office 05
+PROP-005,2024-05,201871.0,0.929,320787.0,121899.0,124917.0,Denver,Office,Stabilized,Denver Office 05
+PROP-005,2024-06,200405.0,0.936,323234.0,122829.0,124917.0,Denver,Office,Stabilized,Denver Office 05
+PROP-005,2024-07,189521.0,0.898,310335.0,117927.0,124917.0,Denver,Office,Stabilized,Denver Office 05
+PROP-005,2024-08,191000.0,0.916,316282.0,120187.0,124917.0,Denver,Office,Stabilized,Denver Office 05
+PROP-005,2024-09,190083.0,0.915,316067.0,120105.0,124917.0,Denver,Office,Stabilized,Denver Office 05
+PROP-005,2024-10,192354.0,0.922,318525.0,121039.0,124917.0,Denver,Office,Stabilized,Denver Office 05
+PROP-005,2024-11,196910.0,0.933,322434.0,122525.0,124917.0,Denver,Office,Stabilized,Denver Office 05
+PROP-006,2022-01,271912.0,0.933,438568.0,166656.0,248503.0,Phoenix,Office,Development,Phoenix Office 06
+PROP-006,2022-01,276045.0,0.934,438654.0,166689.0,248503.0,Phoenix,Office,Development,Phoenix Office 06
+PROP-006,2022-03,286688.0,0.959,450691.0,171263.0,248503.0,Phoenix,Office,Development,Phoenix Office 06
+PROP-006,2022-04,279202.0,0.93,437209.0,166139.0,248503.0,Phoenix,Office,Development,Phoenix Office 06
+PROP-006,2022-05,278398.0,0.931,437658.0,166310.0,248503.0,Phoenix,Office,Development,Phoenix Office 06
+PROP-006,2022-05,273754.0,0.926,435013.0,165305.0,248503.0,Phoenix,Office,Development,Phoenix Office 06
+PROP-006,2022-06,268506.0,0.922,433074.0,164568.0,248503.0,Phoenix,Office,Development,Phoenix Office 06
+PROP-006,2022-07,271803.0,0.947,445069.0,169126.0,248503.0,Phoenix,Office,Development,Phoenix Office 06
+PROP-006,2022-08,271091.0,0.955,448907.0,170585.0,248503.0,Phoenix,Office,Development,Phoenix Office 06
+PROP-006,2022-09,265099.0,0.938,440803.0,167505.0,248503.0,Phoenix,Office,Development,Phoenix Office 06
+PROP-006,2022-10,265231.0,0.935,439202.0,166897.0,248503.0,Phoenix,Office,Development,Phoenix Office 06
+PROP-006,2022-11,275998.0,0.962,451937.0,171736.0,248503.0,Phoenix,Office,Development,Phoenix Office 06
+PROP-006,2022-12,280135.0,0.962,451831.0,171696.0,248503.0,Phoenix,Office,Development,Phoenix Office 06
+PROP-006,2023-01,280141.0,0.947,445163.0,169162.0,248503.0,Phoenix,Office,Development,Phoenix Office 06
+PROP-006,2023-02,287147.0,0.961,451413.0,171537.0,248503.0,Phoenix,Office,Development,Phoenix Office 06
+PROP-006,2023-03,292318.0,0.974,457748.0,173944.0,248503.0,Phoenix,Office,Development,Phoenix Office 06
+PROP-006,2023-04,288859.0,0.966,454103.0,172559.0,248503.0,Phoenix,Office,Development,Phoenix Office 06
+PROP-006,2023-05,283024.0,0.957,449744.0,170903.0,248503.0,Phoenix,Office,Development,Phoenix Office 06
+PROP-006,2023-06,279441.0,0.959,450711.0,171270.0,248503.0,Phoenix,Office,Development,Phoenix Office 06
+PROP-006,2023-07,279706.0,0.975,458009.0,174044.0,248503.0,Phoenix,Office,Development,Phoenix Office 06
+PROP-006,2023-08,268363.0,0.946,444389.0,168868.0,248503.0,Phoenix,Office,Development,Phoenix Office 06
+PROP-006,2023-09,269179.0,0.953,447588.0,170083.0,248503.0,Phoenix,Office,Development,Phoenix Office 06
+PROP-006,2023-10,271962.0,0.958,450348.0,171132.0,248503.0,Phoenix,Office,Development,Phoenix Office 06
+PROP-006,2023-11,279293.0,0.973,457333.0,173787.0,248503.0,Phoenix,Office,Development,Phoenix Office 06
+PROP-006,2023-12,282188.0,0.969,455143.0,172954.0,248503.0,Phoenix,Office,Development,Phoenix Office 06
+PROP-006,2024-01,273692.0,0.926,434915.0,165268.0,248503.0,Phoenix,Office,Development,Phoenix Office 06
+PROP-006,2024-02,278263.0,0.931,437446.0,166230.0,248503.0,Phoenix,Office,Development,Phoenix Office 06
+PROP-006,2024-03,281777.0,0.939,441241.0,167672.0,248503.0,Phoenix,Office,Development,Phoenix Office 06
+PROP-006,2024-04,288197.0,0.964,453062.0,172164.0,248503.0,Phoenix,Office,Development,Phoenix Office 06
+PROP-006,2024-05,282082.0,0.954,448248.0,170334.0,248503.0,Phoenix,Office,Development,Phoenix Office 06
+PROP-006,2024-06,273254.0,0.938,440732.0,167478.0,248503.0,Phoenix,Office,Development,Phoenix Office 06
+PROP-006,2024-07,266469.0,0.929,436333.0,165807.0,248503.0,Phoenix,Office,Development,Phoenix Office 06
+PROP-006,2024-08,272626.0,0.961,451448.0,171550.0,248503.0,Phoenix,Office,Development,Phoenix Office 06
+PROP-006,2024-09,271679.0,0.961,451744.0,171663.0,248503.0,Phoenix,Office,Development,Phoenix Office 06
+PROP-006,2024-10,276734.0,0.975,458251.0,174135.0,248503.0,Phoenix,Office,Development,Phoenix Office 06
+PROP-006,2024-11,272621.0,0.95,446407.0,169635.0,248503.0,Phoenix,Office,Development,Phoenix Office 06
+PROP-007,2022-01,365258.0,0.936,589125.0,223868.0,331302.0,Austin,Industrial,Development,Austin Industrial 07
+PROP-007,2022-01,361538.0,0.912,574509.0,218313.0,331302.0,Austin,Industrial,Development,Austin Industrial 07
+PROP-007,2022-03,364537.0,0.91,573074.0,217768.0,331302.0,Austin,Industrial,Development,Austin Industrial 07
+PROP-007,2022-04,374821.0,0.932,586941.0,223038.0,331302.0,Austin,Industrial,Development,Austin Industrial 07
+PROP-007,2022-05,370890.0,0.926,583062.0,221563.0,331302.0,Austin,Industrial,Development,Austin Industrial 07
+PROP-007,2022-05,365320.0,0.922,580517.0,220597.0,331302.0,Austin,Industrial,Development,Austin Industrial 07
+PROP-007,2022-06,356434.0,0.913,574894.0,218460.0,331302.0,Austin,Industrial,Development,Austin Industrial 07
+PROP-007,2022-07,369888.0,0.962,605678.0,230158.0,331302.0,Austin,Industrial,Development,Austin Industrial 07
+PROP-007,2022-08,363075.0,0.955,601224.0,228465.0,331302.0,Austin,Industrial,Development,Austin Industrial 07
+PROP-007,2022-09,356031.0,0.94,592004.0,224961.0,331302.0,Austin,Industrial,Development,Austin Industrial 07
+PROP-007,2022-10,365527.0,0.961,605285.0,230008.0,331302.0,Austin,Industrial,Development,Austin Industrial 07
+PROP-007,2022-11,370701.0,0.964,607010.0,230664.0,331302.0,Austin,Industrial,Development,Austin Industrial 07
+PROP-007,2022-12,369171.0,0.946,595437.0,226266.0,331302.0,Austin,Industrial,Development,Austin Industrial 07
+PROP-007,2023-01,365746.0,0.923,581194.0,220854.0,331302.0,Austin,Industrial,Development,Austin Industrial 07
+PROP-007,2023-02,364545.0,0.91,573087.0,217773.0,331302.0,Austin,Industrial,Development,Austin Industrial 07
+PROP-007,2023-03,382142.0,0.95,598406.0,227394.0,331302.0,Austin,Industrial,Development,Austin Industrial 07
+PROP-007,2023-04,374223.0,0.934,588302.0,223555.0,331302.0,Austin,Industrial,Development,Austin Industrial 07
+PROP-007,2023-05,374246.0,0.945,594702.0,225987.0,331302.0,Austin,Industrial,Development,Austin Industrial 07
+PROP-007,2023-06,374515.0,0.959,604057.0,229542.0,331302.0,Austin,Industrial,Development,Austin Industrial 07
+PROP-007,2023-07,353035.0,0.918,578082.0,219671.0,331302.0,Austin,Industrial,Development,Austin Industrial 07
+PROP-007,2023-08,357723.0,0.941,592362.0,225098.0,331302.0,Austin,Industrial,Development,Austin Industrial 07
+PROP-007,2023-09,357298.0,0.944,594111.0,225762.0,331302.0,Austin,Industrial,Development,Austin Industrial 07
+PROP-007,2023-10,355724.0,0.936,589052.0,223840.0,331302.0,Austin,Industrial,Development,Austin Industrial 07
+PROP-007,2023-11,351086.0,0.913,574891.0,218458.0,331302.0,Austin,Industrial,Development,Austin Industrial 07
+PROP-007,2023-12,362060.0,0.927,583968.0,221908.0,331302.0,Austin,Industrial,Development,Austin Industrial 07
+PROP-007,2024-01,367165.0,0.927,583450.0,221711.0,331302.0,Austin,Industrial,Development,Austin Industrial 07
+PROP-007,2024-02,378714.0,0.946,595361.0,226237.0,331302.0,Austin,Industrial,Development,Austin Industrial 07
+PROP-007,2024-03,384434.0,0.956,601994.0,228758.0,331302.0,Austin,Industrial,Development,Austin Industrial 07
+PROP-007,2024-04,371059.0,0.926,583326.0,221664.0,331302.0,Austin,Industrial,Development,Austin Industrial 07
+PROP-007,2024-05,375184.0,0.947,596193.0,226553.0,331302.0,Austin,Industrial,Development,Austin Industrial 07
+PROP-007,2024-06,360751.0,0.924,581856.0,221105.0,331302.0,Austin,Industrial,Development,Austin Industrial 07
+PROP-007,2024-07,369527.0,0.961,605087.0,229933.0,331302.0,Austin,Industrial,Development,Austin Industrial 07
+PROP-007,2024-08,362596.0,0.954,600433.0,228164.0,331302.0,Austin,Industrial,Development,Austin Industrial 07
+PROP-007,2024-09,355497.0,0.939,591116.0,224624.0,331302.0,Austin,Industrial,Development,Austin Industrial 07
+PROP-007,2024-10,354936.0,0.933,587747.0,223344.0,331302.0,Austin,Industrial,Development,Austin Industrial 07
+PROP-007,2024-11,355907.0,0.926,582786.0,221459.0,331302.0,Austin,Industrial,Development,Austin Industrial 07
+PROP-008,2022-01,261480.0,0.927,421741.0,160262.0,223320.0,Dallas-Fort Worth,Industrial,Development,Dallas Industrial 08
+PROP-008,2022-01,275814.0,0.963,438286.0,166549.0,223320.0,Dallas-Fort Worth,Industrial,Development,Dallas Industrial 08
+PROP-008,2022-03,269589.0,0.932,423810.0,161048.0,223320.0,Dallas-Fort Worth,Industrial,Development,Dallas Industrial 08
+PROP-008,2022-04,272449.0,0.938,426634.0,162121.0,223320.0,Dallas-Fort Worth,Industrial,Development,Dallas Industrial 08
+PROP-008,2022-05,279089.0,0.964,438745.0,166723.0,223320.0,Dallas-Fort Worth,Industrial,Development,Dallas Industrial 08
+PROP-008,2022-05,270784.0,0.946,430293.0,163511.0,223320.0,Dallas-Fort Worth,Industrial,Development,Dallas Industrial 08
+PROP-008,2022-06,264957.0,0.939,427350.0,162393.0,223320.0,Dallas-Fort Worth,Industrial,Development,Dallas Industrial 08
+PROP-008,2022-07,258963.0,0.932,424042.0,161136.0,223320.0,Dallas-Fort Worth,Industrial,Development,Dallas Industrial 08
+PROP-008,2022-08,252590.0,0.919,418271.0,158943.0,223320.0,Dallas-Fort Worth,Industrial,Development,Dallas Industrial 08
+PROP-008,2022-09,254227.0,0.929,422726.0,160636.0,223320.0,Dallas-Fort Worth,Industrial,Development,Dallas Industrial 08
+PROP-008,2022-10,261376.0,0.951,432820.0,164471.0,223320.0,Dallas-Fort Worth,Industrial,Development,Dallas Industrial 08
+PROP-008,2022-11,262276.0,0.944,429468.0,163198.0,223320.0,Dallas-Fort Worth,Industrial,Development,Dallas Industrial 08
+PROP-008,2022-12,268404.0,0.952,432910.0,164506.0,223320.0,Dallas-Fort Worth,Industrial,Development,Dallas Industrial 08
+PROP-008,2023-01,263475.0,0.92,418679.0,159098.0,223320.0,Dallas-Fort Worth,Industrial,Development,Dallas Industrial 08
+PROP-008,2023-02,271949.0,0.94,427520.0,162458.0,223320.0,Dallas-Fort Worth,Industrial,Development,Dallas Industrial 08
+PROP-008,2023-03,279195.0,0.961,437199.0,166136.0,223320.0,Dallas-Fort Worth,Industrial,Development,Dallas Industrial 08
+PROP-008,2023-04,270141.0,0.934,424678.0,161378.0,223320.0,Dallas-Fort Worth,Industrial,Development,Dallas Industrial 08
+PROP-008,2023-05,271437.0,0.948,431331.0,163906.0,223320.0,Dallas-Fort Worth,Industrial,Development,Dallas Industrial 08
+PROP-008,2023-06,258279.0,0.916,416579.0,158300.0,223320.0,Dallas-Fort Worth,Industrial,Development,Dallas Industrial 08
+PROP-008,2023-07,267708.0,0.964,438362.0,166578.0,223320.0,Dallas-Fort Worth,Industrial,Development,Dallas Industrial 08
+PROP-008,2023-08,259097.0,0.943,429045.0,163037.0,223320.0,Dallas-Fort Worth,Industrial,Development,Dallas Industrial 08
+PROP-008,2023-09,252343.0,0.922,419593.0,159445.0,223320.0,Dallas-Fort Worth,Industrial,Development,Dallas Industrial 08
+PROP-008,2023-10,252139.0,0.918,417524.0,158659.0,223320.0,Dallas-Fort Worth,Industrial,Development,Dallas Industrial 08
+PROP-008,2023-11,261112.0,0.94,427561.0,162473.0,223320.0,Dallas-Fort Worth,Industrial,Development,Dallas Industrial 08
+PROP-008,2023-12,265110.0,0.94,427597.0,162487.0,223320.0,Dallas-Fort Worth,Industrial,Development,Dallas Industrial 08
+PROP-008,2024-01,261699.0,0.914,415857.0,158026.0,223320.0,Dallas-Fort Worth,Industrial,Development,Dallas Industrial 08
+PROP-008,2024-02,279157.0,0.965,438851.0,166763.0,223320.0,Dallas-Fort Worth,Industrial,Development,Dallas Industrial 08
+PROP-008,2024-03,278955.0,0.96,436822.0,165992.0,223320.0,Dallas-Fort Worth,Industrial,Development,Dallas Industrial 08
+PROP-008,2024-04,270521.0,0.935,425275.0,161605.0,223320.0,Dallas-Fort Worth,Industrial,Development,Dallas Industrial 08
+PROP-008,2024-05,262089.0,0.915,416477.0,158261.0,223320.0,Dallas-Fort Worth,Industrial,Development,Dallas Industrial 08
+PROP-008,2024-06,269549.0,0.956,434756.0,165207.0,223320.0,Dallas-Fort Worth,Industrial,Development,Dallas Industrial 08
+PROP-008,2024-07,260292.0,0.937,426219.0,161963.0,223320.0,Dallas-Fort Worth,Industrial,Development,Dallas Industrial 08
+PROP-008,2024-08,260761.0,0.949,431801.0,164084.0,223320.0,Dallas-Fort Worth,Industrial,Development,Dallas Industrial 08
+PROP-008,2024-09,256490.0,0.937,426488.0,162065.0,223320.0,Dallas-Fort Worth,Industrial,Development,Dallas Industrial 08
+PROP-008,2024-10,253916.0,0.924,420466.0,159777.0,223320.0,Dallas-Fort Worth,Industrial,Development,Dallas Industrial 08
+PROP-008,2024-11,265546.0,0.956,434822.0,165232.0,223320.0,Dallas-Fort Worth,Industrial,Development,Dallas Industrial 08
+PROP-009,2022-01,345427.0,0.961,557141.0,211713.0,299758.0,Phoenix,Retail,Development,Phoenix Retail 09
+PROP-009,2022-01,335549.0,0.92,533210.0,202620.0,299758.0,Phoenix,Retail,Development,Phoenix Retail 09
+PROP-009,2022-03,345535.0,0.937,543202.0,206417.0,299758.0,Phoenix,Retail,Development,Phoenix Retail 09
+PROP-009,2022-04,343410.0,0.927,537754.0,204347.0,299758.0,Phoenix,Retail,Development,Phoenix Retail 09
+PROP-009,2022-05,353195.0,0.958,555244.0,210993.0,299758.0,Phoenix,Retail,Development,Phoenix Retail 09
+PROP-009,2022-05,340957.0,0.934,541804.0,205886.0,299758.0,Phoenix,Retail,Development,Phoenix Retail 09
+PROP-009,2022-06,343394.0,0.955,553862.0,210467.0,299758.0,Phoenix,Retail,Development,Phoenix Retail 09
+PROP-009,2022-07,337940.0,0.954,553365.0,210279.0,299758.0,Phoenix,Retail,Development,Phoenix Retail 09
+PROP-009,2022-08,322639.0,0.921,534266.0,203021.0,299758.0,Phoenix,Retail,Development,Phoenix Retail 09
+PROP-009,2022-09,331347.0,0.95,550959.0,209365.0,299758.0,Phoenix,Retail,Development,Phoenix Retail 09
+PROP-009,2022-10,325361.0,0.929,538773.0,204734.0,299758.0,Phoenix,Retail,Development,Phoenix Retail 09
+PROP-009,2022-11,339333.0,0.958,555646.0,211146.0,299758.0,Phoenix,Retail,Development,Phoenix Retail 09
+PROP-009,2022-12,335909.0,0.934,541788.0,205879.0,299758.0,Phoenix,Retail,Development,Phoenix Retail 09
+PROP-009,2023-01,347343.0,0.952,551952.0,209742.0,299758.0,Phoenix,Retail,Development,Phoenix Retail 09
+PROP-009,2023-02,339987.0,0.922,534481.0,203103.0,299758.0,Phoenix,Retail,Development,Phoenix Retail 09
+PROP-009,2023-03,341645.0,0.923,534991.0,203297.0,299758.0,Phoenix,Retail,Development,Phoenix Retail 09
+PROP-009,2023-04,346273.0,0.939,544361.0,206857.0,299758.0,Phoenix,Retail,Development,Phoenix Retail 09
+PROP-009,2023-05,350990.0,0.962,557747.0,211944.0,299758.0,Phoenix,Retail,Development,Phoenix Retail 09
+PROP-009,2023-06,335544.0,0.933,541200.0,205656.0,299758.0,Phoenix,Retail,Development,Phoenix Retail 09
+PROP-009,2023-07,323743.0,0.914,530119.0,201445.0,299758.0,Phoenix,Retail,Development,Phoenix Retail 09
+PROP-009,2023-08,327787.0,0.936,542790.0,206260.0,299758.0,Phoenix,Retail,Development,Phoenix Retail 09
+PROP-009,2023-09,322654.0,0.925,536504.0,203872.0,299758.0,Phoenix,Retail,Development,Phoenix Retail 09
+PROP-009,2023-10,328048.0,0.937,543223.0,206425.0,299758.0,Phoenix,Retail,Development,Phoenix Retail 09
+PROP-009,2023-11,331578.0,0.936,542948.0,206320.0,299758.0,Phoenix,Retail,Development,Phoenix Retail 09
+PROP-009,2023-12,334853.0,0.931,540086.0,205233.0,299758.0,Phoenix,Retail,Development,Phoenix Retail 09
+PROP-009,2024-01,337145.0,0.924,535746.0,203583.0,299758.0,Phoenix,Retail,Development,Phoenix Retail 09
+PROP-009,2024-02,338041.0,0.917,531420.0,201940.0,299758.0,Phoenix,Retail,Development,Phoenix Retail 09
+PROP-009,2024-03,349923.0,0.945,547954.0,208222.0,299758.0,Phoenix,Retail,Development,Phoenix Retail 09
+PROP-009,2024-04,345960.0,0.938,543869.0,206670.0,299758.0,Phoenix,Retail,Development,Phoenix Retail 09
+PROP-009,2024-05,335341.0,0.919,532879.0,202494.0,299758.0,Phoenix,Retail,Development,Phoenix Retail 09
+PROP-009,2024-06,341304.0,0.949,550490.0,209186.0,299758.0,Phoenix,Retail,Development,Phoenix Retail 09
+PROP-009,2024-07,321661.0,0.908,526709.0,200149.0,299758.0,Phoenix,Retail,Development,Phoenix Retail 09
+PROP-009,2024-08,331831.0,0.948,549488.0,208805.0,299758.0,Phoenix,Retail,Development,Phoenix Retail 09
+PROP-009,2024-09,329690.0,0.946,548205.0,208318.0,299758.0,Phoenix,Retail,Development,Phoenix Retail 09
+PROP-009,2024-10,333140.0,0.951,551655.0,209629.0,299758.0,Phoenix,Retail,Development,Phoenix Retail 09
+PROP-009,2024-11,328456.0,0.928,537835.0,204377.0,299758.0,Phoenix,Retail,Development,Phoenix Retail 09
+PROP-010,2022-01,235963.0,0.965,380585.0,144622.0,150995.0,Denver,Retail,Stabilized,Denver Retail 10
+PROP-010,2022-01,241737.0,0.974,384136.0,145972.0,150995.0,Denver,Retail,Stabilized,Denver Retail 10
+PROP-010,2022-03,246655.0,0.984,387756.0,147347.0,150995.0,Denver,Retail,Stabilized,Denver Retail 10
+PROP-010,2022-04,240610.0,0.956,376778.0,143175.0,150995.0,Denver,Retail,Stabilized,Denver Retail 10
+PROP-010,2022-05,233079.0,0.929,366414.0,139237.0,150995.0,Denver,Retail,Stabilized,Denver Retail 10
+PROP-010,2022-05,237205.0,0.956,376935.0,143235.0,150995.0,Denver,Retail,Stabilized,Denver Retail 10
+PROP-010,2022-06,234932.0,0.961,378922.0,143991.0,150995.0,Denver,Retail,Stabilized,Denver Retail 10
+PROP-010,2022-07,235268.0,0.977,385243.0,146392.0,150995.0,Denver,Retail,Stabilized,Denver Retail 10
+PROP-010,2022-08,232707.0,0.977,385345.0,146431.0,150995.0,Denver,Retail,Stabilized,Denver Retail 10
+PROP-010,2022-09,225846.0,0.953,375533.0,142703.0,150995.0,Denver,Retail,Stabilized,Denver Retail 10
+PROP-010,2022-10,227951.0,0.957,377470.0,143439.0,150995.0,Denver,Retail,Stabilized,Denver Retail 10
+PROP-010,2022-11,229568.0,0.954,375909.0,142846.0,150995.0,Denver,Retail,Stabilized,Denver Retail 10
+PROP-010,2022-12,236786.0,0.969,381913.0,145127.0,150995.0,Denver,Retail,Stabilized,Denver Retail 10
+PROP-010,2023-01,235892.0,0.951,374848.0,142442.0,150995.0,Denver,Retail,Stabilized,Denver Retail 10
+PROP-010,2023-02,241965.0,0.965,380383.0,144546.0,150995.0,Denver,Retail,Stabilized,Denver Retail 10
+PROP-010,2023-03,235686.0,0.936,369067.0,140246.0,150995.0,Denver,Retail,Stabilized,Denver Retail 10
+PROP-010,2023-04,239300.0,0.954,376193.0,142953.0,150995.0,Denver,Retail,Stabilized,Denver Retail 10
+PROP-010,2023-05,243850.0,0.983,387493.0,147247.0,150995.0,Denver,Retail,Stabilized,Denver Retail 10
+PROP-010,2023-06,231404.0,0.947,373233.0,141828.0,150995.0,Denver,Retail,Stabilized,Denver Retail 10
+PROP-010,2023-07,232824.0,0.967,381241.0,144872.0,150995.0,Denver,Retail,Stabilized,Denver Retail 10
+PROP-010,2023-08,229643.0,0.965,380271.0,144503.0,150995.0,Denver,Retail,Stabilized,Denver Retail 10
+PROP-010,2023-09,231441.0,0.976,384838.0,146238.0,150995.0,Denver,Retail,Stabilized,Denver Retail 10
+PROP-010,2023-10,232408.0,0.976,384851.0,146243.0,150995.0,Denver,Retail,Stabilized,Denver Retail 10
+PROP-010,2023-11,235125.0,0.977,385009.0,146303.0,150995.0,Denver,Retail,Stabilized,Denver Retail 10
+PROP-010,2023-12,231985.0,0.949,374170.0,142185.0,150995.0,Denver,Retail,Stabilized,Denver Retail 10
+PROP-010,2024-01,234564.0,0.945,372737.0,141640.0,150995.0,Denver,Retail,Stabilized,Denver Retail 10
+PROP-010,2024-02,242885.0,0.969,381829.0,145095.0,150995.0,Denver,Retail,Stabilized,Denver Retail 10
+PROP-010,2024-03,244424.0,0.971,382749.0,145445.0,150995.0,Denver,Retail,Stabilized,Denver Retail 10
+PROP-010,2024-04,245095.0,0.977,385304.0,146415.0,150995.0,Denver,Retail,Stabilized,Denver Retail 10
+PROP-010,2024-05,230568.0,0.929,366388.0,139228.0,150995.0,Denver,Retail,Stabilized,Denver Retail 10
+PROP-010,2024-06,227617.0,0.931,367124.0,139507.0,150995.0,Denver,Retail,Stabilized,Denver Retail 10
+PROP-010,2024-07,231974.0,0.964,379849.0,144343.0,150995.0,Denver,Retail,Stabilized,Denver Retail 10
+PROP-010,2024-08,233345.0,0.98,386402.0,146833.0,150995.0,Denver,Retail,Stabilized,Denver Retail 10
+PROP-010,2024-09,233422.0,0.985,388131.0,147490.0,150995.0,Denver,Retail,Stabilized,Denver Retail 10
+PROP-010,2024-10,230967.0,0.97,382463.0,145336.0,150995.0,Denver,Retail,Stabilized,Denver Retail 10
+PROP-010,2024-11,229251.0,0.952,375390.0,142648.0,150995.0,Denver,Retail,Stabilized,Denver Retail 10
+PROP-011,2022-01,322197.0,0.912,519673.0,197476.0,234505.0,Phoenix,Multifamily,Stabilized,Phoenix Multifamily 11
+PROP-011,2022-01,337793.0,0.943,536776.0,203975.0,234505.0,Phoenix,Multifamily,Stabilized,Phoenix Multifamily 11
+PROP-011,2022-03,346302.0,0.956,544407.0,206875.0,234505.0,Phoenix,Multifamily,Stabilized,Phoenix Multifamily 11
+PROP-011,2022-04,338907.0,0.932,530704.0,201667.0,234505.0,Phoenix,Multifamily,Stabilized,Phoenix Multifamily 11
+PROP-011,2022-05,342672.0,0.946,538701.0,204707.0,234505.0,Phoenix,Multifamily,Stabilized,Phoenix Multifamily 11
+PROP-011,2022-05,343216.0,0.958,545393.0,207249.0,234505.0,Phoenix,Multifamily,Stabilized,Phoenix Multifamily 11
+PROP-011,2022-06,321158.0,0.91,517997.0,196839.0,234505.0,Phoenix,Multifamily,Stabilized,Phoenix Multifamily 11
+PROP-011,2022-07,330978.0,0.952,541965.0,205947.0,234505.0,Phoenix,Multifamily,Stabilized,Phoenix Multifamily 11
+PROP-011,2022-08,317587.0,0.923,525901.0,199842.0,234505.0,Phoenix,Multifamily,Stabilized,Phoenix Multifamily 11
+PROP-011,2022-09,317842.0,0.928,528504.0,200832.0,234505.0,Phoenix,Multifamily,Stabilized,Phoenix Multifamily 11
+PROP-011,2022-10,314736.0,0.915,521179.0,198048.0,234505.0,Phoenix,Multifamily,Stabilized,Phoenix Multifamily 11
+PROP-011,2022-11,325808.0,0.937,533499.0,202730.0,234505.0,Phoenix,Multifamily,Stabilized,Phoenix Multifamily 11
+PROP-011,2022-12,331458.0,0.939,534610.0,203152.0,234505.0,Phoenix,Multifamily,Stabilized,Phoenix Multifamily 11
+PROP-011,2023-01,340986.0,0.951,541849.0,205903.0,234505.0,Phoenix,Multifamily,Stabilized,Phoenix Multifamily 11
+PROP-011,2023-02,332022.0,0.916,521959.0,198344.0,234505.0,Phoenix,Multifamily,Stabilized,Phoenix Multifamily 11
+PROP-011,2023-03,331466.0,0.911,519051.0,197239.0,234505.0,Phoenix,Multifamily,Stabilized,Phoenix Multifamily 11
+PROP-011,2023-04,346266.0,0.956,544351.0,206854.0,234505.0,Phoenix,Multifamily,Stabilized,Phoenix Multifamily 11
+PROP-011,2023-05,337511.0,0.942,536328.0,203805.0,234505.0,Phoenix,Multifamily,Stabilized,Phoenix Multifamily 11
+PROP-011,2023-06,325018.0,0.92,524223.0,199205.0,234505.0,Phoenix,Multifamily,Stabilized,Phoenix Multifamily 11
+PROP-011,2023-07,333255.0,0.958,545693.0,207363.0,234505.0,Phoenix,Multifamily,Stabilized,Phoenix Multifamily 11
+PROP-011,2023-08,314688.0,0.915,521101.0,198018.0,234505.0,Phoenix,Multifamily,Stabilized,Phoenix Multifamily 11
+PROP-011,2023-09,319501.0,0.933,531262.0,201879.0,234505.0,Phoenix,Multifamily,Stabilized,Phoenix Multifamily 11
+PROP-011,2023-10,316827.0,0.921,524643.0,199364.0,234505.0,Phoenix,Multifamily,Stabilized,Phoenix Multifamily 11
+PROP-011,2023-11,320426.0,0.921,524686.0,199381.0,234505.0,Phoenix,Multifamily,Stabilized,Phoenix Multifamily 11
+PROP-011,2023-12,320434.0,0.907,516828.0,196395.0,234505.0,Phoenix,Multifamily,Stabilized,Phoenix Multifamily 11
+PROP-011,2024-01,341229.0,0.952,542236.0,206050.0,234505.0,Phoenix,Multifamily,Stabilized,Phoenix Multifamily 11
+PROP-011,2024-02,346884.0,0.958,545322.0,207222.0,234505.0,Phoenix,Multifamily,Stabilized,Phoenix Multifamily 11
+PROP-011,2024-03,343680.0,0.945,538178.0,204508.0,234505.0,Phoenix,Multifamily,Stabilized,Phoenix Multifamily 11
+PROP-011,2024-04,331778.0,0.916,521575.0,198199.0,234505.0,Phoenix,Multifamily,Stabilized,Phoenix Multifamily 11
+PROP-011,2024-05,333933.0,0.932,530641.0,201644.0,234505.0,Phoenix,Multifamily,Stabilized,Phoenix Multifamily 11
+PROP-011,2024-06,327093.0,0.926,527569.0,200476.0,234505.0,Phoenix,Multifamily,Stabilized,Phoenix Multifamily 11
+PROP-011,2024-07,326908.0,0.94,535301.0,203414.0,234505.0,Phoenix,Multifamily,Stabilized,Phoenix Multifamily 11
+PROP-011,2024-08,324255.0,0.943,536942.0,204038.0,234505.0,Phoenix,Multifamily,Stabilized,Phoenix Multifamily 11
+PROP-011,2024-09,318793.0,0.931,530085.0,201432.0,234505.0,Phoenix,Multifamily,Stabilized,Phoenix Multifamily 11
+PROP-011,2024-10,316753.0,0.921,524519.0,199317.0,234505.0,Phoenix,Multifamily,Stabilized,Phoenix Multifamily 11
+PROP-011,2024-11,331937.0,0.954,543536.0,206544.0,234505.0,Phoenix,Multifamily,Stabilized,Phoenix Multifamily 11
+PROP-012,2022-01,251152.0,0.957,405084.0,153932.0,223587.0,Denver,Office,Development,Denver Office 12
+PROP-012,2022-01,257808.0,0.968,409675.0,155676.0,223587.0,Denver,Office,Development,Denver Office 12
+PROP-012,2022-03,262148.0,0.974,412113.0,156603.0,223587.0,Denver,Office,Development,Denver Office 12
+PROP-012,2022-04,259287.0,0.96,406024.0,154289.0,223587.0,Denver,Office,Development,Denver Office 12
+PROP-012,2022-05,263545.0,0.979,414309.0,157437.0,223587.0,Denver,Office,Development,Denver Office 12
+PROP-012,2022-05,260770.0,0.979,414380.0,157465.0,223587.0,Denver,Office,Development,Denver Office 12
+PROP-012,2022-06,263329.0,0.99,424724.0,161395.0,223587.0,Denver,Office,Development,Denver Office 12
+PROP-012,2022-07,248836.0,0.963,407460.0,154835.0,223587.0,Denver,Office,Development,Denver Office 12
+PROP-012,2022-08,256267.0,0.99,424359.0,161256.0,223587.0,Denver,Office,Development,Denver Office 12
+PROP-012,2022-09,250450.0,0.984,416445.0,158249.0,223587.0,Denver,Office,Development,Denver Office 12
+PROP-012,2022-10,245752.0,0.962,406947.0,154640.0,223587.0,Denver,Office,Development,Denver Office 12
+PROP-012,2022-11,252928.0,0.979,414161.0,157381.0,223587.0,Denver,Office,Development,Denver Office 12
+PROP-012,2022-12,258619.0,0.986,417128.0,158508.0,223587.0,Denver,Office,Development,Denver Office 12
+PROP-012,2023-01,263415.0,0.989,418585.0,159062.0,223587.0,Denver,Office,Development,Denver Office 12
+PROP-012,2023-02,255313.0,0.949,401367.0,152519.0,223587.0,Denver,Office,Development,Denver Office 12
+PROP-012,2023-03,265123.0,0.981,415163.0,157762.0,223587.0,Denver,Office,Development,Denver Office 12
+PROP-012,2023-04,262361.0,0.975,412448.0,156730.0,223587.0,Denver,Office,Development,Denver Office 12
+PROP-012,2023-05,265900.0,0.99,422532.0,160562.0,223587.0,Denver,Office,Development,Denver Office 12
+PROP-012,2023-06,252487.0,0.962,407237.0,154750.0,223587.0,Denver,Office,Development,Denver Office 12
+PROP-012,2023-07,256449.0,0.99,419926.0,159572.0,223587.0,Denver,Office,Development,Denver Office 12
+PROP-012,2023-08,250723.0,0.981,415179.0,157768.0,223587.0,Denver,Office,Development,Denver Office 12
+PROP-012,2023-09,245896.0,0.966,408873.0,155372.0,223587.0,Denver,Office,Development,Denver Office 12
+PROP-012,2023-10,251165.0,0.983,415910.0,158046.0,223587.0,Denver,Office,Development,Denver Office 12
+PROP-012,2023-11,253759.0,0.982,415521.0,157898.0,223587.0,Denver,Office,Development,Denver Office 12
+PROP-012,2023-12,258496.0,0.985,416929.0,158433.0,223587.0,Denver,Office,Development,Denver Office 12
+PROP-012,2024-01,263046.0,0.988,417997.0,158839.0,223587.0,Denver,Office,Development,Denver Office 12
+PROP-012,2024-02,264919.0,0.984,416469.0,158258.0,223587.0,Denver,Office,Development,Denver Office 12
+PROP-012,2024-03,268789.0,0.99,420903.0,159943.0,223587.0,Denver,Office,Development,Denver Office 12
+PROP-012,2024-04,264432.0,0.983,415703.0,157967.0,223587.0,Denver,Office,Development,Denver Office 12
+PROP-012,2024-05,265888.0,0.99,422514.0,160555.0,223587.0,Denver,Office,Development,Denver Office 12
+PROP-012,2024-06,258014.0,0.984,416151.0,158137.0,223587.0,Denver,Office,Development,Denver Office 12
+PROP-012,2024-07,249043.0,0.964,407800.0,154964.0,223587.0,Denver,Office,Development,Denver Office 12
+PROP-012,2024-08,248238.0,0.972,411064.0,156204.0,223587.0,Denver,Office,Development,Denver Office 12
+PROP-012,2024-09,249279.0,0.98,414498.0,157509.0,223587.0,Denver,Office,Development,Denver Office 12
+PROP-012,2024-10,252596.0,0.989,418280.0,158946.0,223587.0,Denver,Office,Development,Denver Office 12
+PROP-012,2024-11,245736.0,0.951,402384.0,152906.0,223587.0,Denver,Office,Development,Denver Office 12
+PROP-013,2022-01,284004.0,0.906,458071.0,174067.0,188476.0,Austin,Multifamily,Stabilized,Austin Multifamily 13
+PROP-013,2022-01,296185.0,0.931,470658.0,178850.0,188476.0,Austin,Multifamily,Stabilized,Austin Multifamily 13
+PROP-013,2022-03,289268.0,0.899,454746.0,172804.0,188476.0,Austin,Multifamily,Stabilized,Austin Multifamily 13
+PROP-013,2022-04,289628.0,0.897,453536.0,172344.0,188476.0,Austin,Multifamily,Stabilized,Austin Multifamily 13
+PROP-013,2022-05,295707.0,0.919,464868.0,176650.0,188476.0,Austin,Multifamily,Stabilized,Austin Multifamily 13
+PROP-013,2022-05,300108.0,0.943,476892.0,181219.0,188476.0,Austin,Multifamily,Stabilized,Austin Multifamily 13
+PROP-013,2022-06,288071.0,0.919,464630.0,176560.0,188476.0,Austin,Multifamily,Stabilized,Austin Multifamily 13
+PROP-013,2022-07,290252.0,0.94,475278.0,180606.0,188476.0,Austin,Multifamily,Stabilized,Austin Multifamily 13
+PROP-013,2022-08,285621.0,0.935,472968.0,179728.0,188476.0,Austin,Multifamily,Stabilized,Austin Multifamily 13
+PROP-013,2022-09,274845.0,0.904,457009.0,173664.0,188476.0,Austin,Multifamily,Stabilized,Austin Multifamily 13
+PROP-013,2022-10,285524.0,0.935,472807.0,179667.0,188476.0,Austin,Multifamily,Stabilized,Austin Multifamily 13
+PROP-013,2022-11,282917.0,0.916,463267.0,176041.0,188476.0,Austin,Multifamily,Stabilized,Austin Multifamily 13
+PROP-013,2022-12,292826.0,0.934,472300.0,179474.0,188476.0,Austin,Multifamily,Stabilized,Austin Multifamily 13
+PROP-013,2023-01,296169.0,0.931,470633.0,178840.0,188476.0,Austin,Multifamily,Stabilized,Austin Multifamily 13
+PROP-013,2023-02,292154.0,0.908,459284.0,174528.0,188476.0,Austin,Multifamily,Stabilized,Austin Multifamily 13
+PROP-013,2023-03,289326.0,0.896,453063.0,172164.0,188476.0,Austin,Multifamily,Stabilized,Austin Multifamily 13
+PROP-013,2023-04,303203.0,0.942,476653.0,181128.0,188476.0,Austin,Multifamily,Stabilized,Austin Multifamily 13
+PROP-013,2023-05,285561.0,0.897,453776.0,172435.0,188476.0,Austin,Multifamily,Stabilized,Austin Multifamily 13
+PROP-013,2023-06,295587.0,0.943,476753.0,181166.0,188476.0,Austin,Multifamily,Stabilized,Austin Multifamily 13
+PROP-013,2023-07,289346.0,0.937,473793.0,180041.0,188476.0,Austin,Multifamily,Stabilized,Austin Multifamily 13
+PROP-013,2023-08,283836.0,0.929,470011.0,178604.0,188476.0,Austin,Multifamily,Stabilized,Austin Multifamily 13
+PROP-013,2023-09,286944.0,0.943,477127.0,181308.0,188476.0,Austin,Multifamily,Stabilized,Austin Multifamily 13
+PROP-013,2023-10,287920.0,0.943,476774.0,181174.0,188476.0,Austin,Multifamily,Stabilized,Austin Multifamily 13
+PROP-013,2023-11,288402.0,0.934,472247.0,179454.0,188476.0,Austin,Multifamily,Stabilized,Austin Multifamily 13
+PROP-013,2023-12,285223.0,0.91,460037.0,174814.0,188476.0,Austin,Multifamily,Stabilized,Austin Multifamily 13
+PROP-013,2024-01,296942.0,0.933,471861.0,179307.0,188476.0,Austin,Multifamily,Stabilized,Austin Multifamily 13
+PROP-013,2024-02,286405.0,0.89,450246.0,171094.0,188476.0,Austin,Multifamily,Stabilized,Austin Multifamily 13
+PROP-013,2024-03,296815.0,0.919,464790.0,176620.0,188476.0,Austin,Multifamily,Stabilized,Austin Multifamily 13
+PROP-013,2024-04,294209.0,0.915,462514.0,175755.0,188476.0,Austin,Multifamily,Stabilized,Austin Multifamily 13
+PROP-013,2024-05,294878.0,0.927,468581.0,178061.0,188476.0,Austin,Multifamily,Stabilized,Austin Multifamily 13
+PROP-013,2024-06,290512.0,0.926,468568.0,178056.0,188476.0,Austin,Multifamily,Stabilized,Austin Multifamily 13
+PROP-013,2024-07,284662.0,0.922,466125.0,177127.0,188476.0,Austin,Multifamily,Stabilized,Austin Multifamily 13
+PROP-013,2024-08,285486.0,0.935,472744.0,179643.0,188476.0,Austin,Multifamily,Stabilized,Austin Multifamily 13
+PROP-013,2024-09,286281.0,0.941,476024.0,180889.0,188476.0,Austin,Multifamily,Stabilized,Austin Multifamily 13
+PROP-013,2024-10,273487.0,0.895,452874.0,172092.0,188476.0,Austin,Multifamily,Stabilized,Austin Multifamily 13
+PROP-013,2024-11,278702.0,0.902,456365.0,173419.0,188476.0,Austin,Multifamily,Stabilized,Austin Multifamily 13
+PROP-014,2022-01,270214.0,0.951,435829.0,165615.0,199739.0,Denver,Multifamily,Value-Add,Denver Multifamily 14
+PROP-014,2022-01,288821.0,0.99,458956.0,174403.0,199739.0,Denver,Multifamily,Value-Add,Denver Multifamily 14
+PROP-014,2022-03,286418.0,0.983,450266.0,171101.0,199739.0,Denver,Multifamily,Value-Add,Denver Multifamily 14
+PROP-014,2022-04,293622.0,0.99,459791.0,174721.0,199739.0,Denver,Multifamily,Value-Add,Denver Multifamily 14
+PROP-014,2022-05,280596.0,0.963,441114.0,167623.0,199739.0,Denver,Multifamily,Value-Add,Denver Multifamily 14
+PROP-014,2022-05,274914.0,0.953,436857.0,166006.0,199739.0,Denver,Multifamily,Value-Add,Denver Multifamily 14
+PROP-014,2022-06,283545.0,0.99,457331.0,173786.0,199739.0,Denver,Multifamily,Value-Add,Denver Multifamily 14
+PROP-014,2022-07,280698.0,0.99,459633.0,174661.0,199739.0,Denver,Multifamily,Value-Add,Denver Multifamily 14
+PROP-014,2022-08,267699.0,0.967,443289.0,168450.0,199739.0,Denver,Multifamily,Value-Add,Denver Multifamily 14
+PROP-014,2022-09,268312.0,0.974,446145.0,169535.0,199739.0,Denver,Multifamily,Value-Add,Denver Multifamily 14
+PROP-014,2022-10,265059.0,0.958,438918.0,166789.0,199739.0,Denver,Multifamily,Value-Add,Denver Multifamily 14
+PROP-014,2022-11,281304.0,0.99,460626.0,175038.0,199739.0,Denver,Multifamily,Value-Add,Denver Multifamily 14
+PROP-014,2022-12,274876.0,0.968,443348.0,168472.0,199739.0,Denver,Multifamily,Value-Add,Denver Multifamily 14
+PROP-014,2023-01,282188.0,0.979,448415.0,170398.0,199739.0,Denver,Multifamily,Value-Add,Denver Multifamily 14
+PROP-014,2023-02,278470.0,0.955,437771.0,166353.0,199739.0,Denver,Multifamily,Value-Add,Denver Multifamily 14
+PROP-014,2023-03,293141.0,0.99,459037.0,174434.0,199739.0,Denver,Multifamily,Value-Add,Denver Multifamily 14
+PROP-014,2023-04,279129.0,0.958,438807.0,166747.0,199739.0,Denver,Multifamily,Value-Add,Denver Multifamily 14
+PROP-014,2023-05,281527.0,0.976,447366.0,169999.0,199739.0,Denver,Multifamily,Value-Add,Denver Multifamily 14
+PROP-014,2023-06,280986.0,0.989,453203.0,172217.0,199739.0,Denver,Multifamily,Value-Add,Denver Multifamily 14
+PROP-014,2023-07,277965.0,0.99,455158.0,172960.0,199739.0,Denver,Multifamily,Value-Add,Denver Multifamily 14
+PROP-014,2023-08,278163.0,0.99,460618.0,175035.0,199739.0,Denver,Multifamily,Value-Add,Denver Multifamily 14
+PROP-014,2023-09,268487.0,0.974,446437.0,169646.0,199739.0,Denver,Multifamily,Value-Add,Denver Multifamily 14
+PROP-014,2023-10,274852.0,0.99,455135.0,172951.0,199739.0,Denver,Multifamily,Value-Add,Denver Multifamily 14
+PROP-014,2023-11,268289.0,0.959,439314.0,166939.0,199739.0,Denver,Multifamily,Value-Add,Denver Multifamily 14
+PROP-014,2023-12,276720.0,0.974,446323.0,169603.0,199739.0,Denver,Multifamily,Value-Add,Denver Multifamily 14
+PROP-014,2024-01,275520.0,0.955,437821.0,166372.0,199739.0,Denver,Multifamily,Value-Add,Denver Multifamily 14
+PROP-014,2024-02,285184.0,0.978,448327.0,170364.0,199739.0,Denver,Multifamily,Value-Add,Denver Multifamily 14
+PROP-014,2024-03,284905.0,0.974,446140.0,169533.0,199739.0,Denver,Multifamily,Value-Add,Denver Multifamily 14
+PROP-014,2024-04,293098.0,0.99,460767.0,175091.0,199739.0,Denver,Multifamily,Value-Add,Denver Multifamily 14
+PROP-014,2024-05,274397.0,0.952,436036.0,165694.0,199739.0,Denver,Multifamily,Value-Add,Denver Multifamily 14
+PROP-014,2024-06,275980.0,0.971,445129.0,169149.0,199739.0,Denver,Multifamily,Value-Add,Denver Multifamily 14
+PROP-014,2024-07,273038.0,0.976,447090.0,169894.0,199739.0,Denver,Multifamily,Value-Add,Denver Multifamily 14
+PROP-014,2024-08,278238.0,0.99,460741.0,175082.0,199739.0,Denver,Multifamily,Value-Add,Denver Multifamily 14
+PROP-014,2024-09,275550.0,0.99,458181.0,174109.0,199739.0,Denver,Multifamily,Value-Add,Denver Multifamily 14
+PROP-014,2024-10,264402.0,0.955,437829.0,166375.0,199739.0,Denver,Multifamily,Value-Add,Denver Multifamily 14
+PROP-014,2024-11,277021.0,0.99,453611.0,172372.0,199739.0,Denver,Multifamily,Value-Add,Denver Multifamily 14
+PROP-015,2022-01,436260.0,0.895,703646.0,267385.0,336387.0,Denver,Multifamily,Development,Denver Multifamily 15
+PROP-015,2022-01,454288.0,0.919,721894.0,274320.0,336387.0,Denver,Multifamily,Development,Denver Multifamily 15
+PROP-015,2022-03,442618.0,0.885,695823.0,264413.0,336387.0,Denver,Multifamily,Development,Denver Multifamily 15
+PROP-015,2022-04,445414.0,0.888,697485.0,265044.0,336387.0,Denver,Multifamily,Development,Denver Multifamily 15
+PROP-015,2022-05,438096.0,0.876,688712.0,261711.0,336387.0,Denver,Multifamily,Development,Denver Multifamily 15
+PROP-015,2022-05,431614.0,0.873,685864.0,260628.0,336387.0,Denver,Multifamily,Development,Denver Multifamily 15
+PROP-015,2022-06,444185.0,0.912,716428.0,272243.0,336387.0,Denver,Multifamily,Development,Denver Multifamily 15
+PROP-015,2022-07,427409.0,0.891,699867.0,265949.0,336387.0,Denver,Multifamily,Development,Denver Multifamily 15
+PROP-015,2022-08,427934.0,0.902,708627.0,269278.0,336387.0,Denver,Multifamily,Development,Denver Multifamily 15
+PROP-015,2022-09,425635.0,0.901,707740.0,268941.0,336387.0,Denver,Multifamily,Development,Denver Multifamily 15
+PROP-015,2022-10,426266.0,0.898,705864.0,268228.0,336387.0,Denver,Multifamily,Development,Denver Multifamily 15
+PROP-015,2022-11,416265.0,0.867,681620.0,259015.0,336387.0,Denver,Multifamily,Development,Denver Multifamily 15
+PROP-015,2022-12,442587.0,0.908,713849.0,271263.0,336387.0,Denver,Multifamily,Development,Denver Multifamily 15
+PROP-015,2023-01,434831.0,0.879,690976.0,262571.0,336387.0,Denver,Multifamily,Development,Denver Multifamily 15
+PROP-015,2023-02,436384.0,0.873,686023.0,260689.0,336387.0,Denver,Multifamily,Development,Denver Multifamily 15
+PROP-015,2023-03,449889.0,0.896,704493.0,267707.0,336387.0,Denver,Multifamily,Development,Denver Multifamily 15
+PROP-015,2023-04,434849.0,0.87,683609.0,259772.0,336387.0,Denver,Multifamily,Development,Denver Multifamily 15
+PROP-015,2023-05,448652.0,0.907,712938.0,270917.0,336387.0,Denver,Multifamily,Development,Denver Multifamily 15
+PROP-015,2023-06,427455.0,0.877,689443.0,261988.0,336387.0,Denver,Multifamily,Development,Denver Multifamily 15
+PROP-015,2023-07,421269.0,0.878,689813.0,262129.0,336387.0,Denver,Multifamily,Development,Denver Multifamily 15
+PROP-015,2023-08,433196.0,0.913,717340.0,272589.0,336387.0,Denver,Multifamily,Development,Denver Multifamily 15
+PROP-015,2023-09,417705.0,0.884,694555.0,263931.0,336387.0,Denver,Multifamily,Development,Denver Multifamily 15
+PROP-015,2023-10,414833.0,0.874,686933.0,261035.0,336387.0,Denver,Multifamily,Development,Denver Multifamily 15
+PROP-015,2023-11,438872.0,0.914,718638.0,273083.0,336387.0,Denver,Multifamily,Development,Denver Multifamily 15
+PROP-015,2023-12,422121.0,0.866,680840.0,258719.0,336387.0,Denver,Multifamily,Development,Denver Multifamily 15
+PROP-015,2024-01,451123.0,0.912,716865.0,272409.0,336387.0,Denver,Multifamily,Development,Denver Multifamily 15
+PROP-015,2024-02,436887.0,0.874,686813.0,260989.0,336387.0,Denver,Multifamily,Development,Denver Multifamily 15
+PROP-015,2024-03,438203.0,0.873,686194.0,260754.0,336387.0,Denver,Multifamily,Development,Denver Multifamily 15
+PROP-015,2024-04,439725.0,0.88,691274.0,262684.0,336387.0,Denver,Multifamily,Development,Denver Multifamily 15
+PROP-015,2024-05,433001.0,0.876,688068.0,261466.0,336387.0,Denver,Multifamily,Development,Denver Multifamily 15
+PROP-015,2024-06,439304.0,0.902,708555.0,269251.0,336387.0,Denver,Multifamily,Development,Denver Multifamily 15
+PROP-015,2024-07,416379.0,0.868,681806.0,259086.0,336387.0,Denver,Multifamily,Development,Denver Multifamily 15
+PROP-015,2024-08,411459.0,0.867,681346.0,258911.0,336387.0,Denver,Multifamily,Development,Denver Multifamily 15
+PROP-015,2024-09,429390.0,0.909,713984.0,271314.0,336387.0,Denver,Multifamily,Development,Denver Multifamily 15
+PROP-015,2024-10,417132.0,0.879,690739.0,262481.0,336387.0,Denver,Multifamily,Development,Denver Multifamily 15
+PROP-015,2024-11,424041.0,0.884,694353.0,263854.0,336387.0,Denver,Multifamily,Development,Denver Multifamily 15
+PROP-016,2022-01,393333.0,0.93,634408.0,241075.0,312750.0,Austin,Office,Development,Austin Office 16
+PROP-016,2022-01,396256.0,0.924,629678.0,239278.0,312750.0,Austin,Office,Development,Austin Office 16
+PROP-016,2022-03,417566.0,0.963,656440.0,249447.0,312750.0,Austin,Office,Development,Austin Office 16
+PROP-016,2022-04,413856.0,0.95,648068.0,246266.0,312750.0,Austin,Office,Development,Austin Office 16
+PROP-016,2022-05,417664.0,0.963,656593.0,249505.0,312750.0,Austin,Office,Development,Austin Office 16
+PROP-016,2022-05,406612.0,0.948,646133.0,245531.0,312750.0,Austin,Office,Development,Austin Office 16
+PROP-016,2022-06,407866.0,0.965,657849.0,249983.0,312750.0,Austin,Office,Development,Austin Office 16
+PROP-016,2022-07,395471.0,0.95,647569.0,246076.0,312750.0,Austin,Office,Development,Austin Office 16
+PROP-016,2022-08,381586.0,0.927,631877.0,240113.0,312750.0,Austin,Office,Development,Austin Office 16
+PROP-016,2022-09,389229.0,0.949,647204.0,245938.0,312750.0,Austin,Office,Development,Austin Office 16
+PROP-016,2022-10,401194.0,0.974,664348.0,252452.0,312750.0,Austin,Office,Development,Austin Office 16
+PROP-016,2022-11,384330.0,0.923,629327.0,239144.0,312750.0,Austin,Office,Development,Austin Office 16
+PROP-016,2022-12,407992.0,0.965,658051.0,250059.0,312750.0,Austin,Office,Development,Austin Office 16
+PROP-016,2023-01,416158.0,0.97,661303.0,251295.0,312750.0,Austin,Office,Development,Austin Office 16
+PROP-016,2023-02,412127.0,0.95,647888.0,246197.0,312750.0,Austin,Office,Development,Austin Office 16
+PROP-016,2023-03,412169.0,0.947,645426.0,245262.0,312750.0,Austin,Office,Development,Austin Office 16
+PROP-016,2023-04,423057.0,0.975,665070.0,252727.0,312750.0,Austin,Office,Development,Austin Office 16
+PROP-016,2023-05,396462.0,0.924,630005.0,239402.0,312750.0,Austin,Office,Development,Austin Office 16
+PROP-016,2023-06,400668.0,0.948,646239.0,245571.0,312750.0,Austin,Office,Development,Austin Office 16
+PROP-016,2023-07,392824.0,0.943,643236.0,244430.0,312750.0,Austin,Office,Development,Austin Office 16
+PROP-016,2023-08,395115.0,0.96,654280.0,248626.0,312750.0,Austin,Office,Development,Austin Office 16
+PROP-016,2023-09,388912.0,0.948,646677.0,245737.0,312750.0,Austin,Office,Development,Austin Office 16
+PROP-016,2023-10,400357.0,0.972,662961.0,251925.0,312750.0,Austin,Office,Development,Austin Office 16
+PROP-016,2023-11,385044.0,0.925,630497.0,239589.0,312750.0,Austin,Office,Development,Austin Office 16
+PROP-016,2023-12,391084.0,0.925,630780.0,239696.0,312750.0,Austin,Office,Development,Austin Office 16
+PROP-016,2024-01,409838.0,0.955,651260.0,247479.0,312750.0,Austin,Office,Development,Austin Office 16
+PROP-016,2024-02,400871.0,0.924,630194.0,239474.0,312750.0,Austin,Office,Development,Austin Office 16
+PROP-016,2024-03,407632.0,0.936,638321.0,242562.0,312750.0,Austin,Office,Development,Austin Office 16
+PROP-016,2024-04,414884.0,0.957,652222.0,247844.0,312750.0,Austin,Office,Development,Austin Office 16
+PROP-016,2024-05,408373.0,0.952,648933.0,246594.0,312750.0,Austin,Office,Development,Austin Office 16
+PROP-016,2024-06,396966.0,0.939,640268.0,243302.0,312750.0,Austin,Office,Development,Austin Office 16
+PROP-016,2024-07,406884.0,0.977,666258.0,253178.0,312750.0,Austin,Office,Development,Austin Office 16
+PROP-016,2024-08,391468.0,0.951,648242.0,246332.0,312750.0,Austin,Office,Development,Austin Office 16
+PROP-016,2024-09,388058.0,0.946,645258.0,245198.0,312750.0,Austin,Office,Development,Austin Office 16
+PROP-016,2024-10,393223.0,0.955,651148.0,247436.0,312750.0,Austin,Office,Development,Austin Office 16
+PROP-016,2024-11,385653.0,0.926,631494.0,239968.0,312750.0,Austin,Office,Development,Austin Office 16
+PROP-017,2022-01,332097.0,0.95,535640.0,203543.0,268340.0,Houston,Retail,Stabilized,Houston Retail 17
+PROP-017,2022-01,340096.0,0.959,540436.0,205365.0,268340.0,Houston,Retail,Stabilized,Houston Retail 17
+PROP-017,2022-03,339698.0,0.948,534025.0,202930.0,268340.0,Houston,Retail,Stabilized,Houston Retail 17
+PROP-017,2022-04,343422.0,0.954,537774.0,204354.0,268340.0,Houston,Retail,Stabilized,Houston Retail 17
+PROP-017,2022-05,341110.0,0.951,536245.0,203773.0,268340.0,Houston,Retail,Stabilized,Houston Retail 17
+PROP-017,2022-05,327352.0,0.923,520184.0,197670.0,268340.0,Houston,Retail,Stabilized,Houston Retail 17
+PROP-017,2022-06,327171.0,0.936,527695.0,200524.0,268340.0,Houston,Retail,Stabilized,Houston Retail 17
+PROP-017,2022-07,317937.0,0.924,520612.0,197832.0,268340.0,Houston,Retail,Stabilized,Houston Retail 17
+PROP-017,2022-08,316511.0,0.93,524118.0,199165.0,268340.0,Houston,Retail,Stabilized,Houston Retail 17
+PROP-017,2022-09,317393.0,0.936,527756.0,200547.0,268340.0,Houston,Retail,Stabilized,Houston Retail 17
+PROP-017,2022-10,317989.0,0.934,526565.0,200095.0,268340.0,Houston,Retail,Stabilized,Houston Retail 17
+PROP-017,2022-11,315350.0,0.916,516375.0,196223.0,268340.0,Houston,Retail,Stabilized,Houston Retail 17
+PROP-017,2022-12,326683.0,0.935,526907.0,200225.0,268340.0,Houston,Retail,Stabilized,Houston Retail 17
+PROP-017,2023-01,336346.0,0.948,534476.0,203101.0,268340.0,Houston,Retail,Stabilized,Houston Retail 17
+PROP-017,2023-02,334110.0,0.932,525241.0,199592.0,268340.0,Houston,Retail,Stabilized,Houston Retail 17
+PROP-017,2023-03,330924.0,0.919,518203.0,196917.0,268340.0,Houston,Retail,Stabilized,Houston Retail 17
+PROP-017,2023-04,345193.0,0.963,542664.0,206212.0,268340.0,Houston,Retail,Stabilized,Houston Retail 17
+PROP-017,2023-05,324396.0,0.915,515488.0,195885.0,268340.0,Houston,Retail,Stabilized,Houston Retail 17
+PROP-017,2023-06,334656.0,0.958,539768.0,205112.0,268340.0,Houston,Retail,Stabilized,Houston Retail 17
+PROP-017,2023-07,315314.0,0.916,516316.0,196200.0,268340.0,Houston,Retail,Stabilized,Houston Retail 17
+PROP-017,2023-08,311863.0,0.916,516422.0,196240.0,268340.0,Houston,Retail,Stabilized,Houston Retail 17
+PROP-017,2023-09,322841.0,0.952,536816.0,203990.0,268340.0,Houston,Retail,Stabilized,Houston Retail 17
+PROP-017,2023-10,325578.0,0.957,539133.0,204870.0,268340.0,Houston,Retail,Stabilized,Houston Retail 17
+PROP-017,2023-11,324296.0,0.942,531023.0,201789.0,268340.0,Houston,Retail,Stabilized,Houston Retail 17
+PROP-017,2023-12,329827.0,0.944,531979.0,202152.0,268340.0,Houston,Retail,Stabilized,Houston Retail 17
+PROP-017,2024-01,334277.0,0.942,531189.0,201852.0,268340.0,Houston,Retail,Stabilized,Houston Retail 17
+PROP-017,2024-02,333208.0,0.929,523824.0,199053.0,268340.0,Houston,Retail,Stabilized,Houston Retail 17
+PROP-017,2024-03,330308.0,0.918,517237.0,196550.0,268340.0,Houston,Retail,Stabilized,Houston Retail 17
+PROP-017,2024-04,333692.0,0.931,524584.0,199342.0,268340.0,Houston,Retail,Stabilized,Houston Retail 17
+PROP-017,2024-05,336350.0,0.948,534483.0,203104.0,268340.0,Houston,Retail,Stabilized,Houston Retail 17
+PROP-017,2024-06,333052.0,0.953,537180.0,204129.0,268340.0,Houston,Retail,Stabilized,Houston Retail 17
+PROP-017,2024-07,330341.0,0.96,540921.0,205550.0,268340.0,Houston,Retail,Stabilized,Houston Retail 17
+PROP-017,2024-08,323839.0,0.951,536252.0,203776.0,268340.0,Houston,Retail,Stabilized,Houston Retail 17
+PROP-017,2024-09,327226.0,0.965,544106.0,206760.0,268340.0,Houston,Retail,Stabilized,Houston Retail 17
+PROP-017,2024-10,321525.0,0.945,532421.0,202320.0,268340.0,Houston,Retail,Stabilized,Houston Retail 17
+PROP-017,2024-11,320326.0,0.931,524522.0,199318.0,268340.0,Houston,Retail,Stabilized,Houston Retail 17
+PROP-018,2022-01,104326.0,0.908,168268.0,63942.0,67568.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 18
+PROP-018,2022-01,103582.0,0.888,164598.0,62547.0,67568.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 18
+PROP-018,2022-03,107540.0,0.913,169060.0,64243.0,67568.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 18
+PROP-018,2022-04,105186.0,0.889,164714.0,62591.0,67568.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 18
+PROP-018,2022-05,104034.0,0.883,163548.0,62148.0,67568.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 18
+PROP-018,2022-05,107582.0,0.923,170955.0,64963.0,67568.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 18
+PROP-018,2022-06,103015.0,0.897,166154.0,63138.0,67568.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 18
+PROP-018,2022-07,103894.0,0.918,170124.0,64647.0,67568.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 18
+PROP-018,2022-08,101592.0,0.908,168229.0,63927.0,67568.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 18
+PROP-018,2022-09,102582.0,0.921,170572.0,64817.0,67568.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 18
+PROP-018,2022-10,103237.0,0.923,170953.0,64962.0,67568.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 18
+PROP-018,2022-11,105195.0,0.93,172253.0,65456.0,67568.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 18
+PROP-018,2022-12,105824.0,0.921,170685.0,64860.0,67568.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 18
+PROP-018,2023-01,106116.0,0.91,168626.0,64078.0,67568.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 18
+PROP-018,2023-02,107451.0,0.912,168919.0,64189.0,67568.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 18
+PROP-018,2023-03,103916.0,0.878,162724.0,61835.0,67568.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 18
+PROP-018,2023-04,109281.0,0.927,171797.0,65283.0,67568.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 18
+PROP-018,2023-05,107482.0,0.922,170795.0,64902.0,67568.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 18
+PROP-018,2023-06,102392.0,0.891,165148.0,62756.0,67568.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 18
+PROP-018,2023-07,100322.0,0.887,164273.0,62424.0,67568.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 18
+PROP-018,2023-08,102373.0,0.915,169522.0,64418.0,67568.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 18
+PROP-018,2023-09,99571.0,0.894,165565.0,62915.0,67568.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 18
+PROP-018,2023-10,100171.0,0.895,165875.0,63033.0,67568.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 18
+PROP-018,2023-11,99252.0,0.877,162521.0,61758.0,67568.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 18
+PROP-018,2023-12,106145.0,0.924,171201.0,65057.0,67568.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 18
+PROP-018,2024-01,105818.0,0.908,168151.0,63897.0,67568.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 18
+PROP-018,2024-02,105904.0,0.899,166488.0,63265.0,67568.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 18
+PROP-018,2024-03,104658.0,0.885,163886.0,62277.0,67568.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 18
+PROP-018,2024-04,107390.0,0.911,168823.0,64153.0,67568.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 18
+PROP-018,2024-05,102430.0,0.879,162768.0,61852.0,67568.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 18
+PROP-018,2024-06,105374.0,0.917,169958.0,64584.0,67568.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 18
+PROP-018,2024-07,100535.0,0.889,164622.0,62556.0,67568.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 18
+PROP-018,2024-08,100656.0,0.9,166679.0,63338.0,67568.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 18
+PROP-018,2024-09,99764.0,0.895,165886.0,63037.0,67568.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 18
+PROP-018,2024-10,100354.0,0.897,166179.0,63148.0,67568.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 18
+PROP-018,2024-11,103643.0,0.916,169712.0,64490.0,67568.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 18
+PROP-019,2022-01,430562.0,0.938,694455.0,263893.0,259405.0,Austin,Retail,Value-Add,Austin Retail 19
+PROP-019,2022-01,431623.0,0.927,685878.0,260634.0,259405.0,Austin,Retail,Value-Add,Austin Retail 19
+PROP-019,2022-03,423710.0,0.9,666097.0,253117.0,259405.0,Austin,Retail,Value-Add,Austin Retail 19
+PROP-019,2022-04,424523.0,0.898,664771.0,252613.0,259405.0,Austin,Retail,Value-Add,Austin Retail 19
+PROP-019,2022-05,425599.0,0.904,669067.0,254245.0,259405.0,Austin,Retail,Value-Add,Austin Retail 19
+PROP-019,2022-05,432919.0,0.93,687938.0,261416.0,259405.0,Austin,Retail,Value-Add,Austin Retail 19
+PROP-019,2022-06,427948.0,0.933,690238.0,262291.0,259405.0,Austin,Retail,Value-Add,Austin Retail 19
+PROP-019,2022-07,411470.0,0.91,673767.0,256032.0,259405.0,Austin,Retail,Value-Add,Austin Retail 19
+PROP-019,2022-08,416532.0,0.932,689745.0,262103.0,259405.0,Austin,Retail,Value-Add,Austin Retail 19
+PROP-019,2022-09,410468.0,0.922,682520.0,259358.0,259405.0,Austin,Retail,Value-Add,Austin Retail 19
+PROP-019,2022-10,411089.0,0.92,680733.0,258678.0,259405.0,Austin,Retail,Value-Add,Austin Retail 19
+PROP-019,2022-11,411496.0,0.91,673811.0,256048.0,259405.0,Austin,Retail,Value-Add,Austin Retail 19
+PROP-019,2022-12,430006.0,0.937,693557.0,263552.0,259405.0,Austin,Retail,Value-Add,Austin Retail 19
+PROP-019,2023-01,419919.0,0.902,667280.0,253566.0,259405.0,Austin,Retail,Value-Add,Austin Retail 19
+PROP-019,2023-02,432703.0,0.919,680235.0,258489.0,259405.0,Austin,Retail,Value-Add,Austin Retail 19
+PROP-019,2023-03,430560.0,0.911,674224.0,256205.0,259405.0,Austin,Retail,Value-Add,Austin Retail 19
+PROP-019,2023-04,439184.0,0.933,690424.0,262361.0,259405.0,Austin,Retail,Value-Add,Austin Retail 19
+PROP-019,2023-05,429535.0,0.922,682560.0,259373.0,259405.0,Austin,Retail,Value-Add,Austin Retail 19
+PROP-019,2023-06,427774.0,0.932,689958.0,262184.0,259405.0,Austin,Retail,Value-Add,Austin Retail 19
+PROP-019,2023-07,405796.0,0.898,664476.0,252501.0,259405.0,Austin,Retail,Value-Add,Austin Retail 19
+PROP-019,2023-08,409931.0,0.917,678815.0,257950.0,259405.0,Austin,Retail,Value-Add,Austin Retail 19
+PROP-019,2023-09,413269.0,0.929,687179.0,261128.0,259405.0,Austin,Retail,Value-Add,Austin Retail 19
+PROP-019,2023-10,400338.0,0.896,662930.0,251913.0,259405.0,Austin,Retail,Value-Add,Austin Retail 19
+PROP-019,2023-11,412204.0,0.912,674969.0,256488.0,259405.0,Austin,Retail,Value-Add,Austin Retail 19
+PROP-019,2023-12,416189.0,0.907,671273.0,255084.0,259405.0,Austin,Retail,Value-Add,Austin Retail 19
+PROP-019,2024-01,420523.0,0.903,668240.0,253931.0,259405.0,Austin,Retail,Value-Add,Austin Retail 19
+PROP-019,2024-02,428156.0,0.909,673088.0,255773.0,259405.0,Austin,Retail,Value-Add,Austin Retail 19
+PROP-019,2024-03,431734.0,0.913,676063.0,256904.0,259405.0,Austin,Retail,Value-Add,Austin Retail 19
+PROP-019,2024-04,421696.0,0.896,662932.0,251914.0,259405.0,Austin,Retail,Value-Add,Austin Retail 19
+PROP-019,2024-05,436251.0,0.937,693232.0,263428.0,259405.0,Austin,Retail,Value-Add,Austin Retail 19
+PROP-019,2024-06,415286.0,0.905,669816.0,254530.0,259405.0,Austin,Retail,Value-Add,Austin Retail 19
+PROP-019,2024-07,414176.0,0.916,678198.0,257715.0,259405.0,Austin,Retail,Value-Add,Austin Retail 19
+PROP-019,2024-08,417565.0,0.934,691456.0,262753.0,259405.0,Austin,Retail,Value-Add,Austin Retail 19
+PROP-019,2024-09,410828.0,0.923,683119.0,259585.0,259405.0,Austin,Retail,Value-Add,Austin Retail 19
+PROP-019,2024-10,420774.0,0.941,696771.0,264773.0,259405.0,Austin,Retail,Value-Add,Austin Retail 19
+PROP-019,2024-11,424838.0,0.94,695658.0,264350.0,259405.0,Austin,Retail,Value-Add,Austin Retail 19
+PROP-020,2022-01,350587.0,0.876,565463.0,214876.0,246974.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 20
+PROP-020,2022-01,373151.0,0.919,592961.0,225325.0,246974.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 20
+PROP-020,2022-03,359036.0,0.874,564426.0,214482.0,246974.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 20
+PROP-020,2022-04,359919.0,0.873,563606.0,214170.0,246974.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 20
+PROP-020,2022-05,378503.0,0.922,595030.0,226111.0,246974.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 20
+PROP-020,2022-05,373158.0,0.919,592973.0,225330.0,246974.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 20
+PROP-020,2022-06,361461.0,0.903,583002.0,221541.0,246974.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 20
+PROP-020,2022-07,355989.0,0.903,582920.0,221510.0,246974.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 20
+PROP-020,2022-08,354883.0,0.91,587659.0,223310.0,246974.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 20
+PROP-020,2022-09,347307.0,0.895,577498.0,219449.0,246974.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 20
+PROP-020,2022-10,342385.0,0.878,566964.0,215446.0,246974.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 20
+PROP-020,2022-11,344239.0,0.873,563679.0,214198.0,246974.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 20
+PROP-020,2022-12,356042.0,0.89,574262.0,218220.0,246974.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 20
+PROP-020,2023-01,371826.0,0.915,590857.0,224525.0,246974.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 20
+PROP-020,2023-02,371791.0,0.905,584477.0,222101.0,246974.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 20
+PROP-020,2023-03,378004.0,0.917,591926.0,224932.0,246974.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 20
+PROP-020,2023-04,378472.0,0.922,594981.0,226093.0,246974.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 20
+PROP-020,2023-05,356198.0,0.877,566022.0,215088.0,246974.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 20
+PROP-020,2023-06,367263.0,0.918,592360.0,225097.0,246974.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 20
+PROP-020,2023-07,348970.0,0.885,571426.0,217142.0,246974.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 20
+PROP-020,2023-08,352346.0,0.904,583459.0,221714.0,246974.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 20
+PROP-020,2023-09,349533.0,0.9,581198.0,220855.0,246974.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 20
+PROP-020,2023-10,348285.0,0.893,576734.0,219159.0,246974.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 20
+PROP-020,2023-11,350394.0,0.889,573757.0,218028.0,246974.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 20
+PROP-020,2023-12,356361.0,0.89,574776.0,218415.0,246974.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 20
+PROP-020,2024-01,361565.0,0.89,574551.0,218329.0,246974.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 20
+PROP-020,2024-02,361823.0,0.881,568808.0,216147.0,246974.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 20
+PROP-020,2024-03,370854.0,0.9,580729.0,220677.0,246974.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 20
+PROP-020,2024-04,360625.0,0.878,566924.0,215431.0,246974.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 20
+PROP-020,2024-05,365441.0,0.9,580711.0,220670.0,246974.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 20
+PROP-020,2024-06,368589.0,0.921,594499.0,225910.0,246974.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 20
+PROP-020,2024-07,351225.0,0.891,575119.0,218545.0,246974.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 20
+PROP-020,2024-08,355259.0,0.911,588282.0,223547.0,246974.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 20
+PROP-020,2024-09,355710.0,0.916,591470.0,224759.0,246974.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 20
+PROP-020,2024-10,357102.0,0.916,591334.0,224707.0,246974.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 20
+PROP-020,2024-11,348820.0,0.885,571180.0,217049.0,246974.0,Dallas-Fort Worth,Multifamily,Development,Dallas Multifamily 20
+PROP-021,2022-01,245579.0,0.946,396095.0,150516.0,179780.0,Austin,Office,Stabilized,Austin Office 21
+PROP-021,2022-01,250039.0,0.948,397329.0,150985.0,179780.0,Austin,Office,Stabilized,Austin Office 21
+PROP-021,2022-03,259001.0,0.972,407165.0,154723.0,179780.0,Austin,Office,Stabilized,Austin Office 21
+PROP-021,2022-04,262463.0,0.981,410997.0,156179.0,179780.0,Austin,Office,Stabilized,Austin Office 21
+PROP-021,2022-05,259822.0,0.975,408455.0,155213.0,179780.0,Austin,Office,Stabilized,Austin Office 21
+PROP-021,2022-05,249731.0,0.947,396840.0,150799.0,179780.0,Austin,Office,Stabilized,Austin Office 21
+PROP-021,2022-06,255009.0,0.982,411304.0,156296.0,179780.0,Austin,Office,Stabilized,Austin Office 21
+PROP-021,2022-07,247050.0,0.966,404536.0,153724.0,179780.0,Austin,Office,Stabilized,Austin Office 21
+PROP-021,2022-08,248113.0,0.981,410857.0,156126.0,179780.0,Austin,Office,Stabilized,Austin Office 21
+PROP-021,2022-09,247169.0,0.981,410989.0,156176.0,179780.0,Austin,Office,Stabilized,Austin Office 21
+PROP-021,2022-10,243633.0,0.963,403439.0,153307.0,179780.0,Austin,Office,Stabilized,Austin Office 21
+PROP-021,2022-11,253427.0,0.99,414978.0,157692.0,179780.0,Austin,Office,Stabilized,Austin Office 21
+PROP-021,2022-12,251872.0,0.97,406245.0,154373.0,179780.0,Austin,Office,Stabilized,Austin Office 21
+PROP-021,2023-01,256732.0,0.974,407964.0,155026.0,179780.0,Austin,Office,Stabilized,Austin Office 21
+PROP-021,2023-02,259343.0,0.973,407703.0,154927.0,179780.0,Austin,Office,Stabilized,Austin Office 21
+PROP-021,2023-03,264076.0,0.987,413523.0,157139.0,179780.0,Austin,Office,Stabilized,Austin Office 21
+PROP-021,2023-04,259385.0,0.973,407768.0,154952.0,179780.0,Austin,Office,Stabilized,Austin Office 21
+PROP-021,2023-05,249331.0,0.946,396204.0,150558.0,179780.0,Austin,Office,Stabilized,Austin Office 21
+PROP-021,2023-06,244402.0,0.941,394197.0,149795.0,179780.0,Austin,Office,Stabilized,Austin Office 21
+PROP-021,2023-07,246281.0,0.963,403276.0,153245.0,179780.0,Austin,Office,Stabilized,Austin Office 21
+PROP-021,2023-08,241491.0,0.955,399891.0,151959.0,179780.0,Austin,Office,Stabilized,Austin Office 21
+PROP-021,2023-09,240084.0,0.953,399208.0,151699.0,179780.0,Austin,Office,Stabilized,Austin Office 21
+PROP-021,2023-10,237875.0,0.94,393903.0,149683.0,179780.0,Austin,Office,Stabilized,Austin Office 21
+PROP-021,2023-11,247246.0,0.966,404857.0,153846.0,179780.0,Austin,Office,Stabilized,Austin Office 21
+PROP-021,2023-12,248047.0,0.955,400076.0,152029.0,179780.0,Austin,Office,Stabilized,Austin Office 21
+PROP-021,2024-01,253930.0,0.963,403512.0,153334.0,179780.0,Austin,Office,Stabilized,Austin Office 21
+PROP-021,2024-02,250576.0,0.94,393920.0,149690.0,179780.0,Austin,Office,Stabilized,Austin Office 21
+PROP-021,2024-03,263571.0,0.985,412733.0,156839.0,179780.0,Austin,Office,Stabilized,Austin Office 21
+PROP-021,2024-04,250882.0,0.941,394402.0,149873.0,179780.0,Austin,Office,Stabilized,Austin Office 21
+PROP-021,2024-05,260230.0,0.987,413523.0,157139.0,179780.0,Austin,Office,Stabilized,Austin Office 21
+PROP-021,2024-06,256250.0,0.987,413306.0,157056.0,179780.0,Austin,Office,Stabilized,Austin Office 21
+PROP-021,2024-07,248843.0,0.973,407472.0,154839.0,179780.0,Austin,Office,Stabilized,Austin Office 21
+PROP-021,2024-08,244486.0,0.966,404851.0,153843.0,179780.0,Austin,Office,Stabilized,Austin Office 21
+PROP-021,2024-09,242830.0,0.964,403774.0,153434.0,179780.0,Austin,Office,Stabilized,Austin Office 21
+PROP-021,2024-10,245179.0,0.969,405998.0,154279.0,179780.0,Austin,Office,Stabilized,Austin Office 21
+PROP-021,2024-11,251465.0,0.983,411765.0,156471.0,179780.0,Austin,Office,Stabilized,Austin Office 21
+PROP-022,2022-01,197588.0,0.942,318690.0,121102.0,155847.0,Denver,Multifamily,Stabilized,Denver Multifamily 22
+PROP-022,2022-01,195308.0,0.917,310357.0,117936.0,155847.0,Denver,Multifamily,Stabilized,Denver Multifamily 22
+PROP-022,2022-03,201699.0,0.937,317083.0,120492.0,155847.0,Denver,Multifamily,Stabilized,Denver Multifamily 22
+PROP-022,2022-04,200605.0,0.928,314132.0,119370.0,155847.0,Denver,Multifamily,Stabilized,Denver Multifamily 22
+PROP-022,2022-05,195898.0,0.91,307963.0,117026.0,155847.0,Denver,Multifamily,Stabilized,Denver Multifamily 22
+PROP-022,2022-05,195612.0,0.919,310841.0,118120.0,155847.0,Denver,Multifamily,Stabilized,Denver Multifamily 22
+PROP-022,2022-06,188961.0,0.901,304775.0,115815.0,155847.0,Denver,Multifamily,Stabilized,Denver Multifamily 22
+PROP-022,2022-07,185111.0,0.896,303113.0,115183.0,155847.0,Denver,Multifamily,Stabilized,Denver Multifamily 22
+PROP-022,2022-08,183517.0,0.898,303891.0,115478.0,155847.0,Denver,Multifamily,Stabilized,Denver Multifamily 22
+PROP-022,2022-09,191697.0,0.942,318751.0,121125.0,155847.0,Denver,Multifamily,Stabilized,Denver Multifamily 22
+PROP-022,2022-10,186223.0,0.911,308372.0,117181.0,155847.0,Denver,Multifamily,Stabilized,Denver Multifamily 22
+PROP-022,2022-11,192553.0,0.932,315299.0,119814.0,155847.0,Denver,Multifamily,Stabilized,Denver Multifamily 22
+PROP-022,2022-12,193056.0,0.92,311381.0,118325.0,155847.0,Denver,Multifamily,Stabilized,Denver Multifamily 22
+PROP-022,2023-01,192050.0,0.902,305180.0,115969.0,155847.0,Denver,Multifamily,Stabilized,Denver Multifamily 22
+PROP-022,2023-02,195021.0,0.906,306585.0,116502.0,155847.0,Denver,Multifamily,Stabilized,Denver Multifamily 22
+PROP-022,2023-03,198051.0,0.917,310134.0,117851.0,155847.0,Denver,Multifamily,Stabilized,Denver Multifamily 22
+PROP-022,2023-04,197298.0,0.917,310165.0,117863.0,155847.0,Denver,Multifamily,Stabilized,Denver Multifamily 22
+PROP-022,2023-05,196166.0,0.921,311721.0,118454.0,155847.0,Denver,Multifamily,Stabilized,Denver Multifamily 22
+PROP-022,2023-06,189052.0,0.901,304922.0,115871.0,155847.0,Denver,Multifamily,Stabilized,Denver Multifamily 22
+PROP-022,2023-07,188658.0,0.913,308921.0,117390.0,155847.0,Denver,Multifamily,Stabilized,Denver Multifamily 22
+PROP-022,2023-08,185540.0,0.908,307241.0,116752.0,155847.0,Denver,Multifamily,Stabilized,Denver Multifamily 22
+PROP-022,2023-09,186189.0,0.915,309592.0,117645.0,155847.0,Denver,Multifamily,Stabilized,Denver Multifamily 22
+PROP-022,2023-10,186166.0,0.911,308277.0,117145.0,155847.0,Denver,Multifamily,Stabilized,Denver Multifamily 22
+PROP-022,2023-11,191225.0,0.925,313125.0,118987.0,155847.0,Denver,Multifamily,Stabilized,Denver Multifamily 22
+PROP-022,2023-12,196353.0,0.936,316698.0,120345.0,155847.0,Denver,Multifamily,Stabilized,Denver Multifamily 22
+PROP-022,2024-01,197630.0,0.928,314048.0,119338.0,155847.0,Denver,Multifamily,Stabilized,Denver Multifamily 22
+PROP-022,2024-02,192861.0,0.896,303188.0,115212.0,155847.0,Denver,Multifamily,Stabilized,Denver Multifamily 22
+PROP-022,2024-03,193957.0,0.898,303723.0,115415.0,155847.0,Denver,Multifamily,Stabilized,Denver Multifamily 22
+PROP-022,2024-04,200137.0,0.93,314628.0,119559.0,155847.0,Denver,Multifamily,Stabilized,Denver Multifamily 22
+PROP-022,2024-05,193362.0,0.908,307265.0,116761.0,155847.0,Denver,Multifamily,Stabilized,Denver Multifamily 22
+PROP-022,2024-06,195595.0,0.932,315475.0,119881.0,155847.0,Denver,Multifamily,Stabilized,Denver Multifamily 22
+PROP-022,2024-07,191894.0,0.929,314221.0,119404.0,155847.0,Denver,Multifamily,Stabilized,Denver Multifamily 22
+PROP-022,2024-08,192573.0,0.942,318886.0,121177.0,155847.0,Denver,Multifamily,Stabilized,Denver Multifamily 22
+PROP-022,2024-09,191407.0,0.941,318268.0,120942.0,155847.0,Denver,Multifamily,Stabilized,Denver Multifamily 22
+PROP-022,2024-10,186110.0,0.911,308184.0,117110.0,155847.0,Denver,Multifamily,Stabilized,Denver Multifamily 22
+PROP-022,2024-11,191052.0,0.925,312842.0,118880.0,155847.0,Denver,Multifamily,Stabilized,Denver Multifamily 22
+PROP-023,2022-01,239658.0,0.916,386545.0,146887.0,237834.0,Phoenix,Office,Development,Phoenix Office 23
+PROP-023,2022-01,246361.0,0.928,391485.0,148764.0,237834.0,Phoenix,Office,Development,Phoenix Office 23
+PROP-023,2022-03,258342.0,0.962,406130.0,154329.0,237834.0,Phoenix,Office,Development,Phoenix Office 23
+PROP-023,2022-04,255280.0,0.947,399749.0,151905.0,237834.0,Phoenix,Office,Development,Phoenix Office 23
+PROP-023,2022-05,249662.0,0.93,392483.0,149144.0,237834.0,Phoenix,Office,Development,Phoenix Office 23
+PROP-023,2022-05,250019.0,0.941,397297.0,150973.0,237834.0,Phoenix,Office,Development,Phoenix Office 23
+PROP-023,2022-06,251364.0,0.961,405426.0,154062.0,237834.0,Phoenix,Office,Development,Phoenix Office 23
+PROP-023,2022-07,238497.0,0.925,390531.0,148402.0,237834.0,Phoenix,Office,Development,Phoenix Office 23
+PROP-023,2022-08,236799.0,0.929,392121.0,149006.0,237834.0,Phoenix,Office,Development,Phoenix Office 23
+PROP-023,2022-09,241737.0,0.952,401957.0,152744.0,237834.0,Phoenix,Office,Development,Phoenix Office 23
+PROP-023,2022-10,243047.0,0.954,402468.0,152938.0,237834.0,Phoenix,Office,Development,Phoenix Office 23
+PROP-023,2022-11,243716.0,0.946,399076.0,151649.0,237834.0,Phoenix,Office,Development,Phoenix Office 23
+PROP-023,2022-12,249762.0,0.954,402841.0,153080.0,237834.0,Phoenix,Office,Development,Phoenix Office 23
+PROP-023,2023-01,252163.0,0.949,400704.0,152267.0,237834.0,Phoenix,Office,Development,Phoenix Office 23
+PROP-023,2023-02,254086.0,0.946,399439.0,151787.0,237834.0,Phoenix,Office,Development,Phoenix Office 23
+PROP-023,2023-03,252675.0,0.937,395670.0,150355.0,237834.0,Phoenix,Office,Development,Phoenix Office 23
+PROP-023,2023-04,253492.0,0.944,398505.0,151432.0,237834.0,Phoenix,Office,Development,Phoenix Office 23
+PROP-023,2023-05,247459.0,0.932,393229.0,149427.0,237834.0,Phoenix,Office,Development,Phoenix Office 23
+PROP-023,2023-06,242897.0,0.928,391769.0,148872.0,237834.0,Phoenix,Office,Development,Phoenix Office 23
+PROP-023,2023-07,239265.0,0.928,391787.0,148879.0,237834.0,Phoenix,Office,Development,Phoenix Office 23
+PROP-023,2023-08,233987.0,0.918,387466.0,147237.0,237834.0,Phoenix,Office,Development,Phoenix Office 23
+PROP-023,2023-09,233505.0,0.92,388270.0,147543.0,237834.0,Phoenix,Office,Development,Phoenix Office 23
+PROP-023,2023-10,244972.0,0.961,405655.0,154149.0,237834.0,Phoenix,Office,Development,Phoenix Office 23
+PROP-023,2023-11,241055.0,0.935,394719.0,149993.0,237834.0,Phoenix,Office,Development,Phoenix Office 23
+PROP-023,2023-12,240909.0,0.921,388563.0,147654.0,237834.0,Phoenix,Office,Development,Phoenix Office 23
+PROP-023,2024-01,243195.0,0.916,386454.0,146852.0,237834.0,Phoenix,Office,Development,Phoenix Office 23
+PROP-023,2024-02,244916.0,0.912,385022.0,146308.0,237834.0,Phoenix,Office,Development,Phoenix Office 23
+PROP-023,2024-03,257489.0,0.955,403208.0,153219.0,237834.0,Phoenix,Office,Development,Phoenix Office 23
+PROP-023,2024-04,245277.0,0.914,385590.0,146524.0,237834.0,Phoenix,Office,Development,Phoenix Office 23
+PROP-023,2024-05,252642.0,0.951,401465.0,152557.0,237834.0,Phoenix,Office,Development,Phoenix Office 23
+PROP-023,2024-06,249852.0,0.955,402987.0,153135.0,237834.0,Phoenix,Office,Development,Phoenix Office 23
+PROP-023,2024-07,246807.0,0.958,404139.0,153573.0,237834.0,Phoenix,Office,Development,Phoenix Office 23
+PROP-023,2024-08,231947.0,0.91,384088.0,145953.0,237834.0,Phoenix,Office,Development,Phoenix Office 23
+PROP-023,2024-09,235253.0,0.927,391175.0,148647.0,237834.0,Phoenix,Office,Development,Phoenix Office 23
+PROP-023,2024-10,242376.0,0.951,401356.0,152515.0,237834.0,Phoenix,Office,Development,Phoenix Office 23
+PROP-023,2024-11,235913.0,0.915,386299.0,146794.0,237834.0,Phoenix,Office,Development,Phoenix Office 23
+PROP-024,2022-01,93694.0,0.923,151120.0,57426.0,65993.0,Houston,Industrial,Development,Houston Industrial 24
+PROP-024,2022-01,93867.0,0.911,149161.0,56681.0,65993.0,Houston,Industrial,Development,Houston Industrial 24
+PROP-024,2022-03,98770.0,0.948,155273.0,59004.0,65993.0,Houston,Industrial,Development,Houston Industrial 24
+PROP-024,2022-04,98806.0,0.945,154723.0,58795.0,65993.0,Houston,Industrial,Development,Houston Industrial 24
+PROP-024,2022-05,98641.0,0.947,155069.0,58926.0,65993.0,Houston,Industrial,Development,Houston Industrial 24
+PROP-024,2022-05,93886.0,0.911,149191.0,56693.0,65993.0,Houston,Industrial,Development,Houston Industrial 24
+PROP-024,2022-06,94040.0,0.927,151677.0,57637.0,65993.0,Houston,Industrial,Development,Houston Industrial 24
+PROP-024,2022-07,92479.0,0.925,151432.0,57544.0,65993.0,Houston,Industrial,Development,Houston Industrial 24
+PROP-024,2022-08,92913.0,0.94,153857.0,58466.0,65993.0,Houston,Industrial,Development,Houston Industrial 24
+PROP-024,2022-09,90119.0,0.915,149849.0,56942.0,65993.0,Houston,Industrial,Development,Houston Industrial 24
+PROP-024,2022-10,91632.0,0.927,151736.0,57660.0,65993.0,Houston,Industrial,Development,Houston Industrial 24
+PROP-024,2022-11,91777.0,0.918,150281.0,57107.0,65993.0,Houston,Industrial,Development,Houston Industrial 24
+PROP-024,2022-12,95800.0,0.944,154516.0,58716.0,65993.0,Houston,Industrial,Development,Houston Industrial 24
+PROP-024,2023-01,95515.0,0.927,151780.0,57676.0,65993.0,Houston,Industrial,Development,Houston Industrial 24
+PROP-024,2023-02,97043.0,0.932,152557.0,57972.0,65993.0,Houston,Industrial,Development,Houston Industrial 24
+PROP-024,2023-03,96113.0,0.919,150506.0,57192.0,65993.0,Houston,Industrial,Development,Houston Industrial 24
+PROP-024,2023-04,98638.0,0.947,155065.0,58925.0,65993.0,Houston,Industrial,Development,Houston Industrial 24
+PROP-024,2023-05,95630.0,0.928,151963.0,57746.0,65993.0,Houston,Industrial,Development,Houston Industrial 24
+PROP-024,2023-06,96291.0,0.949,155307.0,59017.0,65993.0,Houston,Industrial,Development,Houston Industrial 24
+PROP-024,2023-07,92239.0,0.923,151039.0,57395.0,65993.0,Houston,Industrial,Development,Houston Industrial 24
+PROP-024,2023-08,94407.0,0.955,156331.0,59406.0,65993.0,Houston,Industrial,Development,Houston Industrial 24
+PROP-024,2023-09,94222.0,0.957,156671.0,59535.0,65993.0,Houston,Industrial,Development,Houston Industrial 24
+PROP-024,2023-10,91729.0,0.928,151896.0,57721.0,65993.0,Houston,Industrial,Development,Houston Industrial 24
+PROP-024,2023-11,91759.0,0.918,150253.0,57096.0,65993.0,Houston,Industrial,Development,Houston Industrial 24
+PROP-024,2023-12,93724.0,0.923,151167.0,57443.0,65993.0,Houston,Industrial,Development,Houston Industrial 24
+PROP-024,2024-01,95966.0,0.932,152497.0,57949.0,65993.0,Houston,Industrial,Development,Houston Industrial 24
+PROP-024,2024-02,99554.0,0.956,156505.0,59472.0,65993.0,Houston,Industrial,Development,Houston Industrial 24
+PROP-024,2024-03,99073.0,0.948,155141.0,58954.0,65993.0,Houston,Industrial,Development,Houston Industrial 24
+PROP-024,2024-04,98596.0,0.947,154998.0,58899.0,65993.0,Houston,Industrial,Development,Houston Industrial 24
+PROP-024,2024-05,93730.0,0.91,148943.0,56598.0,65993.0,Houston,Industrial,Development,Houston Industrial 24
+PROP-024,2024-06,92977.0,0.916,149962.0,56986.0,65993.0,Houston,Industrial,Development,Houston Industrial 24
+PROP-024,2024-07,93764.0,0.938,153536.0,58344.0,65993.0,Houston,Industrial,Development,Houston Industrial 24
+PROP-024,2024-08,94004.0,0.951,155664.0,59152.0,65993.0,Houston,Industrial,Development,Houston Industrial 24
+PROP-024,2024-09,91860.0,0.933,152744.0,58043.0,65993.0,Houston,Industrial,Development,Houston Industrial 24
+PROP-024,2024-10,89748.0,0.908,148616.0,56474.0,65993.0,Houston,Industrial,Development,Houston Industrial 24
+PROP-024,2024-11,94906.0,0.949,155406.0,59054.0,65993.0,Houston,Industrial,Development,Houston Industrial 24
+PROP-025,2022-01,97892.0,0.911,157890.0,59998.0,69767.0,Denver,Multifamily,Development,Denver Multifamily 25
+PROP-025,2022-01,96055.0,0.88,152638.0,58002.0,69767.0,Denver,Multifamily,Development,Denver Multifamily 25
+PROP-025,2022-03,99916.0,0.906,157073.0,59688.0,69767.0,Denver,Multifamily,Development,Denver Multifamily 25
+PROP-025,2022-04,97402.0,0.88,152524.0,57959.0,69767.0,Denver,Multifamily,Development,Denver Multifamily 25
+PROP-025,2022-05,100755.0,0.914,158393.0,60189.0,69767.0,Denver,Multifamily,Development,Denver Multifamily 25
+PROP-025,2022-05,95251.0,0.873,151360.0,57517.0,69767.0,Denver,Multifamily,Development,Denver Multifamily 25
+PROP-025,2022-06,95512.0,0.889,154052.0,58540.0,69767.0,Denver,Multifamily,Development,Denver Multifamily 25
+PROP-025,2022-07,96963.0,0.916,158774.0,60334.0,69767.0,Denver,Multifamily,Development,Denver Multifamily 25
+PROP-025,2022-08,91824.0,0.877,152053.0,57780.0,69767.0,Denver,Multifamily,Development,Denver Multifamily 25
+PROP-025,2022-09,92723.0,0.889,154179.0,58588.0,69767.0,Denver,Multifamily,Development,Denver Multifamily 25
+PROP-025,2022-10,92538.0,0.884,153237.0,58230.0,69767.0,Denver,Multifamily,Development,Denver Multifamily 25
+PROP-025,2022-11,91752.0,0.867,150241.0,57091.0,69767.0,Denver,Multifamily,Development,Denver Multifamily 25
+PROP-025,2022-12,93302.0,0.868,150487.0,57185.0,69767.0,Denver,Multifamily,Development,Denver Multifamily 25
+PROP-025,2023-01,97322.0,0.892,154651.0,58767.0,69767.0,Denver,Multifamily,Development,Denver Multifamily 25
+PROP-025,2023-02,96803.0,0.878,152181.0,57829.0,69767.0,Denver,Multifamily,Development,Denver Multifamily 25
+PROP-025,2023-03,101678.0,0.918,159220.0,60504.0,69767.0,Denver,Multifamily,Development,Denver Multifamily 25
+PROP-025,2023-04,97625.0,0.885,153472.0,58319.0,69767.0,Denver,Multifamily,Development,Denver Multifamily 25
+PROP-025,2023-05,94555.0,0.867,150255.0,57097.0,69767.0,Denver,Multifamily,Development,Denver Multifamily 25
+PROP-025,2023-06,98350.0,0.915,158629.0,60279.0,69767.0,Denver,Multifamily,Development,Denver Multifamily 25
+PROP-025,2023-07,96356.0,0.91,157779.0,59956.0,69767.0,Denver,Multifamily,Development,Denver Multifamily 25
+PROP-025,2023-08,94221.0,0.9,156024.0,59289.0,69767.0,Denver,Multifamily,Development,Denver Multifamily 25
+PROP-025,2023-09,94622.0,0.908,157336.0,59788.0,69767.0,Denver,Multifamily,Development,Denver Multifamily 25
+PROP-025,2023-10,91351.0,0.873,151270.0,57483.0,69767.0,Denver,Multifamily,Development,Denver Multifamily 25
+PROP-025,2023-11,93226.0,0.881,152655.0,58009.0,69767.0,Denver,Multifamily,Development,Denver Multifamily 25
+PROP-025,2023-12,97769.0,0.91,157692.0,59923.0,69767.0,Denver,Multifamily,Development,Denver Multifamily 25
+PROP-025,2024-01,98455.0,0.902,156451.0,59452.0,69767.0,Denver,Multifamily,Development,Denver Multifamily 25
+PROP-025,2024-02,96231.0,0.873,151281.0,57487.0,69767.0,Denver,Multifamily,Development,Denver Multifamily 25
+PROP-025,2024-03,99966.0,0.903,156539.0,59485.0,69767.0,Denver,Multifamily,Development,Denver Multifamily 25
+PROP-025,2024-04,98059.0,0.889,154155.0,58579.0,69767.0,Denver,Multifamily,Development,Denver Multifamily 25
+PROP-025,2024-05,94421.0,0.866,150042.0,57016.0,69767.0,Denver,Multifamily,Development,Denver Multifamily 25
+PROP-025,2024-06,93452.0,0.869,150728.0,57277.0,69767.0,Denver,Multifamily,Development,Denver Multifamily 25
+PROP-025,2024-07,93051.0,0.879,152368.0,57900.0,69767.0,Denver,Multifamily,Development,Denver Multifamily 25
+PROP-025,2024-08,95258.0,0.91,157740.0,59941.0,69767.0,Denver,Multifamily,Development,Denver Multifamily 25
+PROP-025,2024-09,93268.0,0.895,155085.0,58932.0,69767.0,Denver,Multifamily,Development,Denver Multifamily 25
+PROP-025,2024-10,94654.0,0.904,156741.0,59561.0,69767.0,Denver,Multifamily,Development,Denver Multifamily 25
+PROP-025,2024-11,94591.0,0.893,154890.0,58858.0,69767.0,Denver,Multifamily,Development,Denver Multifamily 25
+PROP-026,2022-01,389986.0,0.89,629010.0,239024.0,336281.0,Dallas-Fort Worth,Multifamily,Value-Add,Dallas Multifamily 26
+PROP-026,2022-01,400138.0,0.899,635847.0,241622.0,336281.0,Dallas-Fort Worth,Multifamily,Value-Add,Dallas Multifamily 26
+PROP-026,2022-03,404788.0,0.9,636351.0,241813.0,336281.0,Dallas-Fort Worth,Multifamily,Value-Add,Dallas Multifamily 26
+PROP-026,2022-04,400121.0,0.886,626559.0,238092.0,336281.0,Dallas-Fort Worth,Multifamily,Value-Add,Dallas Multifamily 26
+PROP-026,2022-05,407705.0,0.907,640937.0,243556.0,336281.0,Dallas-Fort Worth,Multifamily,Value-Add,Dallas Multifamily 26
+PROP-026,2022-05,412438.0,0.927,655392.0,249049.0,336281.0,Dallas-Fort Worth,Multifamily,Value-Add,Dallas Multifamily 26
+PROP-026,2022-06,398274.0,0.909,642378.0,244103.0,336281.0,Dallas-Fort Worth,Multifamily,Value-Add,Dallas Multifamily 26
+PROP-026,2022-07,384129.0,0.89,628998.0,239019.0,336281.0,Dallas-Fort Worth,Multifamily,Value-Add,Dallas Multifamily 26
+PROP-026,2022-08,398382.0,0.933,659691.0,250682.0,336281.0,Dallas-Fort Worth,Multifamily,Value-Add,Dallas Multifamily 26
+PROP-026,2022-09,389571.0,0.916,647773.0,246154.0,336281.0,Dallas-Fort Worth,Multifamily,Value-Add,Dallas Multifamily 26
+PROP-026,2022-10,377643.0,0.885,625349.0,237633.0,336281.0,Dallas-Fort Worth,Multifamily,Value-Add,Dallas Multifamily 26
+PROP-026,2022-11,393675.0,0.912,644629.0,244959.0,336281.0,Dallas-Fort Worth,Multifamily,Value-Add,Dallas Multifamily 26
+PROP-026,2022-12,393119.0,0.897,634063.0,240944.0,336281.0,Dallas-Fort Worth,Multifamily,Value-Add,Dallas Multifamily 26
+PROP-026,2023-01,396624.0,0.892,630262.0,239500.0,336281.0,Dallas-Fort Worth,Multifamily,Value-Add,Dallas Multifamily 26
+PROP-026,2023-02,407936.0,0.907,641300.0,243694.0,336281.0,Dallas-Fort Worth,Multifamily,Value-Add,Dallas Multifamily 26
+PROP-026,2023-03,414114.0,0.917,648471.0,246419.0,336281.0,Dallas-Fort Worth,Multifamily,Value-Add,Dallas Multifamily 26
+PROP-026,2023-04,403299.0,0.897,634010.0,240924.0,336281.0,Dallas-Fort Worth,Multifamily,Value-Add,Dallas Multifamily 26
+PROP-026,2023-05,403262.0,0.906,640811.0,243508.0,336281.0,Dallas-Fort Worth,Multifamily,Value-Add,Dallas Multifamily 26
+PROP-026,2023-06,403240.0,0.92,650386.0,247147.0,336281.0,Dallas-Fort Worth,Multifamily,Value-Add,Dallas Multifamily 26
+PROP-026,2023-07,383533.0,0.888,628022.0,238648.0,336281.0,Dallas-Fort Worth,Multifamily,Value-Add,Dallas Multifamily 26
+PROP-026,2023-08,400004.0,0.937,662376.0,251703.0,336281.0,Dallas-Fort Worth,Multifamily,Value-Add,Dallas Multifamily 26
+PROP-026,2023-09,377276.0,0.887,627329.0,238385.0,336281.0,Dallas-Fort Worth,Multifamily,Value-Add,Dallas Multifamily 26
+PROP-026,2023-10,389536.0,0.912,645042.0,245116.0,336281.0,Dallas-Fort Worth,Multifamily,Value-Add,Dallas Multifamily 26
+PROP-026,2023-11,393485.0,0.911,644318.0,244841.0,336281.0,Dallas-Fort Worth,Multifamily,Value-Add,Dallas Multifamily 26
+PROP-026,2023-12,411001.0,0.938,662905.0,251904.0,336281.0,Dallas-Fort Worth,Multifamily,Value-Add,Dallas Multifamily 26
+PROP-026,2024-01,406608.0,0.914,646127.0,245528.0,336281.0,Dallas-Fort Worth,Multifamily,Value-Add,Dallas Multifamily 26
+PROP-026,2024-02,406983.0,0.905,639802.0,243125.0,336281.0,Dallas-Fort Worth,Multifamily,Value-Add,Dallas Multifamily 26
+PROP-026,2024-03,410544.0,0.909,642881.0,244295.0,336281.0,Dallas-Fort Worth,Multifamily,Value-Add,Dallas Multifamily 26
+PROP-026,2024-04,413011.0,0.918,649277.0,246725.0,336281.0,Dallas-Fort Worth,Multifamily,Value-Add,Dallas Multifamily 26
+PROP-026,2024-05,416989.0,0.937,662623.0,251797.0,336281.0,Dallas-Fort Worth,Multifamily,Value-Add,Dallas Multifamily 26
+PROP-026,2024-06,393400.0,0.898,634515.0,241116.0,336281.0,Dallas-Fort Worth,Multifamily,Value-Add,Dallas Multifamily 26
+PROP-026,2024-07,381896.0,0.885,625341.0,237630.0,336281.0,Dallas-Fort Worth,Multifamily,Value-Add,Dallas Multifamily 26
+PROP-026,2024-08,395660.0,0.927,655184.0,248970.0,336281.0,Dallas-Fort Worth,Multifamily,Value-Add,Dallas Multifamily 26
+PROP-026,2024-09,383716.0,0.903,638038.0,242454.0,336281.0,Dallas-Fort Worth,Multifamily,Value-Add,Dallas Multifamily 26
+PROP-026,2024-10,394363.0,0.924,653036.0,248154.0,336281.0,Dallas-Fort Worth,Multifamily,Value-Add,Dallas Multifamily 26
+PROP-026,2024-11,396339.0,0.918,648991.0,246617.0,336281.0,Dallas-Fort Worth,Multifamily,Value-Add,Dallas Multifamily 26
+PROP-027,2022-01,82917.0,0.904,133738.0,50820.0,78193.0,Houston,Retail,Development,Houston Retail 27
+PROP-027,2022-01,83981.0,0.903,133451.0,50711.0,78193.0,Houston,Retail,Development,Houston Retail 27
+PROP-027,2022-03,82867.0,0.881,130272.0,49503.0,78193.0,Houston,Retail,Development,Houston Retail 27
+PROP-027,2022-04,81738.0,0.866,127996.0,48639.0,78193.0,Houston,Retail,Development,Houston Retail 27
+PROP-027,2022-05,83939.0,0.892,131957.0,50144.0,78193.0,Houston,Retail,Development,Houston Retail 27
+PROP-027,2022-05,84370.0,0.907,134069.0,50946.0,78193.0,Houston,Retail,Development,Houston Retail 27
+PROP-027,2022-06,79998.0,0.873,129029.0,49031.0,78193.0,Houston,Retail,Development,Houston Retail 27
+PROP-027,2022-07,81710.0,0.905,133798.0,50843.0,78193.0,Houston,Retail,Development,Houston Retail 27
+PROP-027,2022-08,79300.0,0.888,131315.0,49900.0,78193.0,Houston,Retail,Development,Houston Retail 27
+PROP-027,2022-09,80068.0,0.9,133137.0,50592.0,78193.0,Houston,Retail,Development,Houston Retail 27
+PROP-027,2022-10,80097.0,0.897,132634.0,50401.0,78193.0,Houston,Retail,Development,Houston Retail 27
+PROP-027,2022-11,81866.0,0.907,134053.0,50940.0,78193.0,Houston,Retail,Development,Houston Retail 27
+PROP-027,2022-12,79449.0,0.867,128144.0,48695.0,78193.0,Houston,Retail,Development,Houston Retail 27
+PROP-027,2023-01,84184.0,0.905,133775.0,50834.0,78193.0,Houston,Retail,Development,Houston Retail 27
+PROP-027,2023-02,83495.0,0.888,131260.0,49879.0,78193.0,Houston,Retail,Development,Houston Retail 27
+PROP-027,2023-03,82994.0,0.879,129963.0,49386.0,78193.0,Houston,Retail,Development,Houston Retail 27
+PROP-027,2023-04,81417.0,0.866,127992.0,48637.0,78193.0,Houston,Retail,Development,Houston Retail 27
+PROP-027,2023-05,81319.0,0.874,129221.0,49104.0,78193.0,Houston,Retail,Development,Houston Retail 27
+PROP-027,2023-06,79346.0,0.866,127977.0,48631.0,78193.0,Houston,Retail,Development,Houston Retail 27
+PROP-027,2023-07,82454.0,0.913,135016.0,51306.0,78193.0,Houston,Retail,Development,Houston Retail 27
+PROP-027,2023-08,79542.0,0.891,131715.0,50052.0,78193.0,Houston,Retail,Development,Houston Retail 27
+PROP-027,2023-09,81463.0,0.916,135456.0,51473.0,78193.0,Houston,Retail,Development,Houston Retail 27
+PROP-027,2023-10,79674.0,0.892,131934.0,50135.0,78193.0,Houston,Retail,Development,Houston Retail 27
+PROP-027,2023-11,79175.0,0.877,129646.0,49266.0,78193.0,Houston,Retail,Development,Houston Retail 27
+PROP-027,2023-12,82828.0,0.904,133594.0,50766.0,78193.0,Houston,Retail,Development,Houston Retail 27
+PROP-027,2024-01,81277.0,0.874,129155.0,49079.0,78193.0,Houston,Retail,Development,Houston Retail 27
+PROP-027,2024-02,82990.0,0.882,130465.0,49577.0,78193.0,Houston,Retail,Development,Houston Retail 27
+PROP-027,2024-03,85452.0,0.905,133811.0,50848.0,78193.0,Houston,Retail,Development,Houston Retail 27
+PROP-027,2024-04,85545.0,0.91,134482.0,51103.0,78193.0,Houston,Retail,Development,Houston Retail 27
+PROP-027,2024-05,81977.0,0.881,130267.0,49501.0,78193.0,Houston,Retail,Development,Houston Retail 27
+PROP-027,2024-06,79750.0,0.87,128629.0,48879.0,78193.0,Houston,Retail,Development,Houston Retail 27
+PROP-027,2024-07,79728.0,0.883,130552.0,49610.0,78193.0,Houston,Retail,Development,Houston Retail 27
+PROP-027,2024-08,81326.0,0.911,134669.0,51174.0,78193.0,Houston,Retail,Development,Houston Retail 27
+PROP-027,2024-09,80296.0,0.903,133515.0,50736.0,78193.0,Houston,Retail,Development,Houston Retail 27
+PROP-027,2024-10,81350.0,0.911,134710.0,51190.0,78193.0,Houston,Retail,Development,Houston Retail 27
+PROP-027,2024-11,79818.0,0.884,130699.0,49666.0,78193.0,Houston,Retail,Development,Houston Retail 27
+PROP-028,2022-01,218122.0,0.977,351810.0,133688.0,180084.0,Austin,Office,Development,Austin Office 28
+PROP-028,2022-01,215226.0,0.95,342009.0,129963.0,180084.0,Austin,Office,Development,Austin Office 28
+PROP-028,2022-03,217572.0,0.95,342036.0,129974.0,180084.0,Austin,Office,Development,Austin Office 28
+PROP-028,2022-04,224018.0,0.974,350796.0,133302.0,180084.0,Austin,Office,Development,Austin Office 28
+PROP-028,2022-05,217856.0,0.951,342483.0,130143.0,180084.0,Austin,Office,Development,Austin Office 28
+PROP-028,2022-05,219165.0,0.967,348268.0,132342.0,180084.0,Austin,Office,Development,Austin Office 28
+PROP-028,2022-06,214984.0,0.963,346748.0,131764.0,180084.0,Austin,Office,Development,Austin Office 28
+PROP-028,2022-07,203634.0,0.926,333444.0,126709.0,180084.0,Austin,Office,Development,Austin Office 28
+PROP-028,2022-08,207853.0,0.956,344190.0,130792.0,180084.0,Austin,Office,Development,Austin Office 28
+PROP-028,2022-09,209710.0,0.968,348703.0,132507.0,180084.0,Austin,Office,Development,Austin Office 28
+PROP-028,2022-10,207147.0,0.953,343020.0,130348.0,180084.0,Austin,Office,Development,Austin Office 28
+PROP-028,2022-11,206671.0,0.94,338417.0,128599.0,180084.0,Austin,Office,Development,Austin Office 28
+PROP-028,2022-12,206750.0,0.926,333468.0,126718.0,180084.0,Austin,Office,Development,Austin Office 28
+PROP-028,2023-01,217354.0,0.959,345390.0,131248.0,180084.0,Austin,Office,Development,Austin Office 28
+PROP-028,2023-02,215078.0,0.939,338115.0,128484.0,180084.0,Austin,Office,Development,Austin Office 28
+PROP-028,2023-03,219802.0,0.956,344193.0,130793.0,180084.0,Austin,Office,Development,Austin Office 28
+PROP-028,2023-04,216640.0,0.946,340570.0,129417.0,180084.0,Austin,Office,Development,Austin Office 28
+PROP-028,2023-05,217726.0,0.961,345982.0,131473.0,180084.0,Austin,Office,Development,Austin Office 28
+PROP-028,2023-06,210205.0,0.942,339040.0,128835.0,180084.0,Austin,Office,Development,Austin Office 28
+PROP-028,2023-07,203176.0,0.924,332694.0,126424.0,180084.0,Austin,Office,Development,Austin Office 28
+PROP-028,2023-08,211170.0,0.971,349682.0,132879.0,180084.0,Austin,Office,Development,Austin Office 28
+PROP-028,2023-09,203911.0,0.942,339061.0,128843.0,180084.0,Austin,Office,Development,Austin Office 28
+PROP-028,2023-10,212758.0,0.978,352312.0,133878.0,180084.0,Austin,Office,Development,Austin Office 28
+PROP-028,2023-11,206087.0,0.937,337460.0,128235.0,180084.0,Austin,Office,Development,Austin Office 28
+PROP-028,2023-12,218203.0,0.977,351940.0,133737.0,180084.0,Austin,Office,Development,Austin Office 28
+PROP-028,2024-01,221061.0,0.976,351280.0,133487.0,180084.0,Austin,Office,Development,Austin Office 28
+PROP-028,2024-02,212056.0,0.926,333365.0,126679.0,180084.0,Austin,Office,Development,Austin Office 28
+PROP-028,2024-03,220259.0,0.958,344909.0,131066.0,180084.0,Austin,Office,Development,Austin Office 28
+PROP-028,2024-04,215820.0,0.942,339281.0,128927.0,180084.0,Austin,Office,Development,Austin Office 28
+PROP-028,2024-05,219164.0,0.967,348267.0,132341.0,180084.0,Austin,Office,Development,Austin Office 28
+PROP-028,2024-06,214377.0,0.96,345769.0,131392.0,180084.0,Austin,Office,Development,Austin Office 28
+PROP-028,2024-07,214588.0,0.976,351381.0,133525.0,180084.0,Austin,Office,Development,Austin Office 28
+PROP-028,2024-08,202156.0,0.93,334755.0,127207.0,180084.0,Austin,Office,Development,Austin Office 28
+PROP-028,2024-09,207059.0,0.956,344295.0,130832.0,180084.0,Austin,Office,Development,Austin Office 28
+PROP-028,2024-10,210070.0,0.966,347861.0,132187.0,180084.0,Austin,Office,Development,Austin Office 28
+PROP-028,2024-11,203081.0,0.923,332539.0,126365.0,180084.0,Austin,Office,Development,Austin Office 28
+PROP-029,2022-01,131207.0,0.868,211624.0,80417.0,79377.0,Denver,Office,Development,Denver Office 29
+PROP-029,2022-01,139010.0,0.906,220896.0,83940.0,79377.0,Denver,Office,Development,Denver Office 29
+PROP-029,2022-03,137096.0,0.884,215523.0,81899.0,79377.0,Denver,Office,Development,Denver Office 29
+PROP-029,2022-04,137770.0,0.885,215738.0,81980.0,79377.0,Denver,Office,Development,Denver Office 29
+PROP-029,2022-05,138762.0,0.895,218142.0,82894.0,79377.0,Denver,Office,Development,Denver Office 29
+PROP-029,2022-05,137587.0,0.897,218635.0,83081.0,79377.0,Denver,Office,Development,Denver Office 29
+PROP-029,2022-06,136152.0,0.901,219599.0,83448.0,79377.0,Denver,Office,Development,Denver Office 29
+PROP-029,2022-07,136257.0,0.915,223116.0,84784.0,79377.0,Denver,Office,Development,Denver Office 29
+PROP-029,2022-08,130197.0,0.884,215597.0,81927.0,79377.0,Denver,Office,Development,Denver Office 29
+PROP-029,2022-09,132726.0,0.905,220695.0,83864.0,79377.0,Denver,Office,Development,Denver Office 29
+PROP-029,2022-10,131787.0,0.895,218229.0,82927.0,79377.0,Denver,Office,Development,Denver Office 29
+PROP-029,2022-11,132918.0,0.893,217649.0,82707.0,79377.0,Denver,Office,Development,Denver Office 29
+PROP-029,2022-12,133880.0,0.886,215936.0,82056.0,79377.0,Denver,Office,Development,Denver Office 29
+PROP-029,2023-01,137952.0,0.899,219215.0,83302.0,79377.0,Denver,Office,Development,Denver Office 29
+PROP-029,2023-02,136128.0,0.878,214001.0,81320.0,79377.0,Denver,Office,Development,Denver Office 29
+PROP-029,2023-03,135528.0,0.87,212226.0,80646.0,79377.0,Denver,Office,Development,Denver Office 29
+PROP-029,2023-04,140158.0,0.904,220337.0,83728.0,79377.0,Denver,Office,Development,Denver Office 29
+PROP-029,2023-05,136717.0,0.891,217253.0,82556.0,79377.0,Denver,Office,Development,Denver Office 29
+PROP-029,2023-06,133791.0,0.885,215792.0,82001.0,79377.0,Denver,Office,Development,Denver Office 29
+PROP-029,2023-07,133175.0,0.894,218069.0,82866.0,79377.0,Denver,Office,Development,Denver Office 29
+PROP-029,2023-08,129329.0,0.878,214160.0,81381.0,79377.0,Denver,Office,Development,Denver Office 29
+PROP-029,2023-09,128784.0,0.878,214140.0,81373.0,79377.0,Denver,Office,Development,Denver Office 29
+PROP-029,2023-10,130782.0,0.888,216565.0,82295.0,79377.0,Denver,Office,Development,Denver Office 29
+PROP-029,2023-11,136635.0,0.918,223736.0,85020.0,79377.0,Denver,Office,Development,Denver Office 29
+PROP-029,2023-12,132971.0,0.88,214470.0,81499.0,79377.0,Denver,Office,Development,Denver Office 29
+PROP-029,2024-01,140141.0,0.913,222694.0,84624.0,79377.0,Denver,Office,Development,Denver Office 29
+PROP-029,2024-02,138131.0,0.891,217150.0,82517.0,79377.0,Denver,Office,Development,Denver Office 29
+PROP-029,2024-03,135604.0,0.871,212346.0,80691.0,79377.0,Denver,Office,Development,Denver Office 29
+PROP-029,2024-04,141130.0,0.91,221864.0,84308.0,79377.0,Denver,Office,Development,Denver Office 29
+PROP-029,2024-05,136331.0,0.888,216640.0,82323.0,79377.0,Denver,Office,Development,Denver Office 29
+PROP-029,2024-06,137927.0,0.912,222462.0,84536.0,79377.0,Denver,Office,Development,Denver Office 29
+PROP-029,2024-07,132247.0,0.888,216550.0,82289.0,79377.0,Denver,Office,Development,Denver Office 29
+PROP-029,2024-08,127960.0,0.869,211892.0,80519.0,79377.0,Denver,Office,Development,Denver Office 29
+PROP-029,2024-09,132089.0,0.901,219637.0,83462.0,79377.0,Denver,Office,Development,Denver Office 29
+PROP-029,2024-10,133925.0,0.909,221769.0,84272.0,79377.0,Denver,Office,Development,Denver Office 29
+PROP-029,2024-11,131248.0,0.881,214913.0,81667.0,79377.0,Denver,Office,Development,Denver Office 29
+PROP-030,2022-01,200392.0,0.897,323213.0,122821.0,158319.0,Denver,Industrial,Stabilized,Denver Industrial 30
+PROP-030,2022-01,199919.0,0.881,317684.0,120720.0,158319.0,Denver,Industrial,Stabilized,Denver Industrial 30
+PROP-030,2022-03,208023.0,0.907,327024.0,124269.0,158319.0,Denver,Industrial,Stabilized,Denver Industrial 30
+PROP-030,2022-04,213202.0,0.926,333858.0,126866.0,158319.0,Denver,Industrial,Stabilized,Denver Industrial 30
+PROP-030,2022-05,211872.0,0.924,333076.0,126569.0,158319.0,Denver,Industrial,Stabilized,Denver Industrial 30
+PROP-030,2022-05,207886.0,0.917,330345.0,125531.0,158319.0,Denver,Industrial,Stabilized,Denver Industrial 30
+PROP-030,2022-06,207429.0,0.928,334563.0,127134.0,158319.0,Denver,Industrial,Stabilized,Denver Industrial 30
+PROP-030,2022-07,200856.0,0.912,328894.0,124980.0,158319.0,Denver,Industrial,Stabilized,Denver Industrial 30
+PROP-030,2022-08,200460.0,0.921,331947.0,126140.0,158319.0,Denver,Industrial,Stabilized,Denver Industrial 30
+PROP-030,2022-09,196279.0,0.905,326370.0,124021.0,158319.0,Denver,Industrial,Stabilized,Denver Industrial 30
+PROP-030,2022-10,192514.0,0.884,318788.0,121140.0,158319.0,Denver,Industrial,Stabilized,Denver Industrial 30
+PROP-030,2022-11,195636.0,0.889,320347.0,121732.0,158319.0,Denver,Industrial,Stabilized,Denver Industrial 30
+PROP-030,2022-12,197861.0,0.885,319131.0,121270.0,158319.0,Denver,Industrial,Stabilized,Denver Industrial 30
+PROP-030,2023-01,208853.0,0.921,331882.0,126115.0,158319.0,Denver,Industrial,Stabilized,Denver Industrial 30
+PROP-030,2023-02,201600.0,0.879,316928.0,120432.0,158319.0,Denver,Industrial,Stabilized,Denver Industrial 30
+PROP-030,2023-03,208986.0,0.908,327256.0,124357.0,158319.0,Denver,Industrial,Stabilized,Denver Industrial 30
+PROP-030,2023-04,205866.0,0.898,323633.0,122981.0,158319.0,Denver,Industrial,Stabilized,Denver Industrial 30
+PROP-030,2023-05,209017.0,0.921,332142.0,126214.0,158319.0,Denver,Industrial,Stabilized,Denver Industrial 30
+PROP-030,2023-06,202870.0,0.908,327210.0,124340.0,158319.0,Denver,Industrial,Stabilized,Denver Industrial 30
+PROP-030,2023-07,200548.0,0.911,328390.0,124788.0,158319.0,Denver,Industrial,Stabilized,Denver Industrial 30
+PROP-030,2023-08,192098.0,0.883,318100.0,120878.0,158319.0,Denver,Industrial,Stabilized,Denver Industrial 30
+PROP-030,2023-09,193931.0,0.895,322467.0,122537.0,158319.0,Denver,Industrial,Stabilized,Denver Industrial 30
+PROP-030,2023-10,202894.0,0.932,335977.0,127671.0,158319.0,Denver,Industrial,Stabilized,Denver Industrial 30
+PROP-030,2023-11,201826.0,0.917,330483.0,125583.0,158319.0,Denver,Industrial,Stabilized,Denver Industrial 30
+PROP-030,2023-12,202555.0,0.906,326702.0,124147.0,158319.0,Denver,Industrial,Stabilized,Denver Industrial 30
+PROP-030,2024-01,208592.0,0.92,331467.0,125958.0,158319.0,Denver,Industrial,Stabilized,Denver Industrial 30
+PROP-030,2024-02,211523.0,0.923,332527.0,126360.0,158319.0,Denver,Industrial,Stabilized,Denver Industrial 30
+PROP-030,2024-03,202983.0,0.882,317857.0,120785.0,158319.0,Denver,Industrial,Stabilized,Denver Industrial 30
+PROP-030,2024-04,213379.0,0.931,335444.0,127469.0,158319.0,Denver,Industrial,Stabilized,Denver Industrial 30
+PROP-030,2024-05,207030.0,0.913,328985.0,125014.0,158319.0,Denver,Industrial,Stabilized,Denver Industrial 30
+PROP-030,2024-06,201636.0,0.902,325220.0,123584.0,158319.0,Denver,Industrial,Stabilized,Denver Industrial 30
+PROP-030,2024-07,201363.0,0.915,329724.0,125295.0,158319.0,Denver,Industrial,Stabilized,Denver Industrial 30
+PROP-030,2024-08,195151.0,0.897,323156.0,122799.0,158319.0,Denver,Industrial,Stabilized,Denver Industrial 30
+PROP-030,2024-09,200625.0,0.926,333596.0,126767.0,158319.0,Denver,Industrial,Stabilized,Denver Industrial 30
+PROP-030,2024-10,200302.0,0.92,331684.0,126040.0,158319.0,Denver,Industrial,Stabilized,Denver Industrial 30
+PROP-030,2024-11,200881.0,0.913,328935.0,124995.0,158319.0,Denver,Industrial,Stabilized,Denver Industrial 30
+PROP-031,2022-01,303672.0,0.936,489793.0,186121.0,214752.0,Houston,Multifamily,Development,Houston Multifamily 31
+PROP-031,2022-01,323014.0,0.981,513290.0,195050.0,214752.0,Houston,Multifamily,Development,Houston Multifamily 31
+PROP-031,2022-03,316338.0,0.95,497303.0,188975.0,214752.0,Houston,Multifamily,Development,Houston Multifamily 31
+PROP-031,2022-04,326724.0,0.978,511626.0,194418.0,214752.0,Houston,Multifamily,Development,Houston Multifamily 31
+PROP-031,2022-05,309150.0,0.929,486002.0,184681.0,214752.0,Houston,Multifamily,Development,Houston Multifamily 31
+PROP-031,2022-05,307137.0,0.932,488062.0,185463.0,214752.0,Houston,Multifamily,Development,Houston Multifamily 31
+PROP-031,2022-06,303134.0,0.934,488926.0,185792.0,214752.0,Houston,Multifamily,Development,Houston Multifamily 31
+PROP-031,2022-07,298800.0,0.935,489275.0,185924.0,214752.0,Houston,Multifamily,Development,Houston Multifamily 31
+PROP-031,2022-08,298328.0,0.944,494009.0,187723.0,214752.0,Houston,Multifamily,Development,Houston Multifamily 31
+PROP-031,2022-09,304064.0,0.966,505593.0,192125.0,214752.0,Houston,Multifamily,Development,Houston Multifamily 31
+PROP-031,2022-10,298750.0,0.945,494708.0,187989.0,214752.0,Houston,Multifamily,Development,Houston Multifamily 31
+PROP-031,2022-11,313002.0,0.979,512531.0,194762.0,214752.0,Houston,Multifamily,Development,Houston Multifamily 31
+PROP-031,2022-12,316915.0,0.977,511153.0,194238.0,214752.0,Houston,Multifamily,Development,Houston Multifamily 31
+PROP-031,2023-01,320745.0,0.974,509685.0,193680.0,214752.0,Houston,Multifamily,Development,Houston Multifamily 31
+PROP-031,2023-02,312870.0,0.94,491850.0,186903.0,214752.0,Houston,Multifamily,Development,Houston Multifamily 31
+PROP-031,2023-03,321451.0,0.962,503368.0,191280.0,214752.0,Houston,Multifamily,Development,Houston Multifamily 31
+PROP-031,2023-04,318591.0,0.957,500845.0,190321.0,214752.0,Houston,Multifamily,Development,Houston Multifamily 31
+PROP-031,2023-05,307156.0,0.933,488092.0,185475.0,214752.0,Houston,Multifamily,Development,Houston Multifamily 31
+PROP-031,2023-06,305917.0,0.943,493414.0,187497.0,214752.0,Houston,Multifamily,Development,Houston Multifamily 31
+PROP-031,2023-07,305548.0,0.956,500324.0,190123.0,214752.0,Houston,Multifamily,Development,Houston Multifamily 31
+PROP-031,2023-08,301583.0,0.954,499399.0,189771.0,214752.0,Houston,Multifamily,Development,Houston Multifamily 31
+PROP-031,2023-09,294322.0,0.935,489394.0,185970.0,214752.0,Houston,Multifamily,Development,Houston Multifamily 31
+PROP-031,2023-10,309526.0,0.979,512552.0,194770.0,214752.0,Houston,Multifamily,Development,Houston Multifamily 31
+PROP-031,2023-11,298609.0,0.934,488961.0,185805.0,214752.0,Houston,Multifamily,Development,Houston Multifamily 31
+PROP-031,2023-12,312528.0,0.963,504077.0,191549.0,214752.0,Houston,Multifamily,Development,Houston Multifamily 31
+PROP-031,2024-01,318383.0,0.967,505932.0,192254.0,214752.0,Houston,Multifamily,Development,Houston Multifamily 31
+PROP-031,2024-02,319626.0,0.96,502471.0,190939.0,214752.0,Houston,Multifamily,Development,Houston Multifamily 31
+PROP-031,2024-03,325420.0,0.974,509583.0,193642.0,214752.0,Houston,Multifamily,Development,Houston Multifamily 31
+PROP-031,2024-04,318835.0,0.958,501227.0,190466.0,214752.0,Houston,Multifamily,Development,Houston Multifamily 31
+PROP-031,2024-05,320355.0,0.973,509065.0,193445.0,214752.0,Houston,Multifamily,Development,Houston Multifamily 31
+PROP-031,2024-06,300819.0,0.927,485192.0,184373.0,214752.0,Houston,Multifamily,Development,Houston Multifamily 31
+PROP-031,2024-07,296619.0,0.928,485704.0,184567.0,214752.0,Houston,Multifamily,Development,Houston Multifamily 31
+PROP-031,2024-08,304095.0,0.962,503559.0,191353.0,214752.0,Houston,Multifamily,Development,Houston Multifamily 31
+PROP-031,2024-09,301675.0,0.958,501622.0,190616.0,214752.0,Houston,Multifamily,Development,Houston Multifamily 31
+PROP-031,2024-10,304270.0,0.963,503849.0,191463.0,214752.0,Houston,Multifamily,Development,Houston Multifamily 31
+PROP-031,2024-11,309820.0,0.969,507319.0,192781.0,214752.0,Houston,Multifamily,Development,Houston Multifamily 31
+PROP-032,2022-01,153028.0,0.891,246820.0,93792.0,127757.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 32
+PROP-032,2022-01,157407.0,0.902,250130.0,95049.0,127757.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 32
+PROP-032,2022-03,157775.0,0.895,248032.0,94252.0,127757.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 32
+PROP-032,2022-04,159621.0,0.902,249954.0,94983.0,127757.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 32
+PROP-032,2022-05,155803.0,0.884,244931.0,93074.0,127757.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 32
+PROP-032,2022-05,160382.0,0.92,254858.0,96846.0,127757.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 32
+PROP-032,2022-06,153641.0,0.894,247808.0,94167.0,127757.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 32
+PROP-032,2022-07,154261.0,0.911,252596.0,95987.0,127757.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 32
+PROP-032,2022-08,151465.0,0.905,250815.0,95310.0,127757.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 32
+PROP-032,2022-09,147371.0,0.884,245046.0,93118.0,127757.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 32
+PROP-032,2022-10,145964.0,0.872,241706.0,91848.0,127757.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 32
+PROP-032,2022-11,147491.0,0.871,241511.0,91774.0,127757.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 32
+PROP-032,2022-12,153241.0,0.892,247163.0,93922.0,127757.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 32
+PROP-032,2023-01,155958.0,0.894,247827.0,94174.0,127757.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 32
+PROP-032,2023-02,154992.0,0.879,243656.0,92589.0,127757.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 32
+PROP-032,2023-03,159426.0,0.901,249649.0,94867.0,127757.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 32
+PROP-032,2023-04,156019.0,0.885,245272.0,93203.0,127757.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 32
+PROP-032,2023-05,158150.0,0.907,251311.0,95498.0,127757.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 32
+PROP-032,2023-06,155959.0,0.908,251547.0,95588.0,127757.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 32
+PROP-032,2023-07,154770.0,0.914,253431.0,96304.0,127757.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 32
+PROP-032,2023-08,154075.0,0.921,255137.0,96952.0,127757.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 32
+PROP-032,2023-09,145879.0,0.875,242566.0,92175.0,127757.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 32
+PROP-032,2023-10,148639.0,0.888,246135.0,93531.0,127757.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 32
+PROP-032,2023-11,152051.0,0.898,248979.0,94612.0,127757.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 32
+PROP-032,2023-12,152129.0,0.885,245369.0,93240.0,127757.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 32
+PROP-032,2024-01,155791.0,0.893,247562.0,94074.0,127757.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 32
+PROP-032,2024-02,155592.0,0.883,244601.0,92948.0,127757.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 32
+PROP-032,2024-03,156016.0,0.881,244310.0,92838.0,127757.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 32
+PROP-032,2024-04,153977.0,0.873,242060.0,91983.0,127757.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 32
+PROP-032,2024-05,154140.0,0.884,244939.0,93077.0,127757.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 32
+PROP-032,2024-06,152729.0,0.889,246337.0,93608.0,127757.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 32
+PROP-032,2024-07,152540.0,0.901,249779.0,94916.0,127757.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 32
+PROP-032,2024-08,147540.0,0.881,244315.0,92840.0,127757.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 32
+PROP-032,2024-09,152454.0,0.915,253499.0,96329.0,127757.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 32
+PROP-032,2024-10,146744.0,0.877,242997.0,92339.0,127757.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 32
+PROP-032,2024-11,149923.0,0.886,245493.0,93287.0,127757.0,Dallas-Fort Worth,Multifamily,Stabilized,Dallas Multifamily 32
+PROP-033,2022-01,237256.0,0.972,382670.0,145415.0,175775.0,Dallas-Fort Worth,Office,Development,Dallas Office 33
+PROP-033,2022-01,237004.0,0.956,376615.0,143114.0,175775.0,Dallas-Fort Worth,Office,Development,Dallas Office 33
+PROP-033,2022-03,246115.0,0.982,386908.0,147025.0,175775.0,Dallas-Fort Worth,Office,Development,Dallas Office 33
+PROP-033,2022-04,243214.0,0.967,380855.0,144725.0,175775.0,Dallas-Fort Worth,Office,Development,Dallas Office 33
+PROP-033,2022-05,242504.0,0.968,381231.0,144868.0,175775.0,Dallas-Fort Worth,Office,Development,Dallas Office 33
+PROP-033,2022-05,239679.0,0.967,380866.0,144729.0,175775.0,Dallas-Fort Worth,Office,Development,Dallas Office 33
+PROP-033,2022-06,233442.0,0.956,376519.0,143077.0,175775.0,Dallas-Fort Worth,Office,Development,Dallas Office 33
+PROP-033,2022-07,225958.0,0.939,369998.0,140599.0,175775.0,Dallas-Fort Worth,Office,Development,Dallas Office 33
+PROP-033,2022-08,236164.0,0.99,391070.0,148607.0,175775.0,Dallas-Fort Worth,Office,Development,Dallas Office 33
+PROP-033,2022-09,229145.0,0.967,381019.0,144787.0,175775.0,Dallas-Fort Worth,Office,Development,Dallas Office 33
+PROP-033,2022-10,236460.0,0.99,391560.0,148793.0,175775.0,Dallas-Fort Worth,Office,Development,Dallas Office 33
+PROP-033,2022-11,228637.0,0.95,374385.0,142266.0,175775.0,Dallas-Fort Worth,Office,Development,Dallas Office 33
+PROP-033,2022-12,234070.0,0.958,377533.0,143462.0,175775.0,Dallas-Fort Worth,Office,Development,Dallas Office 33
+PROP-033,2023-01,233233.0,0.941,370623.0,140837.0,175775.0,Dallas-Fort Worth,Office,Development,Dallas Office 33
+PROP-033,2023-02,242216.0,0.967,380778.0,144696.0,175775.0,Dallas-Fort Worth,Office,Development,Dallas Office 33
+PROP-033,2023-03,248819.0,0.989,389633.0,148060.0,175775.0,Dallas-Fort Worth,Office,Development,Dallas Office 33
+PROP-033,2023-04,244533.0,0.976,384420.0,146080.0,175775.0,Dallas-Fort Worth,Office,Development,Dallas Office 33
+PROP-033,2023-05,239274.0,0.965,380223.0,144485.0,175775.0,Dallas-Fort Worth,Office,Development,Dallas Office 33
+PROP-033,2023-06,236675.0,0.969,381733.0,145059.0,175775.0,Dallas-Fort Worth,Office,Development,Dallas Office 33
+PROP-033,2023-07,237458.0,0.987,388829.0,147755.0,175775.0,Dallas-Fort Worth,Office,Development,Dallas Office 33
+PROP-033,2023-08,229066.0,0.963,379316.0,144140.0,175775.0,Dallas-Fort Worth,Office,Development,Dallas Office 33
+PROP-033,2023-09,234327.0,0.989,389635.0,148061.0,175775.0,Dallas-Fort Worth,Office,Development,Dallas Office 33
+PROP-033,2023-10,233159.0,0.98,386094.0,146716.0,175775.0,Dallas-Fort Worth,Office,Development,Dallas Office 33
+PROP-033,2023-11,236295.0,0.982,386925.0,147031.0,175775.0,Dallas-Fort Worth,Office,Development,Dallas Office 33
+PROP-033,2023-12,234255.0,0.959,377831.0,143576.0,175775.0,Dallas-Fort Worth,Office,Development,Dallas Office 33
+PROP-033,2024-01,238267.0,0.961,378623.0,143877.0,175775.0,Dallas-Fort Worth,Office,Development,Dallas Office 33
+PROP-033,2024-02,243312.0,0.971,382501.0,145350.0,175775.0,Dallas-Fort Worth,Office,Development,Dallas Office 33
+PROP-033,2024-03,238783.0,0.949,373917.0,142088.0,175775.0,Dallas-Fort Worth,Office,Development,Dallas Office 33
+PROP-033,2024-04,243064.0,0.97,382111.0,145202.0,175775.0,Dallas-Fort Worth,Office,Development,Dallas Office 33
+PROP-033,2024-05,233564.0,0.942,371148.0,141036.0,175775.0,Dallas-Fort Worth,Office,Development,Dallas Office 33
+PROP-033,2024-06,236215.0,0.967,380992.0,144777.0,175775.0,Dallas-Fort Worth,Office,Development,Dallas Office 33
+PROP-033,2024-07,236303.0,0.982,386937.0,147036.0,175775.0,Dallas-Fort Worth,Office,Development,Dallas Office 33
+PROP-033,2024-08,226979.0,0.954,375861.0,142827.0,175775.0,Dallas-Fort Worth,Office,Development,Dallas Office 33
+PROP-033,2024-09,235792.0,0.99,392072.0,148987.0,175775.0,Dallas-Fort Worth,Office,Development,Dallas Office 33
+PROP-033,2024-10,232509.0,0.977,385018.0,146307.0,175775.0,Dallas-Fort Worth,Office,Development,Dallas Office 33
+PROP-033,2024-11,227292.0,0.945,372183.0,141430.0,175775.0,Dallas-Fort Worth,Office,Development,Dallas Office 33
+PROP-034,2022-01,301285.0,0.99,485943.0,184658.0,266183.0,Austin,Industrial,Development,Austin Industrial 34
+PROP-034,2022-01,295436.0,0.967,469468.0,178398.0,266183.0,Austin,Industrial,Development,Austin Industrial 34
+PROP-034,2022-03,305863.0,0.99,480835.0,182717.0,266183.0,Austin,Industrial,Development,Austin Industrial 34
+PROP-034,2022-04,298810.0,0.964,467914.0,177807.0,266183.0,Austin,Industrial,Development,Austin Industrial 34
+PROP-034,2022-05,308461.0,0.99,484919.0,184269.0,266183.0,Austin,Industrial,Development,Austin Industrial 34
+PROP-034,2022-05,301877.0,0.988,479703.0,182287.0,266183.0,Austin,Industrial,Development,Austin Industrial 34
+PROP-034,2022-06,287645.0,0.955,463944.0,176299.0,266183.0,Austin,Industrial,Development,Austin Industrial 34
+PROP-034,2022-07,288699.0,0.974,472734.0,179639.0,266183.0,Austin,Industrial,Development,Austin Industrial 34
+PROP-034,2022-08,285325.0,0.973,472477.0,179541.0,266183.0,Austin,Industrial,Development,Austin Industrial 34
+PROP-034,2022-09,276395.0,0.946,459585.0,174642.0,266183.0,Austin,Industrial,Development,Austin Industrial 34
+PROP-034,2022-10,279110.0,0.952,462186.0,175631.0,266183.0,Austin,Industrial,Development,Austin Industrial 34
+PROP-034,2022-11,285650.0,0.963,467742.0,177742.0,266183.0,Austin,Industrial,Development,Austin Industrial 34
+PROP-034,2022-12,292473.0,0.971,471731.0,179258.0,266183.0,Austin,Industrial,Development,Austin Industrial 34
+PROP-034,2023-01,296561.0,0.97,471256.0,179077.0,266183.0,Austin,Industrial,Development,Austin Industrial 34
+PROP-034,2023-02,302461.0,0.979,475488.0,180685.0,266183.0,Austin,Industrial,Development,Austin Industrial 34
+PROP-034,2023-03,302003.0,0.974,472915.0,179708.0,266183.0,Austin,Industrial,Development,Austin Industrial 34
+PROP-034,2023-04,297443.0,0.963,467598.0,177687.0,266183.0,Austin,Industrial,Development,Austin Industrial 34
+PROP-034,2023-05,299346.0,0.98,475681.0,180759.0,266183.0,Austin,Industrial,Development,Austin Industrial 34
+PROP-034,2023-06,287003.0,0.953,462908.0,175905.0,266183.0,Austin,Industrial,Development,Austin Industrial 34
+PROP-034,2023-07,297034.0,0.99,486383.0,184826.0,266183.0,Austin,Industrial,Development,Austin Industrial 34
+PROP-034,2023-08,289421.0,0.987,479260.0,182119.0,266183.0,Austin,Industrial,Development,Austin Industrial 34
+PROP-034,2023-09,280724.0,0.961,466784.0,177378.0,266183.0,Austin,Industrial,Development,Austin Industrial 34
+PROP-034,2023-10,282523.0,0.963,467837.0,177778.0,266183.0,Austin,Industrial,Development,Austin Industrial 34
+PROP-034,2023-11,294224.0,0.99,481782.0,183077.0,266183.0,Austin,Industrial,Development,Austin Industrial 34
+PROP-034,2023-12,293503.0,0.975,473392.0,179889.0,266183.0,Austin,Industrial,Development,Austin Industrial 34
+PROP-034,2024-01,301053.0,0.985,478393.0,181789.0,266183.0,Austin,Industrial,Development,Austin Industrial 34
+PROP-034,2024-02,296935.0,0.961,466800.0,177384.0,266183.0,Austin,Industrial,Development,Austin Industrial 34
+PROP-034,2024-03,307439.0,0.99,481426.0,182942.0,266183.0,Austin,Industrial,Development,Austin Industrial 34
+PROP-034,2024-04,298171.0,0.965,468743.0,178122.0,266183.0,Austin,Industrial,Development,Austin Industrial 34
+PROP-034,2024-05,300429.0,0.983,477402.0,181413.0,266183.0,Austin,Industrial,Development,Austin Industrial 34
+PROP-034,2024-06,301369.0,0.99,486080.0,184710.0,266183.0,Austin,Industrial,Development,Austin Industrial 34
+PROP-034,2024-07,289990.0,0.978,474848.0,180442.0,266183.0,Austin,Industrial,Development,Austin Industrial 34
+PROP-034,2024-08,290404.0,0.99,480888.0,182737.0,266183.0,Austin,Industrial,Development,Austin Industrial 34
+PROP-034,2024-09,287988.0,0.986,478863.0,181968.0,266183.0,Austin,Industrial,Development,Austin Industrial 34
+PROP-034,2024-10,288543.0,0.984,477806.0,181566.0,266183.0,Austin,Industrial,Development,Austin Industrial 34
+PROP-034,2024-11,280346.0,0.945,459056.0,174441.0,266183.0,Austin,Industrial,Development,Austin Industrial 34
+PROP-035,2022-01,351779.0,0.91,567385.0,215606.0,313409.0,Dallas-Fort Worth,Retail,Stabilized,Dallas Retail 35
+PROP-035,2022-01,367622.0,0.937,584176.0,221987.0,313409.0,Dallas-Fort Worth,Retail,Stabilized,Dallas Retail 35
+PROP-035,2022-03,367605.0,0.926,577897.0,219601.0,313409.0,Dallas-Fort Worth,Retail,Stabilized,Dallas Retail 35
+PROP-035,2022-04,368898.0,0.926,577667.0,219514.0,313409.0,Dallas-Fort Worth,Retail,Stabilized,Dallas Retail 35
+PROP-035,2022-05,363153.0,0.915,570899.0,216941.0,313409.0,Dallas-Fort Worth,Retail,Stabilized,Dallas Retail 35
+PROP-035,2022-05,362351.0,0.923,575800.0,218804.0,313409.0,Dallas-Fort Worth,Retail,Stabilized,Dallas Retail 35
+PROP-035,2022-06,354082.0,0.916,571099.0,217018.0,313409.0,Dallas-Fort Worth,Retail,Stabilized,Dallas Retail 35
+PROP-035,2022-07,340171.0,0.893,557018.0,211667.0,313409.0,Dallas-Fort Worth,Retail,Stabilized,Dallas Retail 35
+PROP-035,2022-08,345819.0,0.918,572651.0,217607.0,313409.0,Dallas-Fort Worth,Retail,Stabilized,Dallas Retail 35
+PROP-035,2022-09,344202.0,0.918,572334.0,217487.0,313409.0,Dallas-Fort Worth,Retail,Stabilized,Dallas Retail 35
+PROP-035,2022-10,350187.0,0.93,579884.0,220356.0,313409.0,Dallas-Fort Worth,Retail,Stabilized,Dallas Retail 35
+PROP-035,2022-11,339697.0,0.892,556242.0,211372.0,313409.0,Dallas-Fort Worth,Retail,Stabilized,Dallas Retail 35
+PROP-035,2022-12,356136.0,0.921,574414.0,218277.0,313409.0,Dallas-Fort Worth,Retail,Stabilized,Dallas Retail 35
+PROP-035,2023-01,347550.0,0.885,552280.0,209867.0,313409.0,Dallas-Fort Worth,Retail,Stabilized,Dallas Retail 35
+PROP-035,2023-02,371190.0,0.935,583533.0,221743.0,313409.0,Dallas-Fort Worth,Retail,Stabilized,Dallas Retail 35
+PROP-035,2023-03,354392.0,0.89,554951.0,210881.0,313409.0,Dallas-Fort Worth,Retail,Stabilized,Dallas Retail 35
+PROP-035,2023-04,351036.0,0.885,551850.0,209703.0,313409.0,Dallas-Fort Worth,Retail,Stabilized,Dallas Retail 35
+PROP-035,2023-05,353603.0,0.901,561899.0,213522.0,313409.0,Dallas-Fort Worth,Retail,Stabilized,Dallas Retail 35
+PROP-035,2023-06,344948.0,0.892,556367.0,211420.0,313409.0,Dallas-Fort Worth,Retail,Stabilized,Dallas Retail 35
+PROP-035,2023-07,350998.0,0.921,574747.0,218404.0,313409.0,Dallas-Fort Worth,Retail,Stabilized,Dallas Retail 35
+PROP-035,2023-08,341317.0,0.906,565196.0,214774.0,313409.0,Dallas-Fort Worth,Retail,Stabilized,Dallas Retail 35
+PROP-035,2023-09,347385.0,0.926,577627.0,219498.0,313409.0,Dallas-Fort Worth,Retail,Stabilized,Dallas Retail 35
+PROP-035,2023-10,351821.0,0.934,582589.0,221384.0,313409.0,Dallas-Fort Worth,Retail,Stabilized,Dallas Retail 35
+PROP-035,2023-11,354794.0,0.931,580963.0,220766.0,313409.0,Dallas-Fort Worth,Retail,Stabilized,Dallas Retail 35
+PROP-035,2023-12,357301.0,0.924,576293.0,218991.0,313409.0,Dallas-Fort Worth,Retail,Stabilized,Dallas Retail 35
+PROP-035,2024-01,348209.0,0.887,553328.0,210264.0,313409.0,Dallas-Fort Worth,Retail,Stabilized,Dallas Retail 35
+PROP-035,2024-02,353620.0,0.891,555912.0,211247.0,313409.0,Dallas-Fort Worth,Retail,Stabilized,Dallas Retail 35
+PROP-035,2024-03,356513.0,0.895,558273.0,212144.0,313409.0,Dallas-Fort Worth,Retail,Stabilized,Dallas Retail 35
+PROP-035,2024-04,357675.0,0.901,562287.0,213669.0,313409.0,Dallas-Fort Worth,Retail,Stabilized,Dallas Retail 35
+PROP-035,2024-05,361081.0,0.92,573783.0,218037.0,313409.0,Dallas-Fort Worth,Retail,Stabilized,Dallas Retail 35
+PROP-035,2024-06,352855.0,0.912,569120.0,216266.0,313409.0,Dallas-Fort Worth,Retail,Stabilized,Dallas Retail 35
+PROP-035,2024-07,343153.0,0.901,561901.0,213523.0,313409.0,Dallas-Fort Worth,Retail,Stabilized,Dallas Retail 35
+PROP-035,2024-08,336433.0,0.893,557109.0,211701.0,313409.0,Dallas-Fort Worth,Retail,Stabilized,Dallas Retail 35
+PROP-035,2024-09,350197.0,0.934,582303.0,221275.0,313409.0,Dallas-Fort Worth,Retail,Stabilized,Dallas Retail 35
+PROP-035,2024-10,339916.0,0.902,562876.0,213893.0,313409.0,Dallas-Fort Worth,Retail,Stabilized,Dallas Retail 35
+PROP-035,2024-11,343997.0,0.903,563284.0,214048.0,313409.0,Dallas-Fort Worth,Retail,Stabilized,Dallas Retail 35
+PROP-036,2022-01,277959.0,0.959,448321.0,170362.0,193921.0,Austin,Retail,Value-Add,Austin Retail 36
+PROP-036,2022-01,281278.0,0.957,446969.0,169848.0,193921.0,Austin,Retail,Value-Add,Austin Retail 36
+PROP-036,2022-03,283014.0,0.952,444915.0,169068.0,193921.0,Austin,Retail,Value-Add,Austin Retail 36
+PROP-036,2022-04,284968.0,0.955,446239.0,169571.0,193921.0,Austin,Retail,Value-Add,Austin Retail 36
+PROP-036,2022-05,282455.0,0.95,444035.0,168733.0,193921.0,Austin,Retail,Value-Add,Austin Retail 36
+PROP-036,2022-05,272472.0,0.927,432977.0,164531.0,193921.0,Austin,Retail,Value-Add,Austin Retail 36
+PROP-036,2022-06,269336.0,0.93,434413.0,165077.0,193921.0,Austin,Retail,Value-Add,Austin Retail 36
+PROP-036,2022-07,270332.0,0.947,442659.0,168211.0,193921.0,Austin,Retail,Value-Add,Austin Retail 36
+PROP-036,2022-08,261992.0,0.928,433840.0,164859.0,193921.0,Austin,Retail,Value-Add,Austin Retail 36
+PROP-036,2022-09,272818.0,0.971,453639.0,172383.0,193921.0,Austin,Retail,Value-Add,Austin Retail 36
+PROP-036,2022-10,263155.0,0.933,435765.0,165591.0,193921.0,Austin,Retail,Value-Add,Austin Retail 36
+PROP-036,2022-11,265983.0,0.932,435538.0,165504.0,193921.0,Austin,Retail,Value-Add,Austin Retail 36
+PROP-036,2022-12,268692.0,0.927,433374.0,164682.0,193921.0,Austin,Retail,Value-Add,Austin Retail 36
+PROP-036,2023-01,281012.0,0.956,446548.0,169688.0,193921.0,Austin,Retail,Value-Add,Austin Retail 36
+PROP-036,2023-02,277521.0,0.934,436280.0,165786.0,193921.0,Austin,Retail,Value-Add,Austin Retail 36
+PROP-036,2023-03,279145.0,0.935,437120.0,166106.0,193921.0,Austin,Retail,Value-Add,Austin Retail 36
+PROP-036,2023-04,287903.0,0.969,452601.0,171988.0,193921.0,Austin,Retail,Value-Add,Austin Retail 36
+PROP-036,2023-05,282518.0,0.961,448941.0,170597.0,193921.0,Austin,Retail,Value-Add,Austin Retail 36
+PROP-036,2023-06,269778.0,0.931,435126.0,165348.0,193921.0,Austin,Retail,Value-Add,Austin Retail 36
+PROP-036,2023-07,263281.0,0.923,431114.0,163823.0,193921.0,Austin,Retail,Value-Add,Austin Retail 36
+PROP-036,2023-08,269213.0,0.954,445797.0,169403.0,193921.0,Austin,Retail,Value-Add,Austin Retail 36
+PROP-036,2023-09,263376.0,0.937,437938.0,166416.0,193921.0,Austin,Retail,Value-Add,Austin Retail 36
+PROP-036,2023-10,274065.0,0.971,453831.0,172456.0,193921.0,Austin,Retail,Value-Add,Austin Retail 36
+PROP-036,2023-11,274539.0,0.962,449549.0,170828.0,193921.0,Austin,Retail,Value-Add,Austin Retail 36
+PROP-036,2023-12,280956.0,0.97,453154.0,172199.0,193921.0,Austin,Retail,Value-Add,Austin Retail 36
+PROP-036,2024-01,282672.0,0.961,449184.0,170690.0,193921.0,Austin,Retail,Value-Add,Austin Retail 36
+PROP-036,2024-02,277073.0,0.932,435576.0,165519.0,193921.0,Austin,Retail,Value-Add,Austin Retail 36
+PROP-036,2024-03,278111.0,0.932,435501.0,165490.0,193921.0,Austin,Retail,Value-Add,Austin Retail 36
+PROP-036,2024-04,284207.0,0.956,446790.0,169780.0,193921.0,Austin,Retail,Value-Add,Austin Retail 36
+PROP-036,2024-05,275039.0,0.935,437056.0,166081.0,193921.0,Austin,Retail,Value-Add,Austin Retail 36
+PROP-036,2024-06,272550.0,0.941,439597.0,167047.0,193921.0,Austin,Retail,Value-Add,Austin Retail 36
+PROP-036,2024-07,265456.0,0.93,434676.0,165177.0,193921.0,Austin,Retail,Value-Add,Austin Retail 36
+PROP-036,2024-08,266056.0,0.943,440568.0,167416.0,193921.0,Austin,Retail,Value-Add,Austin Retail 36
+PROP-036,2024-09,260548.0,0.927,433237.0,164630.0,193921.0,Austin,Retail,Value-Add,Austin Retail 36
+PROP-036,2024-10,267007.0,0.946,442143.0,168014.0,193921.0,Austin,Retail,Value-Add,Austin Retail 36
+PROP-036,2024-11,276392.0,0.969,452583.0,171982.0,193921.0,Austin,Retail,Value-Add,Austin Retail 36
+PROP-037,2022-01,143534.0,0.99,231506.0,87972.0,98742.0,Denver,Office,Stabilized,Denver Office 37
+PROP-037,2022-01,140858.0,0.957,223833.0,85056.0,98742.0,Denver,Office,Stabilized,Denver Office 37
+PROP-037,2022-03,146560.0,0.985,230401.0,87552.0,98742.0,Denver,Office,Stabilized,Denver Office 37
+PROP-037,2022-04,146881.0,0.983,230005.0,87402.0,98742.0,Denver,Office,Stabilized,Denver Office 37
+PROP-037,2022-05,143300.0,0.963,225277.0,85605.0,98742.0,Denver,Office,Stabilized,Denver Office 37
+PROP-037,2022-05,145459.0,0.988,231144.0,87835.0,98742.0,Denver,Office,Stabilized,Denver Office 37
+PROP-037,2022-06,142128.0,0.98,229239.0,87111.0,98742.0,Denver,Office,Stabilized,Denver Office 37
+PROP-037,2022-07,140892.0,0.986,230706.0,87668.0,98742.0,Denver,Office,Stabilized,Denver Office 37
+PROP-037,2022-08,134468.0,0.952,222669.0,84614.0,98742.0,Denver,Office,Stabilized,Denver Office 37
+PROP-037,2022-09,136892.0,0.973,227622.0,86497.0,98742.0,Denver,Office,Stabilized,Denver Office 37
+PROP-037,2022-10,139980.0,0.99,231797.0,88083.0,98742.0,Denver,Office,Stabilized,Denver Office 37
+PROP-037,2022-11,136387.0,0.955,223329.0,84865.0,98742.0,Denver,Office,Stabilized,Denver Office 37
+PROP-037,2022-12,144169.0,0.99,232530.0,88361.0,98742.0,Denver,Office,Stabilized,Denver Office 37
+PROP-037,2023-01,139717.0,0.949,222019.0,84367.0,98742.0,Denver,Office,Stabilized,Denver Office 37
+PROP-037,2023-02,145989.0,0.981,229504.0,87211.0,98742.0,Denver,Office,Stabilized,Denver Office 37
+PROP-037,2023-03,149882.0,0.99,234704.0,89187.0,98742.0,Denver,Office,Stabilized,Denver Office 37
+PROP-037,2023-04,144737.0,0.973,227535.0,86463.0,98742.0,Denver,Office,Stabilized,Denver Office 37
+PROP-037,2023-05,147750.0,0.99,234785.0,89218.0,98742.0,Denver,Office,Stabilized,Denver Office 37
+PROP-037,2023-06,145085.0,0.99,234008.0,88923.0,98742.0,Denver,Office,Stabilized,Denver Office 37
+PROP-037,2023-07,139547.0,0.977,228503.0,86831.0,98742.0,Denver,Office,Stabilized,Denver Office 37
+PROP-037,2023-08,135686.0,0.96,224687.0,85381.0,98742.0,Denver,Office,Stabilized,Denver Office 37
+PROP-037,2023-09,141438.0,0.99,235182.0,89369.0,98742.0,Denver,Office,Stabilized,Denver Office 37
+PROP-037,2023-10,136695.0,0.968,226357.0,86016.0,98742.0,Denver,Office,Stabilized,Denver Office 37
+PROP-037,2023-11,140959.0,0.987,230816.0,87710.0,98742.0,Denver,Office,Stabilized,Denver Office 37
+PROP-037,2023-12,145336.0,0.99,234413.0,89077.0,98742.0,Denver,Office,Stabilized,Denver Office 37
+PROP-037,2024-01,140445.0,0.954,223176.0,84807.0,98742.0,Denver,Office,Stabilized,Denver Office 37
+PROP-037,2024-02,146197.0,0.982,229830.0,87336.0,98742.0,Denver,Office,Stabilized,Denver Office 37
+PROP-037,2024-03,146428.0,0.98,229295.0,87132.0,98742.0,Denver,Office,Stabilized,Denver Office 37
+PROP-037,2024-04,147498.0,0.99,231876.0,88113.0,98742.0,Denver,Office,Stabilized,Denver Office 37
+PROP-037,2024-05,147764.0,0.99,234808.0,89227.0,98742.0,Denver,Office,Stabilized,Denver Office 37
+PROP-037,2024-06,145381.0,0.99,234486.0,89105.0,98742.0,Denver,Office,Stabilized,Denver Office 37
+PROP-037,2024-07,137012.0,0.959,224352.0,85254.0,98742.0,Denver,Office,Stabilized,Denver Office 37
+PROP-037,2024-08,141347.0,0.99,234060.0,88943.0,98742.0,Denver,Office,Stabilized,Denver Office 37
+PROP-037,2024-09,134931.0,0.959,224362.0,85257.0,98742.0,Denver,Office,Stabilized,Denver Office 37
+PROP-037,2024-10,141657.0,0.99,234574.0,89138.0,98742.0,Denver,Office,Stabilized,Denver Office 37
+PROP-037,2024-11,143904.0,0.99,235638.0,89543.0,98742.0,Denver,Office,Stabilized,Denver Office 37
+PROP-038,2022-01,363704.0,0.879,586619.0,222915.0,316307.0,Houston,Office,Value-Add,Houston Office 38
+PROP-038,2022-01,371352.0,0.884,590104.0,224239.0,316307.0,Houston,Office,Value-Add,Houston Office 38
+PROP-038,2022-03,385310.0,0.907,605730.0,230178.0,316307.0,Houston,Office,Value-Add,Houston Office 38
+PROP-038,2022-04,387397.0,0.909,606634.0,230521.0,316307.0,Houston,Office,Value-Add,Houston Office 38
+PROP-038,2022-05,385072.0,0.907,605356.0,230035.0,316307.0,Houston,Office,Value-Add,Houston Office 38
+PROP-038,2022-05,379852.0,0.904,603610.0,229372.0,316307.0,Houston,Office,Value-Add,Houston Office 38
+PROP-038,2022-06,355190.0,0.858,572888.0,217697.0,316307.0,Houston,Office,Value-Add,Houston Office 38
+PROP-038,2022-07,361946.0,0.888,592674.0,225216.0,316307.0,Houston,Office,Value-Add,Houston Office 38
+PROP-038,2022-08,348059.0,0.863,576359.0,219017.0,316307.0,Houston,Office,Value-Add,Houston Office 38
+PROP-038,2022-09,365274.0,0.91,607373.0,230802.0,316307.0,Houston,Office,Value-Add,Houston Office 38
+PROP-038,2022-10,351850.0,0.873,582637.0,221402.0,316307.0,Houston,Office,Value-Add,Houston Office 38
+PROP-038,2022-11,371055.0,0.91,607589.0,230884.0,316307.0,Houston,Office,Value-Add,Houston Office 38
+PROP-038,2022-12,366917.0,0.886,591801.0,224884.0,316307.0,Houston,Office,Value-Add,Houston Office 38
+PROP-038,2023-01,371320.0,0.884,590052.0,224220.0,316307.0,Houston,Office,Value-Add,Houston Office 38
+PROP-038,2023-02,385354.0,0.907,605799.0,230204.0,316307.0,Houston,Office,Value-Add,Houston Office 38
+PROP-038,2023-03,384885.0,0.903,602700.0,229026.0,316307.0,Houston,Office,Value-Add,Houston Office 38
+PROP-038,2023-04,374753.0,0.882,589135.0,223871.0,316307.0,Houston,Office,Value-Add,Houston Office 38
+PROP-038,2023-05,364609.0,0.868,579388.0,220167.0,316307.0,Houston,Office,Value-Add,Houston Office 38
+PROP-038,2023-06,357460.0,0.863,576549.0,219089.0,316307.0,Houston,Office,Value-Add,Houston Office 38
+PROP-038,2023-07,353176.0,0.866,578314.0,219759.0,316307.0,Houston,Office,Value-Add,Houston Office 38
+PROP-038,2023-08,355579.0,0.882,588812.0,223749.0,316307.0,Houston,Office,Value-Add,Houston Office 38
+PROP-038,2023-09,349817.0,0.871,581671.0,221035.0,316307.0,Houston,Office,Value-Add,Houston Office 38
+PROP-038,2023-10,349746.0,0.867,579154.0,220078.0,316307.0,Houston,Office,Value-Add,Houston Office 38
+PROP-038,2023-11,365594.0,0.897,598647.0,227486.0,316307.0,Houston,Office,Value-Add,Houston Office 38
+PROP-038,2023-12,372350.0,0.899,600565.0,228215.0,316307.0,Houston,Office,Value-Add,Houston Office 38
+PROP-038,2024-01,372966.0,0.888,592668.0,225214.0,316307.0,Houston,Office,Value-Add,Houston Office 38
+PROP-038,2024-02,381270.0,0.898,599379.0,227764.0,316307.0,Houston,Office,Value-Add,Houston Office 38
+PROP-038,2024-03,369605.0,0.867,578775.0,219934.0,316307.0,Houston,Office,Value-Add,Houston Office 38
+PROP-038,2024-04,383497.0,0.903,602881.0,229095.0,316307.0,Houston,Office,Value-Add,Houston Office 38
+PROP-038,2024-05,380304.0,0.905,604329.0,229645.0,316307.0,Houston,Office,Value-Add,Houston Office 38
+PROP-038,2024-06,373146.0,0.901,601848.0,228702.0,316307.0,Houston,Office,Value-Add,Houston Office 38
+PROP-038,2024-07,360807.0,0.885,590809.0,224507.0,316307.0,Houston,Office,Value-Add,Houston Office 38
+PROP-038,2024-08,347619.0,0.862,575631.0,218740.0,316307.0,Houston,Office,Value-Add,Houston Office 38
+PROP-038,2024-09,358592.0,0.893,596262.0,226579.0,316307.0,Houston,Office,Value-Add,Houston Office 38
+PROP-038,2024-10,349716.0,0.867,579104.0,220059.0,316307.0,Houston,Office,Value-Add,Houston Office 38
+PROP-038,2024-11,352703.0,0.865,577539.0,219465.0,316307.0,Houston,Office,Value-Add,Houston Office 38
+PROP-039,2022-01,306395.0,0.901,494185.0,187790.0,274135.0,Denver,Industrial,Stabilized,Denver Industrial 39
+PROP-039,2022-01,309566.0,0.897,491921.0,186930.0,274135.0,Denver,Industrial,Stabilized,Denver Industrial 39
+PROP-039,2022-03,313158.0,0.898,492303.0,187075.0,274135.0,Denver,Industrial,Stabilized,Denver Industrial 39
+PROP-039,2022-04,313901.0,0.897,491546.0,186787.0,274135.0,Denver,Industrial,Stabilized,Denver Industrial 39
+PROP-039,2022-05,322555.0,0.925,507076.0,192689.0,274135.0,Denver,Industrial,Stabilized,Denver Industrial 39
+PROP-039,2022-05,322880.0,0.936,513078.0,194970.0,274135.0,Denver,Industrial,Stabilized,Denver Industrial 39
+PROP-039,2022-06,305993.0,0.9,493536.0,187544.0,274135.0,Denver,Industrial,Stabilized,Denver Industrial 39
+PROP-039,2022-07,309106.0,0.923,506151.0,192337.0,274135.0,Denver,Industrial,Stabilized,Denver Industrial 39
+PROP-039,2022-08,292785.0,0.884,484830.0,184235.0,274135.0,Denver,Industrial,Stabilized,Denver Industrial 39
+PROP-039,2022-09,303152.0,0.919,504077.0,191549.0,274135.0,Denver,Industrial,Stabilized,Denver Industrial 39
+PROP-039,2022-10,305116.0,0.922,505249.0,191994.0,274135.0,Denver,Industrial,Stabilized,Denver Industrial 39
+PROP-039,2022-11,297013.0,0.887,486349.0,184813.0,274135.0,Denver,Industrial,Stabilized,Denver Industrial 39
+PROP-039,2022-12,302579.0,0.89,488030.0,185452.0,274135.0,Denver,Industrial,Stabilized,Denver Industrial 39
+PROP-039,2023-01,310674.0,0.9,493682.0,187599.0,274135.0,Denver,Industrial,Stabilized,Denver Industrial 39
+PROP-039,2023-02,315915.0,0.906,496637.0,188722.0,274135.0,Denver,Industrial,Stabilized,Denver Industrial 39
+PROP-039,2023-03,319011.0,0.911,499547.0,189828.0,274135.0,Denver,Industrial,Stabilized,Denver Industrial 39
+PROP-039,2023-04,325250.0,0.933,511313.0,194299.0,274135.0,Denver,Industrial,Stabilized,Denver Industrial 39
+PROP-039,2023-05,318156.0,0.922,505572.0,192117.0,274135.0,Denver,Industrial,Stabilized,Denver Industrial 39
+PROP-039,2023-06,306160.0,0.901,493807.0,187647.0,274135.0,Denver,Industrial,Stabilized,Denver Industrial 39
+PROP-039,2023-07,298025.0,0.89,488006.0,185442.0,274135.0,Denver,Industrial,Stabilized,Denver Industrial 39
+PROP-039,2023-08,309158.0,0.934,511942.0,194538.0,274135.0,Denver,Industrial,Stabilized,Denver Industrial 39
+PROP-039,2023-09,296688.0,0.9,493329.0,187465.0,274135.0,Denver,Industrial,Stabilized,Denver Industrial 39
+PROP-039,2023-10,303701.0,0.917,502907.0,191105.0,274135.0,Denver,Industrial,Stabilized,Denver Industrial 39
+PROP-039,2023-11,299887.0,0.896,491054.0,186601.0,274135.0,Denver,Industrial,Stabilized,Denver Industrial 39
+PROP-039,2023-12,302864.0,0.891,488490.0,185626.0,274135.0,Denver,Industrial,Stabilized,Denver Industrial 39
+PROP-039,2024-01,307777.0,0.892,489078.0,185850.0,274135.0,Denver,Industrial,Stabilized,Denver Industrial 39
+PROP-039,2024-02,322441.0,0.925,506896.0,192620.0,274135.0,Denver,Industrial,Stabilized,Denver Industrial 39
+PROP-039,2024-03,320986.0,0.917,502640.0,191003.0,274135.0,Denver,Industrial,Stabilized,Denver Industrial 39
+PROP-039,2024-04,316114.0,0.906,496950.0,188841.0,274135.0,Denver,Industrial,Stabilized,Denver Industrial 39
+PROP-039,2024-05,315246.0,0.914,500947.0,190360.0,274135.0,Denver,Industrial,Stabilized,Denver Industrial 39
+PROP-039,2024-06,309130.0,0.909,498597.0,189467.0,274135.0,Denver,Industrial,Stabilized,Denver Industrial 39
+PROP-039,2024-07,305714.0,0.913,500596.0,190226.0,274135.0,Denver,Industrial,Stabilized,Denver Industrial 39
+PROP-039,2024-08,304597.0,0.92,504389.0,191668.0,274135.0,Denver,Industrial,Stabilized,Denver Industrial 39
+PROP-039,2024-09,295307.0,0.896,491033.0,186593.0,274135.0,Denver,Industrial,Stabilized,Denver Industrial 39
+PROP-039,2024-10,297057.0,0.897,491904.0,186923.0,274135.0,Denver,Industrial,Stabilized,Denver Industrial 39
+PROP-039,2024-11,309689.0,0.925,507106.0,192700.0,274135.0,Denver,Industrial,Stabilized,Denver Industrial 39
+PROP-040,2022-01,329127.0,0.919,530849.0,201723.0,279010.0,Denver,Office,Development,Denver Office 40
+PROP-040,2022-01,318551.0,0.876,506199.0,192356.0,279010.0,Denver,Office,Development,Denver Office 40
+PROP-040,2022-03,329228.0,0.896,517566.0,196675.0,279010.0,Denver,Office,Development,Denver Office 40
+PROP-040,2022-04,335631.0,0.91,525573.0,199718.0,279010.0,Denver,Office,Development,Denver Office 40
+PROP-040,2022-05,321922.0,0.876,506081.0,192311.0,279010.0,Denver,Office,Development,Denver Office 40
+PROP-040,2022-05,328006.0,0.902,521224.0,198065.0,279010.0,Denver,Office,Development,Denver Office 40
+PROP-040,2022-06,313455.0,0.875,505572.0,192117.0,279010.0,Denver,Office,Development,Denver Office 40
+PROP-040,2022-07,317997.0,0.902,520709.0,197870.0,279010.0,Denver,Office,Development,Denver Office 40
+PROP-040,2022-08,313659.0,0.899,519396.0,197370.0,279010.0,Denver,Office,Development,Denver Office 40
+PROP-040,2022-09,313624.0,0.903,521490.0,198166.0,279010.0,Denver,Office,Development,Denver Office 40
+PROP-040,2022-10,306968.0,0.88,508317.0,193160.0,279010.0,Denver,Office,Development,Denver Office 40
+PROP-040,2022-11,313821.0,0.89,513870.0,195271.0,279010.0,Denver,Office,Development,Denver Office 40
+PROP-040,2022-12,322312.0,0.9,519859.0,197546.0,279010.0,Denver,Office,Development,Denver Office 40
+PROP-040,2023-01,319225.0,0.878,507270.0,192762.0,279010.0,Denver,Office,Development,Denver Office 40
+PROP-040,2023-02,324445.0,0.883,510047.0,193818.0,279010.0,Denver,Office,Development,Denver Office 40
+PROP-040,2023-03,333231.0,0.903,521815.0,198290.0,279010.0,Denver,Office,Development,Denver Office 40
+PROP-040,2023-04,322177.0,0.877,506481.0,192463.0,279010.0,Denver,Office,Development,Denver Office 40
+PROP-040,2023-05,326952.0,0.9,519548.0,197428.0,279010.0,Denver,Office,Development,Denver Office 40
+PROP-040,2023-06,327882.0,0.916,528842.0,200960.0,279010.0,Denver,Office,Development,Denver Office 40
+PROP-040,2023-07,316205.0,0.896,517774.0,196754.0,279010.0,Denver,Office,Development,Denver Office 40
+PROP-040,2023-08,313805.0,0.9,519638.0,197462.0,279010.0,Denver,Office,Development,Denver Office 40
+PROP-040,2023-09,311453.0,0.897,517879.0,196794.0,279010.0,Denver,Office,Development,Denver Office 40
+PROP-040,2023-10,305235.0,0.875,505447.0,192070.0,279010.0,Denver,Office,Development,Denver Office 40
+PROP-040,2023-11,316375.0,0.897,518053.0,196860.0,279010.0,Denver,Office,Development,Denver Office 40
+PROP-040,2023-12,327848.0,0.916,528786.0,200939.0,279010.0,Denver,Office,Development,Denver Office 40
+PROP-040,2024-01,331126.0,0.911,526181.0,199949.0,279010.0,Denver,Office,Development,Denver Office 40
+PROP-040,2024-02,328221.0,0.893,515983.0,196074.0,279010.0,Denver,Office,Development,Denver Office 40
+PROP-040,2024-03,337873.0,0.916,529084.0,201052.0,279010.0,Denver,Office,Development,Denver Office 40
+PROP-040,2024-04,335154.0,0.912,526883.0,200215.0,279010.0,Denver,Office,Development,Denver Office 40
+PROP-040,2024-05,328284.0,0.903,521665.0,198233.0,279010.0,Denver,Office,Development,Denver Office 40
+PROP-040,2024-06,313137.0,0.874,505059.0,191922.0,279010.0,Denver,Office,Development,Denver Office 40
+PROP-040,2024-07,314133.0,0.891,514382.0,195465.0,279010.0,Denver,Office,Development,Denver Office 40
+PROP-040,2024-08,305349.0,0.875,505635.0,192141.0,279010.0,Denver,Office,Development,Denver Office 40
+PROP-040,2024-09,321520.0,0.926,534619.0,203155.0,279010.0,Denver,Office,Development,Denver Office 40
+PROP-040,2024-10,321732.0,0.922,532764.0,202450.0,279010.0,Denver,Office,Development,Denver Office 40
+PROP-040,2024-11,308891.0,0.876,505798.0,192203.0,279010.0,Denver,Office,Development,Denver Office 40
+PROP-041,2022-01,42078.0,0.965,67868.0,25790.0,35428.0,Austin,Office,Value-Add,Austin Office 41
+PROP-041,2022-01,40456.0,0.915,64288.0,24429.0,35428.0,Austin,Office,Value-Add,Austin Office 41
+PROP-041,2022-03,41846.0,0.936,65785.0,24998.0,35428.0,Austin,Office,Value-Add,Austin Office 41
+PROP-041,2022-04,42923.0,0.956,67214.0,25541.0,35428.0,Austin,Office,Value-Add,Austin Office 41
+PROP-041,2022-05,42747.0,0.956,67201.0,25537.0,35428.0,Austin,Office,Value-Add,Austin Office 41
+PROP-041,2022-05,42821.0,0.968,68045.0,25857.0,35428.0,Austin,Office,Value-Add,Austin Office 41
+PROP-041,2022-06,41370.0,0.949,66725.0,25356.0,35428.0,Austin,Office,Value-Add,Austin Office 41
+PROP-041,2022-07,40203.0,0.937,65830.0,25016.0,35428.0,Austin,Office,Value-Add,Austin Office 41
+PROP-041,2022-08,41126.0,0.969,68102.0,25879.0,35428.0,Austin,Office,Value-Add,Austin Office 41
+PROP-041,2022-09,39500.0,0.934,65680.0,24958.0,35428.0,Austin,Office,Value-Add,Austin Office 41
+PROP-041,2022-10,40831.0,0.962,67613.0,25693.0,35428.0,Austin,Office,Value-Add,Austin Office 41
+PROP-041,2022-11,41381.0,0.964,67761.0,25749.0,35428.0,Austin,Office,Value-Add,Austin Office 41
+PROP-041,2022-12,40705.0,0.934,65653.0,24948.0,35428.0,Austin,Office,Value-Add,Austin Office 41
+PROP-041,2023-01,42082.0,0.951,66872.0,25411.0,35428.0,Austin,Office,Value-Add,Austin Office 41
+PROP-041,2023-02,42485.0,0.95,66788.0,25380.0,35428.0,Austin,Office,Value-Add,Austin Office 41
+PROP-041,2023-03,42341.0,0.943,66302.0,25195.0,35428.0,Austin,Office,Value-Add,Austin Office 41
+PROP-041,2023-04,42464.0,0.95,66756.0,25367.0,35428.0,Austin,Office,Value-Add,Austin Office 41
+PROP-041,2023-05,41246.0,0.932,65542.0,24906.0,35428.0,Austin,Office,Value-Add,Austin Office 41
+PROP-041,2023-06,40220.0,0.923,64870.0,24651.0,35428.0,Austin,Office,Value-Add,Austin Office 41
+PROP-041,2023-07,40486.0,0.943,66294.0,25192.0,35428.0,Austin,Office,Value-Add,Austin Office 41
+PROP-041,2023-08,40014.0,0.943,66261.0,25179.0,35428.0,Austin,Office,Value-Add,Austin Office 41
+PROP-041,2023-09,40324.0,0.954,67051.0,25479.0,35428.0,Austin,Office,Value-Add,Austin Office 41
+PROP-041,2023-10,39281.0,0.925,65046.0,24717.0,35428.0,Austin,Office,Value-Add,Austin Office 41
+PROP-041,2023-11,39192.0,0.913,64176.0,24387.0,35428.0,Austin,Office,Value-Add,Austin Office 41
+PROP-041,2023-12,39836.0,0.914,64252.0,24416.0,35428.0,Austin,Office,Value-Add,Austin Office 41
+PROP-041,2024-01,41122.0,0.93,65346.0,24832.0,35428.0,Austin,Office,Value-Add,Austin Office 41
+PROP-041,2024-02,42514.0,0.951,66835.0,25397.0,35428.0,Austin,Office,Value-Add,Austin Office 41
+PROP-041,2024-03,42354.0,0.944,66323.0,25203.0,35428.0,Austin,Office,Value-Add,Austin Office 41
+PROP-041,2024-04,42157.0,0.943,66273.0,25184.0,35428.0,Austin,Office,Value-Add,Austin Office 41
+PROP-041,2024-05,42434.0,0.959,67430.0,25623.0,35428.0,Austin,Office,Value-Add,Austin Office 41
+PROP-041,2024-06,40389.0,0.927,65144.0,24755.0,35428.0,Austin,Office,Value-Add,Austin Office 41
+PROP-041,2024-07,40023.0,0.932,65536.0,24904.0,35428.0,Austin,Office,Value-Add,Austin Office 41
+PROP-041,2024-08,39408.0,0.928,65256.0,24797.0,35428.0,Austin,Office,Value-Add,Austin Office 41
+PROP-041,2024-09,40824.0,0.966,67882.0,25795.0,35428.0,Austin,Office,Value-Add,Austin Office 41
+PROP-041,2024-10,40485.0,0.954,67039.0,25475.0,35428.0,Austin,Office,Value-Add,Austin Office 41
+PROP-041,2024-11,39457.0,0.919,64610.0,24552.0,35428.0,Austin,Office,Value-Add,Austin Office 41
+PROP-042,2022-01,99856.0,0.906,161059.0,61202.0,87153.0,Austin,Retail,Stabilized,Austin Retail 42
+PROP-042,2022-01,99024.0,0.885,157356.0,59795.0,87153.0,Austin,Retail,Stabilized,Austin Retail 42
+PROP-042,2022-03,102189.0,0.903,160647.0,61046.0,87153.0,Austin,Retail,Stabilized,Austin Retail 42
+PROP-042,2022-04,103302.0,0.909,161763.0,61470.0,87153.0,Austin,Retail,Stabilized,Austin Retail 42
+PROP-042,2022-05,97660.0,0.863,153527.0,58340.0,87153.0,Austin,Retail,Stabilized,Austin Retail 42
+PROP-042,2022-05,97752.0,0.873,155334.0,59027.0,87153.0,Austin,Retail,Stabilized,Austin Retail 42
+PROP-042,2022-06,95688.0,0.868,154336.0,58648.0,87153.0,Austin,Retail,Stabilized,Austin Retail 42
+PROP-042,2022-07,93863.0,0.864,153697.0,58405.0,87153.0,Austin,Retail,Stabilized,Austin Retail 42
+PROP-042,2022-08,96049.0,0.894,159050.0,60439.0,87153.0,Austin,Retail,Stabilized,Austin Retail 42
+PROP-042,2022-09,96255.0,0.9,160051.0,60819.0,87153.0,Austin,Retail,Stabilized,Austin Retail 42
+PROP-042,2022-10,92903.0,0.865,153841.0,58459.0,87153.0,Austin,Retail,Stabilized,Austin Retail 42
+PROP-042,2022-11,97959.0,0.902,160405.0,60954.0,87153.0,Austin,Retail,Stabilized,Austin Retail 42
+PROP-042,2022-12,97461.0,0.884,157195.0,59734.0,87153.0,Austin,Retail,Stabilized,Austin Retail 42
+PROP-042,2023-01,97920.0,0.875,155602.0,59129.0,87153.0,Austin,Retail,Stabilized,Austin Retail 42
+PROP-042,2023-02,98877.0,0.874,155440.0,59067.0,87153.0,Austin,Retail,Stabilized,Austin Retail 42
+PROP-042,2023-03,103181.0,0.908,161573.0,61398.0,87153.0,Austin,Retail,Stabilized,Austin Retail 42
+PROP-042,2023-04,97906.0,0.865,153914.0,58487.0,87153.0,Austin,Retail,Stabilized,Austin Retail 42
+PROP-042,2023-05,99530.0,0.889,158159.0,60101.0,87153.0,Austin,Retail,Stabilized,Austin Retail 42
+PROP-042,2023-06,96796.0,0.878,156123.0,59327.0,87153.0,Austin,Retail,Stabilized,Austin Retail 42
+PROP-042,2023-07,98395.0,0.906,161118.0,61225.0,87153.0,Austin,Retail,Stabilized,Austin Retail 42
+PROP-042,2023-08,96815.0,0.901,160319.0,60921.0,87153.0,Austin,Retail,Stabilized,Austin Retail 42
+PROP-042,2023-09,94062.0,0.879,156404.0,59434.0,87153.0,Austin,Retail,Stabilized,Austin Retail 42
+PROP-042,2023-10,96050.0,0.894,159051.0,60440.0,87153.0,Austin,Retail,Stabilized,Austin Retail 42
+PROP-042,2023-11,97565.0,0.898,159759.0,60709.0,87153.0,Austin,Retail,Stabilized,Austin Retail 42
+PROP-042,2023-12,96981.0,0.879,156421.0,59440.0,87153.0,Austin,Retail,Stabilized,Austin Retail 42
+PROP-042,2024-01,98323.0,0.878,156242.0,59372.0,87153.0,Austin,Retail,Stabilized,Austin Retail 42
+PROP-042,2024-02,98430.0,0.87,154738.0,58800.0,87153.0,Austin,Retail,Stabilized,Austin Retail 42
+PROP-042,2024-03,101948.0,0.898,159642.0,60664.0,87153.0,Austin,Retail,Stabilized,Austin Retail 42
+PROP-042,2024-04,98899.0,0.874,155476.0,59081.0,87153.0,Austin,Retail,Stabilized,Austin Retail 42
+PROP-042,2024-05,98315.0,0.878,156230.0,59367.0,87153.0,Austin,Retail,Stabilized,Austin Retail 42
+PROP-042,2024-06,95453.0,0.866,153957.0,58504.0,87153.0,Austin,Retail,Stabilized,Austin Retail 42
+PROP-042,2024-07,99164.0,0.913,162378.0,61704.0,87153.0,Austin,Retail,Stabilized,Austin Retail 42
+PROP-042,2024-08,97664.0,0.909,161725.0,61455.0,87153.0,Austin,Retail,Stabilized,Austin Retail 42
+PROP-042,2024-09,97443.0,0.911,162027.0,61570.0,87153.0,Austin,Retail,Stabilized,Austin Retail 42
+PROP-042,2024-10,96211.0,0.896,159318.0,60541.0,87153.0,Austin,Retail,Stabilized,Austin Retail 42
+PROP-042,2024-11,96144.0,0.885,157432.0,59824.0,87153.0,Austin,Retail,Stabilized,Austin Retail 42
+PROP-043,2022-01,70877.0,0.887,114317.0,43440.0,65887.0,Austin,Industrial,Value-Add,Austin Industrial 43
+PROP-043,2022-01,73998.0,0.912,117587.0,44683.0,65887.0,Austin,Industrial,Value-Add,Austin Industrial 43
+PROP-043,2022-03,74664.0,0.911,117377.0,44603.0,65887.0,Austin,Industrial,Value-Add,Austin Industrial 43
+PROP-043,2022-04,73773.0,0.896,115523.0,43899.0,65887.0,Austin,Industrial,Value-Add,Austin Industrial 43
+PROP-043,2022-05,73984.0,0.902,116308.0,44197.0,65887.0,Austin,Industrial,Value-Add,Austin Industrial 43
+PROP-043,2022-05,71176.0,0.877,113103.0,42979.0,65887.0,Austin,Industrial,Value-Add,Austin Industrial 43
+PROP-043,2022-06,70539.0,0.883,113773.0,43234.0,65887.0,Austin,Industrial,Value-Add,Austin Industrial 43
+PROP-043,2022-07,68362.0,0.868,111940.0,42537.0,65887.0,Austin,Industrial,Value-Add,Austin Industrial 43
+PROP-043,2022-08,68541.0,0.88,113499.0,43130.0,65887.0,Austin,Industrial,Value-Add,Austin Industrial 43
+PROP-043,2022-09,69818.0,0.901,116093.0,44115.0,65887.0,Austin,Industrial,Value-Add,Austin Industrial 43
+PROP-043,2022-10,68944.0,0.886,114165.0,43383.0,65887.0,Austin,Industrial,Value-Add,Austin Industrial 43
+PROP-043,2022-11,71295.0,0.906,116744.0,44363.0,65887.0,Austin,Industrial,Value-Add,Austin Industrial 43
+PROP-043,2022-12,70048.0,0.876,112980.0,42932.0,65887.0,Austin,Industrial,Value-Add,Austin Industrial 43
+PROP-043,2023-01,72855.0,0.898,115771.0,43993.0,65887.0,Austin,Industrial,Value-Add,Austin Industrial 43
+PROP-043,2023-02,74072.0,0.903,116445.0,44249.0,65887.0,Austin,Industrial,Value-Add,Austin Industrial 43
+PROP-043,2023-03,74839.0,0.909,117193.0,44533.0,65887.0,Austin,Industrial,Value-Add,Austin Industrial 43
+PROP-043,2023-04,73009.0,0.89,114775.0,43615.0,65887.0,Austin,Industrial,Value-Add,Austin Industrial 43
+PROP-043,2023-05,73978.0,0.912,117556.0,44671.0,65887.0,Austin,Industrial,Value-Add,Austin Industrial 43
+PROP-043,2023-06,71139.0,0.89,114740.0,43601.0,65887.0,Austin,Industrial,Value-Add,Austin Industrial 43
+PROP-043,2023-07,68299.0,0.868,111837.0,42498.0,65887.0,Austin,Industrial,Value-Add,Austin Industrial 43
+PROP-043,2023-08,67988.0,0.873,112583.0,42781.0,65887.0,Austin,Industrial,Value-Add,Austin Industrial 43
+PROP-043,2023-09,67544.0,0.871,112312.0,42678.0,65887.0,Austin,Industrial,Value-Add,Austin Industrial 43
+PROP-043,2023-10,69661.0,0.895,115354.0,43834.0,65887.0,Austin,Industrial,Value-Add,Austin Industrial 43
+PROP-043,2023-11,71601.0,0.909,117244.0,44553.0,65887.0,Austin,Industrial,Value-Add,Austin Industrial 43
+PROP-043,2023-12,72372.0,0.905,116729.0,44357.0,65887.0,Austin,Industrial,Value-Add,Austin Industrial 43
+PROP-043,2024-01,70199.0,0.865,111551.0,42389.0,65887.0,Austin,Industrial,Value-Add,Austin Industrial 43
+PROP-043,2024-02,73717.0,0.899,115888.0,44037.0,65887.0,Austin,Industrial,Value-Add,Austin Industrial 43
+PROP-043,2024-03,71666.0,0.871,112223.0,42645.0,65887.0,Austin,Industrial,Value-Add,Austin Industrial 43
+PROP-043,2024-04,71727.0,0.875,112758.0,42848.0,65887.0,Austin,Industrial,Value-Add,Austin Industrial 43
+PROP-043,2024-05,72708.0,0.896,115539.0,43905.0,65887.0,Austin,Industrial,Value-Add,Austin Industrial 43
+PROP-043,2024-06,71333.0,0.892,115053.0,43720.0,65887.0,Austin,Industrial,Value-Add,Austin Industrial 43
+PROP-043,2024-07,71397.0,0.907,116910.0,44426.0,65887.0,Austin,Industrial,Value-Add,Austin Industrial 43
+PROP-043,2024-08,67761.0,0.87,112208.0,42639.0,65887.0,Austin,Industrial,Value-Add,Austin Industrial 43
+PROP-043,2024-09,69848.0,0.901,116142.0,44134.0,65887.0,Austin,Industrial,Value-Add,Austin Industrial 43
+PROP-043,2024-10,69983.0,0.899,115886.0,44037.0,65887.0,Austin,Industrial,Value-Add,Austin Industrial 43
+PROP-043,2024-11,70078.0,0.89,114751.0,43605.0,65887.0,Austin,Industrial,Value-Add,Austin Industrial 43
+PROP-044,2022-01,196701.0,0.965,317259.0,120558.0,197031.0,Phoenix,Retail,Stabilized,Phoenix Retail 44
+PROP-044,2022-01,204330.0,0.987,324693.0,123384.0,197031.0,Phoenix,Retail,Stabilized,Phoenix Retail 44
+PROP-044,2022-03,200036.0,0.956,314468.0,119498.0,197031.0,Phoenix,Retail,Stabilized,Phoenix Retail 44
+PROP-044,2022-04,208415.0,0.99,326362.0,124018.0,197031.0,Phoenix,Retail,Stabilized,Phoenix Retail 44
+PROP-044,2022-05,196185.0,0.938,308414.0,117197.0,197031.0,Phoenix,Retail,Stabilized,Phoenix Retail 44
+PROP-044,2022-05,205141.0,0.99,325983.0,123874.0,197031.0,Phoenix,Retail,Stabilized,Phoenix Retail 44
+PROP-044,2022-06,202404.0,0.99,326458.0,124054.0,197031.0,Phoenix,Retail,Stabilized,Phoenix Retail 44
+PROP-044,2022-07,189536.0,0.944,310358.0,117936.0,197031.0,Phoenix,Retail,Stabilized,Phoenix Retail 44
+PROP-044,2022-08,197577.0,0.99,327173.0,124326.0,197031.0,Phoenix,Retail,Stabilized,Phoenix Retail 44
+PROP-044,2022-09,190794.0,0.965,317250.0,120555.0,197031.0,Phoenix,Retail,Stabilized,Phoenix Retail 44
+PROP-044,2022-10,188865.0,0.951,312746.0,118843.0,197031.0,Phoenix,Retail,Stabilized,Phoenix Retail 44
+PROP-044,2022-11,195205.0,0.972,319641.0,121464.0,197031.0,Phoenix,Retail,Stabilized,Phoenix Retail 44
+PROP-044,2022-12,193452.0,0.949,312020.0,118568.0,197031.0,Phoenix,Retail,Stabilized,Phoenix Retail 44
+PROP-044,2023-01,204877.0,0.99,325564.0,123714.0,197031.0,Phoenix,Retail,Stabilized,Phoenix Retail 44
+PROP-044,2023-02,202692.0,0.969,318644.0,121085.0,197031.0,Phoenix,Retail,Stabilized,Phoenix Retail 44
+PROP-044,2023-03,206206.0,0.982,322903.0,122703.0,197031.0,Phoenix,Retail,Stabilized,Phoenix Retail 44
+PROP-044,2023-04,200614.0,0.959,315377.0,119843.0,197031.0,Phoenix,Retail,Stabilized,Phoenix Retail 44
+PROP-044,2023-05,200302.0,0.968,318293.0,120951.0,197031.0,Phoenix,Retail,Stabilized,Phoenix Retail 44
+PROP-044,2023-06,195281.0,0.958,314969.0,119688.0,197031.0,Phoenix,Retail,Stabilized,Phoenix Retail 44
+PROP-044,2023-07,191215.0,0.952,313107.0,118981.0,197031.0,Phoenix,Retail,Stabilized,Phoenix Retail 44
+PROP-044,2023-08,191975.0,0.967,317896.0,120800.0,197031.0,Phoenix,Retail,Stabilized,Phoenix Retail 44
+PROP-044,2023-09,191004.0,0.966,317600.0,120688.0,197031.0,Phoenix,Retail,Stabilized,Phoenix Retail 44
+PROP-044,2023-10,187207.0,0.943,310001.0,117801.0,197031.0,Phoenix,Retail,Stabilized,Phoenix Retail 44
+PROP-044,2023-11,199592.0,0.99,326825.0,124194.0,197031.0,Phoenix,Retail,Stabilized,Phoenix Retail 44
+PROP-044,2023-12,196583.0,0.964,317070.0,120487.0,197031.0,Phoenix,Retail,Stabilized,Phoenix Retail 44
+PROP-044,2024-01,203973.0,0.986,324127.0,123168.0,197031.0,Phoenix,Retail,Stabilized,Phoenix Retail 44
+PROP-044,2024-02,207084.0,0.99,325548.0,123708.0,197031.0,Phoenix,Retail,Stabilized,Phoenix Retail 44
+PROP-044,2024-03,201279.0,0.959,315187.0,119771.0,197031.0,Phoenix,Retail,Stabilized,Phoenix Retail 44
+PROP-044,2024-04,201017.0,0.961,316011.0,120084.0,197031.0,Phoenix,Retail,Stabilized,Phoenix Retail 44
+PROP-044,2024-05,200648.0,0.97,318843.0,121160.0,197031.0,Phoenix,Retail,Stabilized,Phoenix Retail 44
+PROP-044,2024-06,193650.0,0.95,312339.0,118689.0,197031.0,Phoenix,Retail,Stabilized,Phoenix Retail 44
+PROP-044,2024-07,189869.0,0.945,310903.0,118143.0,197031.0,Phoenix,Retail,Stabilized,Phoenix Retail 44
+PROP-044,2024-08,189074.0,0.952,313092.0,118975.0,197031.0,Phoenix,Retail,Stabilized,Phoenix Retail 44
+PROP-044,2024-09,196019.0,0.99,325938.0,123856.0,197031.0,Phoenix,Retail,Stabilized,Phoenix Retail 44
+PROP-044,2024-10,192738.0,0.971,319160.0,121281.0,197031.0,Phoenix,Retail,Stabilized,Phoenix Retail 44
+PROP-044,2024-11,193030.0,0.961,316081.0,120111.0,197031.0,Phoenix,Retail,Stabilized,Phoenix Retail 44
+PROP-045,2022-01,247891.0,0.907,399824.0,151933.0,150699.0,Denver,Retail,Development,Denver Retail 45
+PROP-045,2022-01,254345.0,0.917,404172.0,153585.0,150699.0,Denver,Retail,Development,Denver Retail 45
+PROP-045,2022-03,257876.0,0.919,405396.0,154051.0,150699.0,Denver,Retail,Development,Denver Retail 45
+PROP-045,2022-04,265982.0,0.945,416508.0,158273.0,150699.0,Denver,Retail,Development,Denver Retail 45
+PROP-045,2022-05,259738.0,0.926,408323.0,155163.0,150699.0,Denver,Retail,Development,Denver Retail 45
+PROP-045,2022-05,259352.0,0.935,412128.0,156609.0,150699.0,Denver,Retail,Development,Denver Retail 45
+PROP-045,2022-06,255979.0,0.936,412869.0,156890.0,150699.0,Denver,Retail,Development,Denver Retail 45
+PROP-045,2022-07,245742.0,0.913,402395.0,152910.0,150699.0,Denver,Retail,Development,Denver Retail 45
+PROP-045,2022-08,251352.0,0.944,416219.0,158163.0,150699.0,Denver,Retail,Development,Denver Retail 45
+PROP-045,2022-09,252450.0,0.952,419770.0,159513.0,150699.0,Denver,Retail,Development,Denver Retail 45
+PROP-045,2022-10,248690.0,0.934,411812.0,156489.0,150699.0,Denver,Retail,Development,Denver Retail 45
+PROP-045,2022-11,249233.0,0.925,408110.0,155082.0,150699.0,Denver,Retail,Development,Denver Retail 45
+PROP-045,2022-12,248131.0,0.908,400212.0,152081.0,150699.0,Denver,Retail,Development,Denver Retail 45
+PROP-045,2023-01,261517.0,0.942,415567.0,157916.0,150699.0,Denver,Retail,Development,Denver Retail 45
+PROP-045,2023-02,254594.0,0.908,400237.0,152090.0,150699.0,Denver,Retail,Development,Denver Retail 45
+PROP-045,2023-03,264213.0,0.938,413738.0,157220.0,150699.0,Denver,Retail,Development,Denver Retail 45
+PROP-045,2023-04,259566.0,0.925,408054.0,155061.0,150699.0,Denver,Retail,Development,Denver Retail 45
+PROP-045,2023-05,263396.0,0.949,418555.0,159051.0,150699.0,Denver,Retail,Development,Denver Retail 45
+PROP-045,2023-06,253811.0,0.928,409373.0,155562.0,150699.0,Denver,Retail,Development,Denver Retail 45
+PROP-045,2023-07,251495.0,0.934,411815.0,156490.0,150699.0,Denver,Retail,Development,Denver Retail 45
+PROP-045,2023-08,240065.0,0.901,397529.0,151061.0,150699.0,Denver,Retail,Development,Denver Retail 45
+PROP-045,2023-09,238707.0,0.9,396919.0,150829.0,150699.0,Denver,Retail,Development,Denver Retail 45
+PROP-045,2023-10,251723.0,0.945,416835.0,158397.0,150699.0,Denver,Retail,Development,Denver Retail 45
+PROP-045,2023-11,256035.0,0.951,419248.0,159314.0,150699.0,Denver,Retail,Development,Denver Retail 45
+PROP-045,2023-12,255726.0,0.935,412462.0,156735.0,150699.0,Denver,Retail,Development,Denver Retail 45
+PROP-045,2024-01,261044.0,0.941,414817.0,157630.0,150699.0,Denver,Retail,Development,Denver Retail 45
+PROP-045,2024-02,258383.0,0.921,406194.0,154354.0,150699.0,Denver,Retail,Development,Denver Retail 45
+PROP-045,2024-03,266126.0,0.945,416733.0,158358.0,150699.0,Denver,Retail,Development,Denver Retail 45
+PROP-045,2024-04,255563.0,0.911,401760.0,152669.0,150699.0,Denver,Retail,Development,Denver Retail 45
+PROP-045,2024-05,260163.0,0.938,413416.0,157098.0,150699.0,Denver,Retail,Development,Denver Retail 45
+PROP-045,2024-06,245715.0,0.899,396314.0,150599.0,150699.0,Denver,Retail,Development,Denver Retail 45
+PROP-045,2024-07,249459.0,0.926,408481.0,155223.0,150699.0,Denver,Retail,Development,Denver Retail 45
+PROP-045,2024-08,244717.0,0.919,405234.0,153989.0,150699.0,Denver,Retail,Development,Denver Retail 45
+PROP-045,2024-09,247312.0,0.933,411227.0,156266.0,150699.0,Denver,Retail,Development,Denver Retail 45
+PROP-045,2024-10,249061.0,0.935,412426.0,156722.0,150699.0,Denver,Retail,Development,Denver Retail 45
+PROP-045,2024-11,251117.0,0.932,411195.0,156254.0,150699.0,Denver,Retail,Development,Denver Retail 45
+PROP-046,2022-01,411770.0,0.905,664146.0,252375.0,297201.0,Phoenix,Retail,Stabilized,Phoenix Retail 46
+PROP-046,2022-01,418064.0,0.905,664331.0,252446.0,297201.0,Phoenix,Retail,Stabilized,Phoenix Retail 46
+PROP-046,2022-03,410376.0,0.879,645135.0,245151.0,297201.0,Phoenix,Retail,Stabilized,Phoenix Retail 46
+PROP-046,2022-04,425867.0,0.909,666876.0,253413.0,297201.0,Phoenix,Retail,Stabilized,Phoenix Retail 46
+PROP-046,2022-05,410509.0,0.879,645344.0,245231.0,297201.0,Phoenix,Retail,Stabilized,Phoenix Retail 46
+PROP-046,2022-05,419107.0,0.908,665989.0,253076.0,297201.0,Phoenix,Retail,Stabilized,Phoenix Retail 46
+PROP-046,2022-06,406615.0,0.894,655830.0,249216.0,297201.0,Phoenix,Retail,Stabilized,Phoenix Retail 46
+PROP-046,2022-07,417634.0,0.932,683862.0,259868.0,297201.0,Phoenix,Retail,Stabilized,Phoenix Retail 46
+PROP-046,2022-08,389845.0,0.88,645555.0,245311.0,297201.0,Phoenix,Retail,Stabilized,Phoenix Retail 46
+PROP-046,2022-09,407333.0,0.923,677307.0,257377.0,297201.0,Phoenix,Retail,Stabilized,Phoenix Retail 46
+PROP-046,2022-10,405669.0,0.915,671758.0,255268.0,297201.0,Phoenix,Retail,Stabilized,Phoenix Retail 46
+PROP-046,2022-11,413461.0,0.923,677028.0,257271.0,297201.0,Phoenix,Retail,Stabilized,Phoenix Retail 46
+PROP-046,2022-12,422320.0,0.928,681161.0,258841.0,297201.0,Phoenix,Retail,Stabilized,Phoenix Retail 46
+PROP-046,2023-01,408504.0,0.885,649140.0,246673.0,297201.0,Phoenix,Retail,Stabilized,Phoenix Retail 46
+PROP-046,2023-02,412652.0,0.884,648713.0,246511.0,297201.0,Phoenix,Retail,Stabilized,Phoenix Retail 46
+PROP-046,2023-03,415608.0,0.887,650811.0,247308.0,297201.0,Phoenix,Retail,Stabilized,Phoenix Retail 46
+PROP-046,2023-04,415078.0,0.889,652527.0,247960.0,297201.0,Phoenix,Retail,Stabilized,Phoenix Retail 46
+PROP-046,2023-05,419033.0,0.907,665871.0,253031.0,297201.0,Phoenix,Retail,Stabilized,Phoenix Retail 46
+PROP-046,2023-06,419981.0,0.923,677389.0,257408.0,297201.0,Phoenix,Retail,Stabilized,Phoenix Retail 46
+PROP-046,2023-07,400335.0,0.893,655535.0,249103.0,297201.0,Phoenix,Retail,Stabilized,Phoenix Retail 46
+PROP-046,2023-08,398993.0,0.9,660703.0,251067.0,297201.0,Phoenix,Retail,Stabilized,Phoenix Retail 46
+PROP-046,2023-09,396775.0,0.899,659752.0,250706.0,297201.0,Phoenix,Retail,Stabilized,Phoenix Retail 46
+PROP-046,2023-10,399213.0,0.901,661067.0,251206.0,297201.0,Phoenix,Retail,Stabilized,Phoenix Retail 46
+PROP-046,2023-11,407586.0,0.91,667409.0,253615.0,297201.0,Phoenix,Retail,Stabilized,Phoenix Retail 46
+PROP-046,2023-12,424310.0,0.933,684371.0,260061.0,297201.0,Phoenix,Retail,Stabilized,Phoenix Retail 46
+PROP-046,2024-01,411487.0,0.891,653880.0,248475.0,297201.0,Phoenix,Retail,Stabilized,Phoenix Retail 46
+PROP-046,2024-02,427564.0,0.916,672157.0,255420.0,297201.0,Phoenix,Retail,Stabilized,Phoenix Retail 46
+PROP-046,2024-03,433413.0,0.925,678692.0,257903.0,297201.0,Phoenix,Retail,Stabilized,Phoenix Retail 46
+PROP-046,2024-04,426795.0,0.914,670948.0,254960.0,297201.0,Phoenix,Retail,Stabilized,Phoenix Retail 46
+PROP-046,2024-05,427361.0,0.925,679105.0,258060.0,297201.0,Phoenix,Retail,Stabilized,Phoenix Retail 46
+PROP-046,2024-06,418606.0,0.92,675170.0,256565.0,297201.0,Phoenix,Retail,Stabilized,Phoenix Retail 46
+PROP-046,2024-07,396101.0,0.884,648601.0,246468.0,297201.0,Phoenix,Retail,Stabilized,Phoenix Retail 46
+PROP-046,2024-08,398568.0,0.899,660000.0,250800.0,297201.0,Phoenix,Retail,Stabilized,Phoenix Retail 46
+PROP-046,2024-09,401084.0,0.909,666918.0,253429.0,297201.0,Phoenix,Retail,Stabilized,Phoenix Retail 46
+PROP-046,2024-10,390784.0,0.882,647110.0,245902.0,297201.0,Phoenix,Retail,Stabilized,Phoenix Retail 46
+PROP-046,2024-11,394053.0,0.879,645248.0,245194.0,297201.0,Phoenix,Retail,Stabilized,Phoenix Retail 46
+PROP-047,2022-01,198239.0,0.889,319741.0,121501.0,151449.0,Denver,Retail,Value-Add,Denver Retail 47
+PROP-047,2022-01,205258.0,0.907,326169.0,123944.0,151449.0,Denver,Retail,Value-Add,Denver Retail 47
+PROP-047,2022-03,206658.0,0.903,324878.0,123454.0,151449.0,Denver,Retail,Value-Add,Denver Retail 47
+PROP-047,2022-04,211847.0,0.922,331737.0,126060.0,151449.0,Denver,Retail,Value-Add,Denver Retail 47
+PROP-047,2022-05,208300.0,0.911,327461.0,124435.0,151449.0,Denver,Retail,Value-Add,Denver Retail 47
+PROP-047,2022-05,209668.0,0.926,333177.0,126607.0,151449.0,Denver,Retail,Value-Add,Denver Retail 47
+PROP-047,2022-06,197317.0,0.885,318253.0,120936.0,151449.0,Denver,Retail,Value-Add,Denver Retail 47
+PROP-047,2022-07,199530.0,0.909,326723.0,124155.0,151449.0,Denver,Retail,Value-Add,Denver Retail 47
+PROP-047,2022-08,191566.0,0.882,317219.0,120543.0,151449.0,Denver,Retail,Value-Add,Denver Retail 47
+PROP-047,2022-09,192763.0,0.891,320524.0,121799.0,151449.0,Denver,Retail,Value-Add,Denver Retail 47
+PROP-047,2022-10,201323.0,0.927,333376.0,126683.0,151449.0,Denver,Retail,Value-Add,Denver Retail 47
+PROP-047,2022-11,203825.0,0.928,333756.0,126827.0,151449.0,Denver,Retail,Value-Add,Denver Retail 47
+PROP-047,2022-12,201929.0,0.906,325692.0,123763.0,151449.0,Denver,Retail,Value-Add,Denver Retail 47
+PROP-047,2023-01,199676.0,0.882,317298.0,120573.0,151449.0,Denver,Retail,Value-Add,Denver Retail 47
+PROP-047,2023-02,202182.0,0.884,317842.0,120780.0,151449.0,Denver,Retail,Value-Add,Denver Retail 47
+PROP-047,2023-03,213612.0,0.93,334501.0,127110.0,151449.0,Denver,Retail,Value-Add,Denver Retail 47
+PROP-047,2023-04,212451.0,0.929,333986.0,126915.0,151449.0,Denver,Retail,Value-Add,Denver Retail 47
+PROP-047,2023-05,206042.0,0.91,327415.0,124418.0,151449.0,Denver,Retail,Value-Add,Denver Retail 47
+PROP-047,2023-06,196559.0,0.882,317031.0,120472.0,151449.0,Denver,Retail,Value-Add,Denver Retail 47
+PROP-047,2023-07,204318.0,0.93,334563.0,127134.0,151449.0,Denver,Retail,Value-Add,Denver Retail 47
+PROP-047,2023-08,194780.0,0.897,322541.0,122566.0,151449.0,Denver,Retail,Value-Add,Denver Retail 47
+PROP-047,2023-09,201591.0,0.932,335203.0,127377.0,151449.0,Denver,Retail,Value-Add,Denver Retail 47
+PROP-047,2023-10,198001.0,0.912,327875.0,124593.0,151449.0,Denver,Retail,Value-Add,Denver Retail 47
+PROP-047,2023-11,202208.0,0.921,331108.0,125821.0,151449.0,Denver,Retail,Value-Add,Denver Retail 47
+PROP-047,2023-12,204807.0,0.919,330335.0,125527.0,151449.0,Denver,Retail,Value-Add,Denver Retail 47
+PROP-047,2024-01,204007.0,0.901,324181.0,123189.0,151449.0,Denver,Retail,Value-Add,Denver Retail 47
+PROP-047,2024-02,202214.0,0.884,317892.0,120799.0,151449.0,Denver,Retail,Value-Add,Denver Retail 47
+PROP-047,2024-03,204075.0,0.889,319566.0,121435.0,151449.0,Denver,Retail,Value-Add,Denver Retail 47
+PROP-047,2024-04,204250.0,0.893,321093.0,122015.0,151449.0,Denver,Retail,Value-Add,Denver Retail 47
+PROP-047,2024-05,209381.0,0.925,332721.0,126434.0,151449.0,Denver,Retail,Value-Add,Denver Retail 47
+PROP-047,2024-06,200882.0,0.901,324003.0,123121.0,151449.0,Denver,Retail,Value-Add,Denver Retail 47
+PROP-047,2024-07,203932.0,0.929,333932.0,126894.0,151449.0,Denver,Retail,Value-Add,Denver Retail 47
+PROP-047,2024-08,194984.0,0.898,322879.0,122694.0,151449.0,Denver,Retail,Value-Add,Denver Retail 47
+PROP-047,2024-09,199168.0,0.921,331174.0,125846.0,151449.0,Denver,Retail,Value-Add,Denver Retail 47
+PROP-047,2024-10,192717.0,0.887,319125.0,121268.0,151449.0,Denver,Retail,Value-Add,Denver Retail 47
+PROP-047,2024-11,205031.0,0.934,335731.0,127578.0,151449.0,Denver,Retail,Value-Add,Denver Retail 47
+PROP-048,2022-01,166373.0,0.947,268344.0,101971.0,111013.0,Austin,Industrial,Value-Add,Austin Industrial 48
+PROP-048,2022-01,166636.0,0.934,264795.0,100622.0,111013.0,Austin,Industrial,Value-Add,Austin Industrial 48
+PROP-048,2022-03,173224.0,0.961,272318.0,103481.0,111013.0,Austin,Industrial,Value-Add,Austin Industrial 48
+PROP-048,2022-04,164562.0,0.909,257692.0,97923.0,111013.0,Austin,Industrial,Value-Add,Austin Industrial 48
+PROP-048,2022-05,167795.0,0.93,263783.0,100238.0,111013.0,Austin,Industrial,Value-Add,Austin Industrial 48
+PROP-048,2022-05,170014.0,0.953,270163.0,102662.0,111013.0,Austin,Industrial,Value-Add,Austin Industrial 48
+PROP-048,2022-06,162595.0,0.925,262250.0,99655.0,111013.0,Austin,Industrial,Value-Add,Austin Industrial 48
+PROP-048,2022-07,164313.0,0.949,269056.0,102241.0,111013.0,Austin,Industrial,Value-Add,Austin Industrial 48
+PROP-048,2022-08,164264.0,0.959,272009.0,103363.0,111013.0,Austin,Industrial,Value-Add,Austin Industrial 48
+PROP-048,2022-09,158253.0,0.928,263142.0,99994.0,111013.0,Austin,Industrial,Value-Add,Austin Industrial 48
+PROP-048,2022-10,162525.0,0.949,269129.0,102269.0,111013.0,Austin,Industrial,Value-Add,Austin Industrial 48
+PROP-048,2022-11,157139.0,0.908,257310.0,97778.0,111013.0,Austin,Industrial,Value-Add,Austin Industrial 48
+PROP-048,2022-12,161933.0,0.921,261182.0,99249.0,111013.0,Austin,Industrial,Value-Add,Austin Industrial 48
+PROP-048,2023-01,171553.0,0.962,272608.0,103591.0,111013.0,Austin,Industrial,Value-Add,Austin Industrial 48
+PROP-048,2023-02,168336.0,0.933,264634.0,100561.0,111013.0,Austin,Industrial,Value-Add,Austin Industrial 48
+PROP-048,2023-03,167627.0,0.926,262492.0,99747.0,111013.0,Austin,Industrial,Value-Add,Austin Industrial 48
+PROP-048,2023-04,172889.0,0.959,271791.0,103281.0,111013.0,Austin,Industrial,Value-Add,Austin Industrial 48
+PROP-048,2023-05,165946.0,0.93,263700.0,100206.0,111013.0,Austin,Industrial,Value-Add,Austin Industrial 48
+PROP-048,2023-06,165935.0,0.944,267638.0,101702.0,111013.0,Austin,Industrial,Value-Add,Austin Industrial 48
+PROP-048,2023-07,163262.0,0.943,267335.0,101587.0,111013.0,Austin,Industrial,Value-Add,Austin Industrial 48
+PROP-048,2023-08,155925.0,0.911,258201.0,98116.0,111013.0,Austin,Industrial,Value-Add,Austin Industrial 48
+PROP-048,2023-09,160374.0,0.941,266667.0,101334.0,111013.0,Austin,Industrial,Value-Add,Austin Industrial 48
+PROP-048,2023-10,162760.0,0.951,269518.0,102417.0,111013.0,Austin,Industrial,Value-Add,Austin Industrial 48
+PROP-048,2023-11,163770.0,0.946,268168.0,101904.0,111013.0,Austin,Industrial,Value-Add,Austin Industrial 48
+PROP-048,2023-12,160048.0,0.911,258143.0,98094.0,111013.0,Austin,Industrial,Value-Add,Austin Industrial 48
+PROP-048,2024-01,163171.0,0.915,259289.0,98530.0,111013.0,Austin,Industrial,Value-Add,Austin Industrial 48
+PROP-048,2024-02,170570.0,0.946,268146.0,101895.0,111013.0,Austin,Industrial,Value-Add,Austin Industrial 48
+PROP-048,2024-03,170449.0,0.942,266910.0,101426.0,111013.0,Austin,Industrial,Value-Add,Austin Industrial 48
+PROP-048,2024-04,170852.0,0.947,268590.0,102064.0,111013.0,Austin,Industrial,Value-Add,Austin Industrial 48
+PROP-048,2024-05,164795.0,0.924,261870.0,99511.0,111013.0,Austin,Industrial,Value-Add,Austin Industrial 48
+PROP-048,2024-06,160290.0,0.912,258532.0,98242.0,111013.0,Austin,Industrial,Value-Add,Austin Industrial 48
+PROP-048,2024-07,156902.0,0.906,256922.0,97630.0,111013.0,Austin,Industrial,Value-Add,Austin Industrial 48
+PROP-048,2024-08,158061.0,0.923,261737.0,99460.0,111013.0,Austin,Industrial,Value-Add,Austin Industrial 48
+PROP-048,2024-09,157902.0,0.926,262557.0,99772.0,111013.0,Austin,Industrial,Value-Add,Austin Industrial 48
+PROP-048,2024-10,157691.0,0.921,261125.0,99228.0,111013.0,Austin,Industrial,Value-Add,Austin Industrial 48
+PROP-048,2024-11,158137.0,0.913,258944.0,98399.0,111013.0,Austin,Industrial,Value-Add,Austin Industrial 48
+PROP-049,2022-01,62621.0,0.864,101001.0,38380.0,45483.0,Phoenix,Retail,Value-Add,Phoenix Retail 49
+PROP-049,2022-01,64576.0,0.878,102616.0,38994.0,45483.0,Phoenix,Retail,Value-Add,Phoenix Retail 49
+PROP-049,2022-03,65691.0,0.884,103270.0,39243.0,45483.0,Phoenix,Retail,Value-Add,Phoenix Retail 49
+PROP-049,2022-04,65370.0,0.876,102364.0,38898.0,45483.0,Phoenix,Retail,Value-Add,Phoenix Retail 49
+PROP-049,2022-05,63615.0,0.856,100006.0,38002.0,45483.0,Phoenix,Retail,Value-Add,Phoenix Retail 49
+PROP-049,2022-05,64207.0,0.873,102030.0,38771.0,45483.0,Phoenix,Retail,Value-Add,Phoenix Retail 49
+PROP-049,2022-06,62260.0,0.859,100419.0,38159.0,45483.0,Phoenix,Retail,Value-Add,Phoenix Retail 49
+PROP-049,2022-07,63230.0,0.886,103537.0,39344.0,45483.0,Phoenix,Retail,Value-Add,Phoenix Retail 49
+PROP-049,2022-08,61505.0,0.872,101848.0,38702.0,45483.0,Phoenix,Retail,Value-Add,Phoenix Retail 49
+PROP-049,2022-09,61477.0,0.875,102223.0,38845.0,45483.0,Phoenix,Retail,Value-Add,Phoenix Retail 49
+PROP-049,2022-10,61383.0,0.87,101646.0,38626.0,45483.0,Phoenix,Retail,Value-Add,Phoenix Retail 49
+PROP-049,2022-11,62437.0,0.875,102239.0,38851.0,45483.0,Phoenix,Retail,Value-Add,Phoenix Retail 49
+PROP-049,2022-12,62228.0,0.859,100367.0,38139.0,45483.0,Phoenix,Retail,Value-Add,Phoenix Retail 49
+PROP-049,2023-01,66334.0,0.902,105409.0,40056.0,45483.0,Phoenix,Retail,Value-Add,Phoenix Retail 49
+PROP-049,2023-02,67068.0,0.902,105434.0,40065.0,45483.0,Phoenix,Retail,Value-Add,Phoenix Retail 49
+PROP-049,2023-03,67618.0,0.906,105885.0,40236.0,45483.0,Phoenix,Retail,Value-Add,Phoenix Retail 49
+PROP-049,2023-04,65758.0,0.885,103376.0,39283.0,45483.0,Phoenix,Retail,Value-Add,Phoenix Retail 49
+PROP-049,2023-05,63491.0,0.864,100891.0,38339.0,45483.0,Phoenix,Retail,Value-Add,Phoenix Retail 49
+PROP-049,2023-06,63361.0,0.875,102195.0,38834.0,45483.0,Phoenix,Retail,Value-Add,Phoenix Retail 49
+PROP-049,2023-07,61498.0,0.862,100701.0,38267.0,45483.0,Phoenix,Retail,Value-Add,Phoenix Retail 49
+PROP-049,2023-08,61418.0,0.87,101704.0,38647.0,45483.0,Phoenix,Retail,Value-Add,Phoenix Retail 49
+PROP-049,2023-09,61878.0,0.881,102889.0,39098.0,45483.0,Phoenix,Retail,Value-Add,Phoenix Retail 49
+PROP-049,2023-10,60531.0,0.858,100235.0,38089.0,45483.0,Phoenix,Retail,Value-Add,Phoenix Retail 49
+PROP-049,2023-11,62614.0,0.878,102528.0,38961.0,45483.0,Phoenix,Retail,Value-Add,Phoenix Retail 49
+PROP-049,2023-12,63516.0,0.877,102445.0,38929.0,45483.0,Phoenix,Retail,Value-Add,Phoenix Retail 49
+PROP-049,2024-01,64714.0,0.88,102834.0,39077.0,45483.0,Phoenix,Retail,Value-Add,Phoenix Retail 49
+PROP-049,2024-02,63814.0,0.859,100319.0,38121.0,45483.0,Phoenix,Retail,Value-Add,Phoenix Retail 49
+PROP-049,2024-03,64753.0,0.868,101398.0,38531.0,45483.0,Phoenix,Retail,Value-Add,Phoenix Retail 49
+PROP-049,2024-04,64480.0,0.868,101367.0,38519.0,45483.0,Phoenix,Retail,Value-Add,Phoenix Retail 49
+PROP-049,2024-05,65261.0,0.888,103704.0,39408.0,45483.0,Phoenix,Retail,Value-Add,Phoenix Retail 49
+PROP-049,2024-06,64177.0,0.886,103511.0,39334.0,45483.0,Phoenix,Retail,Value-Add,Phoenix Retail 49
+PROP-049,2024-07,61712.0,0.865,101052.0,38400.0,45483.0,Phoenix,Retail,Value-Add,Phoenix Retail 49
+PROP-049,2024-08,60694.0,0.86,100505.0,38192.0,45483.0,Phoenix,Retail,Value-Add,Phoenix Retail 49
+PROP-049,2024-09,61178.0,0.871,101725.0,38656.0,45483.0,Phoenix,Retail,Value-Add,Phoenix Retail 49
+PROP-049,2024-10,63834.0,0.905,105704.0,40167.0,45483.0,Phoenix,Retail,Value-Add,Phoenix Retail 49
+PROP-049,2024-11,62228.0,0.872,101896.0,38720.0,45483.0,Phoenix,Retail,Value-Add,Phoenix Retail 49
+PROP-050,2022-01,190173.0,0.954,306731.0,116558.0,154440.0,Phoenix,Industrial,Value-Add,Phoenix Industrial 50
+PROP-050,2022-01,195140.0,0.964,310091.0,117835.0,154440.0,Phoenix,Industrial,Value-Add,Phoenix Industrial 50
+PROP-050,2022-03,191736.0,0.937,301421.0,114540.0,154440.0,Phoenix,Industrial,Value-Add,Phoenix Industrial 50
+PROP-050,2022-04,192548.0,0.938,301515.0,114576.0,154440.0,Phoenix,Industrial,Value-Add,Phoenix Industrial 50
+PROP-050,2022-05,197384.0,0.965,310300.0,117914.0,154440.0,Phoenix,Industrial,Value-Add,Phoenix Industrial 50
+PROP-050,2022-05,195778.0,0.967,311104.0,118220.0,154440.0,Phoenix,Industrial,Value-Add,Phoenix Industrial 50
+PROP-050,2022-06,194184.0,0.974,313200.0,119016.0,154440.0,Phoenix,Industrial,Value-Add,Phoenix Industrial 50
+PROP-050,2022-07,181919.0,0.926,297886.0,113197.0,154440.0,Phoenix,Industrial,Value-Add,Phoenix Industrial 50
+PROP-050,2022-08,181928.0,0.937,301258.0,114478.0,154440.0,Phoenix,Industrial,Value-Add,Phoenix Industrial 50
+PROP-050,2022-09,188063.0,0.972,312708.0,118829.0,154440.0,Phoenix,Industrial,Value-Add,Phoenix Industrial 50
+PROP-050,2022-10,180605.0,0.93,299069.0,113646.0,154440.0,Phoenix,Industrial,Value-Add,Phoenix Industrial 50
+PROP-050,2022-11,183906.0,0.936,301140.0,114433.0,154440.0,Phoenix,Industrial,Value-Add,Phoenix Industrial 50
+PROP-050,2022-12,194075.0,0.973,313024.0,118949.0,154440.0,Phoenix,Industrial,Value-Add,Phoenix Industrial 50
+PROP-050,2023-01,197034.0,0.974,313100.0,118978.0,154440.0,Phoenix,Industrial,Value-Add,Phoenix Industrial 50
+PROP-050,2023-02,191293.0,0.935,300725.0,114275.0,154440.0,Phoenix,Industrial,Value-Add,Phoenix Industrial 50
+PROP-050,2023-03,196751.0,0.958,308098.0,117077.0,154440.0,Phoenix,Industrial,Value-Add,Phoenix Industrial 50
+PROP-050,2023-04,193613.0,0.946,304371.0,115661.0,154440.0,Phoenix,Industrial,Value-Add,Phoenix Industrial 50
+PROP-050,2023-05,192517.0,0.951,305922.0,116250.0,154440.0,Phoenix,Industrial,Value-Add,Phoenix Industrial 50
+PROP-050,2023-06,185894.0,0.932,299829.0,113935.0,154440.0,Phoenix,Industrial,Value-Add,Phoenix Industrial 50
+PROP-050,2023-07,184597.0,0.94,302270.0,114863.0,154440.0,Phoenix,Industrial,Value-Add,Phoenix Industrial 50
+PROP-050,2023-08,187399.0,0.965,310318.0,117921.0,154440.0,Phoenix,Industrial,Value-Add,Phoenix Industrial 50
+PROP-050,2023-09,181971.0,0.941,302579.0,114980.0,154440.0,Phoenix,Industrial,Value-Add,Phoenix Industrial 50
+PROP-050,2023-10,179646.0,0.925,297480.0,113042.0,154440.0,Phoenix,Industrial,Value-Add,Phoenix Industrial 50
+PROP-050,2023-11,186692.0,0.951,305702.0,116167.0,154440.0,Phoenix,Industrial,Value-Add,Phoenix Industrial 50
+PROP-050,2023-12,189857.0,0.952,306220.0,116364.0,154440.0,Phoenix,Industrial,Value-Add,Phoenix Industrial 50
+PROP-050,2024-01,192169.0,0.95,305369.0,116040.0,154440.0,Phoenix,Industrial,Value-Add,Phoenix Industrial 50
+PROP-050,2024-02,195829.0,0.957,307855.0,116985.0,154440.0,Phoenix,Industrial,Value-Add,Phoenix Industrial 50
+PROP-050,2024-03,195061.0,0.95,305451.0,116071.0,154440.0,Phoenix,Industrial,Value-Add,Phoenix Industrial 50
+PROP-050,2024-04,198983.0,0.973,312813.0,118869.0,154440.0,Phoenix,Industrial,Value-Add,Phoenix Industrial 50
+PROP-050,2024-05,191203.0,0.945,303834.0,115457.0,154440.0,Phoenix,Industrial,Value-Add,Phoenix Industrial 50
+PROP-050,2024-06,191172.0,0.959,308343.0,117170.0,154440.0,Phoenix,Industrial,Value-Add,Phoenix Industrial 50
+PROP-050,2024-07,185293.0,0.944,303411.0,115296.0,154440.0,Phoenix,Industrial,Value-Add,Phoenix Industrial 50
+PROP-050,2024-08,181604.0,0.935,300722.0,114275.0,154440.0,Phoenix,Industrial,Value-Add,Phoenix Industrial 50
+PROP-050,2024-09,185267.0,0.958,308059.0,117062.0,154440.0,Phoenix,Industrial,Value-Add,Phoenix Industrial 50
+PROP-050,2024-10,187426.0,0.965,310363.0,117938.0,154440.0,Phoenix,Industrial,Value-Add,Phoenix Industrial 50
+PROP-050,2024-11,189279.0,0.964,309937.0,117776.0,154440.0,Phoenix,Industrial,Value-Add,Phoenix Industrial 50
