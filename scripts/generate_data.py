@@ -87,23 +87,33 @@ print(df[['property_name','market','noi_annual','cap_rate','dscr']].head(5))
 
 monthly_records = []
 
-for _, prop in df.iterrows():  # loops through each of the 50 properties
-    for month_offset in range(36):  # 36 months = 3 years of history
-        dt = datetime(2022, 1, 1) + timedelta(days=30 * month_offset)
+# FIX: use pd.date_range instead of timedelta arithmetic
+# This guarantees exactly 36 monthly periods ending Dec 2024
+monthly_dates = pd.date_range('2022-01-01', periods=36, freq='MS')
 
-        # Seasonality: slight uptick in summer, dip in winter
-        # sin() creates a smooth wave pattern over 12 months
-        seasonality = 1 + 0.03 * np.sin(2 * np.pi * month_offset / 12)
+for _, prop in df.iterrows():
+    for month_offset, dt in enumerate(monthly_dates):
 
-        # Random noise: ±3% to simulate real-world variance
-        noise = random.uniform(0.97, 1.03)
+        # FIX: increased seasonality amplitude from 0.03 to 0.08
+        # and shifted peak to July/August (month 6-7) which is
+        # realistic for multifamily and retail assets
+        seasonality = 1 + 0.08 * np.sin(2 * np.pi * (dt.month - 3) / 12)
+
+        # FIX: reduced noise from ±3% to ±1.5% so the seasonal
+        # pattern is clearly visible rather than being drowned out
+        noise = random.uniform(0.985, 1.015)
+
+        # Small upward trend: 0.5% monthly growth = ~6% annual NOI growth
+        # This makes the trend line visually interesting rather than flat
+        trend = 1 + 0.005 * month_offset
 
         monthly_records.append({
             'property_id'         : prop['property_id'],
             'month'               : dt.strftime('%Y-%m'),
-            'noi_monthly'         : round(prop['noi_annual'] / 12 * seasonality * noise, 0),
-            'occupancy'           : round(min(0.99, prop['occupancy_rate'] * noise), 3),
-            'revenue'             : round(prop['noi_annual'] / 12 / 0.62 * noise, 0),
+            'month_date'          : dt.strftime('%Y-%m-%d'),
+            'noi_monthly'         : round(prop['noi_annual'] / 12 * seasonality * noise * trend, 0),
+            'occupancy'           : round(min(0.99, prop['occupancy_rate'] * seasonality * noise), 3),
+            'revenue'             : round(prop['noi_annual'] / 12 / 0.62 * noise * trend, 0),
             'opex'                : round(prop['noi_annual'] / 12 / 0.62 * 0.38 * noise, 0),
             'debt_service_monthly': round(prop['annual_debt_service'] / 12, 0),
         })
@@ -111,6 +121,9 @@ for _, prop in df.iterrows():  # loops through each of the 50 properties
 monthly_df = pd.DataFrame(monthly_records)
 monthly_df.to_csv('data/raw/monthly_financials.csv', index=False)
 print(f"✓ Created monthly_financials.csv — {len(monthly_df)} rows")
+print(f"  Date range: {monthly_df['month'].min()} to {monthly_df['month'].max()}")
+print(f"  Sample NOI trend for PROP-001:")
+print(monthly_df[monthly_df['property_id']=='PROP-001'][['month','noi_monthly']].head(12).to_string(index=False))
 
 # ── Scenario overlay table ──────────────────────────────────────
 # 3 scenarios × 50 properties = 150 rows
